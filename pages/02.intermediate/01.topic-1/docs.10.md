@@ -1,5 +1,5 @@
 ---
-title: 'Topic 1'
+title: 'TP-Link HS100 y HS110'
 taxonomy:
     category:
         - docs
