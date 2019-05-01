@@ -1,6 +1,6 @@
 ---
 title: 'Google Home'
-media_order: 'home1.png,home2.png'
+media_order: 'home1.png,home2.png,Rutinas1..png,Rutinas2..png'
 taxonomy:
     category:
         - docs
@@ -14,7 +14,10 @@ Iphone: [Google Home Iphone](https://itunes.apple.com/es/app/google-home/id68081
 El assitente de Google puede ayudarte en tareas como: Temporizador, google maps, noticias, Alarmas:
 ![](home1.png)![](home2.png)
 
+Pero si integras los dispositivos domoticos con las aplicaciones de los componentes puedes crear rutinas y/o escenas para crear ambientes o simplemente acciones que se ejecutan con las frases predefinidas por ti
+![](Rutinas1..png)![](Rutinas2..png)
+
+Ve al apartado Crear Rutinas Google Home para ver como se realizan.
 
 
-Home Mini es una altavoz inteligente con el Asistente de Google integrado que siempre está lista para ayudarte.
 
