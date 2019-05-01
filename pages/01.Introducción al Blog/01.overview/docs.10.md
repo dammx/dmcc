@@ -1,5 +1,6 @@
 ---
 title: 'Home Assistant'
+media_order: Interface.png
 taxonomy:
     category:
         - docs
@@ -30,5 +31,5 @@ Gracias a esta característica puedes crear variables, aplicar transformaciones 
 
 Interfaz
 Su interfaz esta basada en Material Design y cuenta con varias características interesantes como el soporte a WebSockets que permite al sistema reaccionar en tiempo real. Esto permite mostrar los valores de los sensores en cada momento sin necesidad de recargar la página.
-
+![](Interface.png)
 Podemos decir en resumen que su interfaz es simple, clara y moderna, perfectamente adaptable a cualquier dispositivo.
