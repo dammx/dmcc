@@ -13,6 +13,8 @@ Lo que hacemos con este software es centralizar el control de todos estos aparat
 
 Todo este sistema se puede gestionar de forma totalmente modular, pudiendo organizar a nuestro gusto todos los dispositivos de manera que podamos encontrarlos rápidamente cuando lo necesitemos y no tener que buscarlos dentro de una caótica interfaz como ocurre con otras plataformas similares.
 
+![Interface Home Assistant](s3://domitizarmicasa/Interface.png)
+
 Home Assistant se integra con distintor servicios
 Home Assistant se encargará de controlar automáticamente el estado de todos los dispositivos inteligentes además de darnos la posibilidad de usar aplicaciones como IFTTT para crear recetas, Plex, Kodi o Arduino. Además, se puede integrar con una gran variedad de APIs como HUE, Nest, WeMo y incluso dispositivos Xiaomi.
 
