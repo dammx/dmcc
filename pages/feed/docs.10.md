@@ -1,8 +1,12 @@
 ---
+published: false
+taxonomy:
+    category:
+        - docs
 visible: false
 content:
     items:
-        '@taxonomy.category': 'docs'
+        '@taxonomy.category': docs
     order:
         by: date
         dir: desc
