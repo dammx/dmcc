@@ -12,10 +12,14 @@ La ventaja de instalar en Windows, para los que no somos programadores, es que t
 Empezaremos por instalar Python 3 en Windows, lo podremos hacer desde este enlace: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
 
 Abriremos una consola de comandos cmd:
+
 py -m pip install homeassistant
+
 py -m homeassistant —-open-ui
 
+
 Al final de la instalación, ya podremos entrar en Home Assistant a través del navegador con una direccion URL: [http://localhost:8123](http://localhost:8123)
+
 Nos pedirá que creemos un usuario con contraseña y estaremos dentro de la configuración de Home Assistant.
 
 
