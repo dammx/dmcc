@@ -1,7 +1,10 @@
 ---
-title: Topic 2
+title: 'Topic 2'
+published: false
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 Lorem *markdownum saxum et* telum revellere in victus vultus cogamque ut quoque
