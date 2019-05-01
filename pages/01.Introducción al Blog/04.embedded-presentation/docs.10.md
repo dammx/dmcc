@@ -1,7 +1,10 @@
 ---
-title: Embedded Presentation
+title: 'Embedded Presentation'
+published: false
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 Example Embedded Presentation  
