@@ -1,5 +1,6 @@
 ---
 title: 'Instalación en Windows'
+media_order: Interface.png
 taxonomy:
     category:
         - docs
@@ -19,6 +20,8 @@ py -m homeassistant —-open-ui
 
 
 Al final de la instalación, ya podremos entrar en Home Assistant a través del navegador con una direccion URL:  [http://localhost:8123](http://localhost:8123)
+
+![Interface Home Assistant](Interface.png)
 
 Nos pedirá que creemos un usuario con contraseña y estaremos dentro de la configuración de Home Assistant.
 
