@@ -1,7 +1,9 @@
 ---
-title: Requirements
+title: 'Google Home'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 Lorem markdownum pius. Missa ultra adhuc ait reverti ubi soporem, **tibi iam**,
