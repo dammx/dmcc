@@ -5,9 +5,7 @@ taxonomy:
 child_type: docs
 ---
 
-
-
-# Introduccion al Blog
+## Introduccion al Blog
 
 Hemos diseñado este blog con la intencion de dar unas instrucciones sencillas
 para integrar distintos dispositivos domoticos en una plataforma de domótica
