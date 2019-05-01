@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-Your page coProgramar una rutina personalizada
+## Programar una rutina personalizada ##
 Puedes programar rutinas personalizadas para que se inicien automáticamente en un altavoz inteligente. Solo tienes que definir el día y la hora que quieras.
 
 Abre la aplicación Google Home aplicación Google Home.
