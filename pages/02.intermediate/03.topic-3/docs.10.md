@@ -1,7 +1,10 @@
 ---
-title: Topic 3
+title: 'Topic 3'
+published: false
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 Lorem markdownum in maior in corpore ingeniis: causa clivo est. Rogata Veneri
