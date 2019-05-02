@@ -12,6 +12,8 @@ Te presentamos algunas de las mejores regletas Wifi del mercado. Controla todos 
 Aunque de momento no son muchos los fabricantes que se han lanzado a la fabricación de regletas Wifi, desde Regleta Eléctrica estamos seguros de que esta nueva forma de controlar la corriente eléctrica de tu casa va a ganar en adeptos en los próximos años.
 
 <a href="http://s.click.aliexpress.com/e/DydqHTa" target="_parent"><img src="//ae01.alicdn.com/kf/HTB1RYBHdTZmx1VjSZFGq6yx2XXaD/-font-b-WiFi-b-font-font-b-Smart-b-font-font-b-Power-b-font.jpg_220x220.jpg"/><span style="display:block;">WiFi Smart Power EU Plug 16A Alexa Google Smart Life</span></a>
+
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=domotizarmica-21&m=amazon&o=30&p=8&l=as1&IS1=1&asins=B07N8W2D7G&linkId=e142f63e277a4527209bd2603d0c47a5&bc1=000000&lt1=_blank&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr">
     </iframe>
 
