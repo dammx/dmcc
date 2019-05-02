@@ -13,7 +13,12 @@ Aunque de momento no son muchos los fabricantes que se han lanzado a la fabricac
 
 <a href="http://s.click.aliexpress.com/e/DydqHTa" target="_parent"><img src="//ae01.alicdn.com/kf/HTB1RYBHdTZmx1VjSZFGq6yx2XXaD/-font-b-WiFi-b-font-font-b-Smart-b-font-font-b-Power-b-font.jpg_220x220.jpg"/><span style="display:block;">WiFi Smart Power EU Plug 16A Alexa Google Smart Life</span></a>
 
+
+
 <a target="_blank" href="https://www.amazon.es/gp/product/B07N8W2D7G/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B07N8W2D7G&linkCode=as2&tag=domotizarmica-21&linkId=16cf1b87d8130c591e5e8c3ea9103e14">VGROUND Enchufe Múltiple Inteligente, Regleta Enchufes WiFi con APP Remota Control por Voz Temporizador Programador con 4 Tomas 4 USB, Compatible con Alexa y Google Home y IFTTT</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=domotizarmica-21&l=am2&o=30&a=B07N8W2D7G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+
 
 ## **Características Básicas** ##
 Una de las particularidades más importantes de las regletas con Wifi es el **control Wireless**. Te contamos algunas más.
