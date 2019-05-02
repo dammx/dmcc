@@ -1,6 +1,6 @@
 ---
 title: 'Regletas Wifi'
-published: false
+published: true
 taxonomy:
     category:
         - docs
