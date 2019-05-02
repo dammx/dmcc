@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-## nMap (Rastreador dispositivos conectado a la red) ##
+### nMap (Rastreador dispositivos conectado a la red) ###
 
 Nmap ("Network Mapper") es una herramienta de código abierto para la exploración de redes y la auditoría de seguridad. Fue diseñado para escanear rápidamente redes grandes, aunque funciona bien contra hosts individuales. Nmap utiliza paquetes de IP sin procesar en formas novedosas para determinar qué hosts están disponibles en la red, qué servicios (nombre y versión de la aplicación) ofrecen esos hosts,
 qué sistemas operativos (y versiones de sistema operativo) están ejecutando, qué tipo de filtros de paquetes / cortafuegos están en uso, y docenas de otras características. Si bien Nmap se usa comúnmente para auditorías de seguridad, muchos administradores de sistemas y redes lo encuentran útil para tareas rutinarias como el inventario de redes, la administración de programas de actualización de servicios,
