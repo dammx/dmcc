@@ -14,8 +14,6 @@ TP-Link cuenta con dos modelos con WiFi, el HS100 y el HS110. Ambos cuentan con 
 ![](Screenshot_1.png)
 Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. El HS100 vale 19,99 euros, y el HS110 vale 27,99 euros. Ambos funcionan por WiFi de 2,4 GHz, se pueden controlar desde fuera de casa, y tienen garantía de 3 años.
 
-Amazon: [TP-Link HS100 19,99€](https://amzn.to/2Lj7sHB) __ [TP-Link HS110  27.99€](https://amzn.to/2LjHwve) 
-
 [ui-accordion independent=true open=all]
 
 [ui-accordion-item title="TP-Link HS100 | » ±20.00€"]
