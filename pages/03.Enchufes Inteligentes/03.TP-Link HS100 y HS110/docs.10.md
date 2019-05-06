@@ -49,7 +49,7 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 
 [ui-tab title="Integración ..."]
 
-La **Integración en Google Home** es muy secilla. tienes que añadir la cuenta que creas de la aplicacion del disposivo en la configuracion de añadir dispositivos de Google Home:
+La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo en la configuracion de añadir dispositivos de Google Home:
 ![](integracion_google_home.gif)
 
 
