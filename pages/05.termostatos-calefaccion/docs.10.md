@@ -1,7 +1,8 @@
 ---
 title: 'Termostatos Wifi'
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ## Termostatos Wifi
