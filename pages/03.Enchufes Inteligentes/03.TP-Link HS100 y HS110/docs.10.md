@@ -54,7 +54,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 **Para Integrarlo en Home Assitant:**
 
 
-+ Ejemplo configuration.yaml entradas con IP's específicas
++ Ejemplo `configuration.yaml` entradas con IP's específicas
 
 ```text
 tplink:
