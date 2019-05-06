@@ -28,6 +28,8 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 | <p>[**TP-Link HS110 - TP-Link HS110 - Enchufe inteligente inalámbri-<br/>co con monitorización de energía desde cualquier lugar ...**](https://amzn.to/2Lj7sHB)</p><p>**- Monitorización de energía**: Analiza el consumo de potencia a<br />tiempo real e histórico de un dispositivo.<br/>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>**Kasa** en tu smartphone.<br/>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | ![200x200][amzn-TPL-HS110] [![buy-mzn!][buy-mzn]](https://amzn.to/2LjHwve)</p> |
 [/ui-accordion-item]
 
+---
+
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
