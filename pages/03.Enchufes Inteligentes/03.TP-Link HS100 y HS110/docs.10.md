@@ -47,7 +47,7 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 
 [/ui-tab]
 
-[ui-tab title="Tour guiado ..."]
+[ui-tab title="Integración ..."]
 
 In tempor sed sapien **eu porttitor**. Aliquam cursus facilisis ante. Etiam neque nunc, blandit vel lacus et, faucibus accumsan lacus. Proin posuere varius purus quis faucibus. [Quisque et enim](#) vitae orci placerat tincidunt id ac eros. Fusce et gravida libero. 
 
