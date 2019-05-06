@@ -16,7 +16,7 @@ Todo este sistema se puede gestionar de forma totalmente modular, pudiendo organ
 
 
 
-Home Assistant se integra con distintor servicios
+Home Assistant se integra con distintos servicios
 Home Assistant se encargará de controlar automáticamente el estado de todos los dispositivos inteligentes además de darnos la posibilidad de usar aplicaciones como IFTTT para crear recetas, Plex, Kodi o Arduino. Además, se puede integrar con una gran variedad de APIs como HUE, Nest, WeMo y incluso dispositivos Xiaomi.
 
 Automatización
