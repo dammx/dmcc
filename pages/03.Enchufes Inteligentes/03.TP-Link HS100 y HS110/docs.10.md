@@ -21,7 +21,7 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 
 ---
 
-[ui-accordion independent=true open=all]
+[ui-accordion independent=true open=none]
 
 [ui-accordion-item title="TP-Link HS100 | » ±20.00€"]
 |  |  |
