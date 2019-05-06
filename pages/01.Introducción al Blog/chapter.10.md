@@ -6,11 +6,11 @@ taxonomy:
 child_type: docs
 ---
 
-### Introducción al Blog ###
+### Introducción al Blog
 Hemos diseñado este blog con la intención de dar unas instrucciones sencillas
 para integrar distintos dispositivos domóticos en una plataforma de domótica
 de código abierto que se ejecuta en Python 3.
-### Home Assistant ###
+### Home Assistant
 ![Home Assistant](home-assistant.png)
 También te da la posibilidad de rastrear y controlar todos los dispositivos
 del hogar y automatizar su control. 
