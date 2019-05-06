@@ -56,6 +56,7 @@ Para Integrarlo en Home Assitant:
 ```
 # Ejemplo configuration.yaml entradas con Ip específicas
 tplink:
+
   discovery: false
   light:
     - host: 192.168.200.1
