@@ -1,9 +1,10 @@
 ---
-title: 'Enchufes Inteligentes'
+title: 'Enchufes ...'
 taxonomy:
     category:
         - docs
 child_type: docs
+visible: true
 ---
 
 ## Enchufes Inteligentes
