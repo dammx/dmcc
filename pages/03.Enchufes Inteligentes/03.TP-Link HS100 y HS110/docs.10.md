@@ -17,7 +17,7 @@ Amazon: [TP-Link HS100 19,99€](https://amzn.to/2Lj7sHB) __ [TP-Link HS110  27.
 
 |  |  |
 |-------------|-------------|
-| [TP-Link HS100 - Enchufe inteligente para controlar sus dispositivos<br/> desde cualquier lugar, sin necesidad de concentrador ...](https://amzn.to/2Lj7sHB)<br/><br/>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>Kasa en tu smartphone.<br>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: Encender la luz al <br/>anochecer o apagarla al amanecer ... | ![200x200][amzn-TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB) |
+| <div align="justify">[TP-Link HS100 - Enchufe inteligente para controlar sus dispositivos<br/> desde cualquier lugar, sin necesidad de concentrador ...](https://amzn.to/2Lj7sHB)<br/><br/>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>Kasa en tu smartphone.<br>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: Encender la luz al <br/>anochecer o apagarla al amanecer ... | ![200x200][amzn-TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB)</div> |
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
