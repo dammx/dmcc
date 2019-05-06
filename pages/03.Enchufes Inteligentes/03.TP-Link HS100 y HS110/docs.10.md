@@ -26,23 +26,22 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 [ui-accordion-item title="TP-Link HS100 | » 19,90€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**TP-Link HS100 - Enchufe inteligente para controlar sus disposi-<br />tivos desde cualquier lugar, sin necesidad de concentrador ...**](https://amzn.to/2Lj7sHB)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app. gratuíta<br/>**[Kasa](https://play.google.com/store/apps/details?id=com.tplink.kasa_android&hl=es)** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | ![200x200][amzn-TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB)</p> |
+| <p>[**TP-Link HS100 - Enchufe inteligente para controlar sus disposi-<br />tivos desde cualquier lugar, sin necesidad de concentrador ...**](https://amzn.to/2Lj7sHB)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>**Kasa** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | ![200x200][amzn-TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB)</p> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="TP-Link HS110 | » 27.99€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**TP-Link HS100 - Enchufe inteligente para controlar sus disposi-<br />tivos desde cualquier lugar, sin necesidad de concentrador ...**](https://amzn.to/2Lj7sHB)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app. gratuíta<br/>**[Kasa](https://play.google.com/store/apps/details?id=com.tplink.kasa_android&hl=es)** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | ![200x200][amzn-TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB) |
+| <p>[**TP-Link HS100 - Enchufe inteligente para controlar sus disposi-<br />tivos desde cualquier lugar, sin necesidad de concentrador ...**](https://amzn.to/2Lj7sHB)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>**Kasa** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | ![200x200][amzn-TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB)</p> |
 [/ui-accordion-item]
 
 [/ui-accordion]
 
-<!--- REFERENCIA A IMAGENES AL PIE DEL ARTÍCULO --->
+<!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-TPL-HS100]: user://pages/03.Enchufes+Inteligentes/03.TP-Link+HS100+y+HS110/tp-link-hs-100.png?lightbox=1024&cropResize=200,200
 [amzn-TPL-HS110]: user://pages/03.Enchufes+Inteligentes/03.TP-Link+HS100+y+HS110/tp-link-hs-110.png?lightbox=1024&cropResize=200,200
-[buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
-[buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
+[buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 
 ---
 
@@ -52,10 +51,10 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 
 La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo en la configuracion de añadir dispositivos de Google Home:
 ![](integracion_google_home.gif)
-
 **Para Integrarlo en Home Assitant**
 
-+ Ejemplo de `configuration.yaml` de entradas con IP's específicas:
+
++ Ejemplo `configuration.yaml` entradas con IP's específicas:
 
 ```text
 tplink:
