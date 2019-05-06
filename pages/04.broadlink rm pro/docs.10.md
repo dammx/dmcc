@@ -5,9 +5,10 @@ published: true
 taxonomy:
     category:
         - docs
+visible: true
 ---
 
-### Broadlink RM pro WIFI + IR + Control Remoto RF
+#### Broadlink RM pro WIFI + IR + Control Remoto RF
 
 * ¿Cansado de que todo tu mundo dependa de numerosos mandos a distancia? Si miras a tu alrededor posiblemente encuentres numerosos electrodomésticos en tu hogar, tienen uno, lo cual no hace más que complicar las cosas.
 
