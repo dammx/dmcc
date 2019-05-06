@@ -6,7 +6,7 @@ taxonomy:
     category: docs
 ---
 
-## Broadlink RM pro WIFI + IR + Control Remoto RF
+### Broadlink RM pro WIFI + IR + Control Remoto RF
 
 * ¿Cansado de que todo tu mundo dependa de numerosos mandos a distancia? Si miras a tu alrededor posiblemente encuentres numerosos electrodomésticos en tu hogar, tienen uno, lo cual no hace más que complicar las cosas. Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispositivo nuevo que ha venido a facilitarte la vida. Y es una novedad asombrosa que ya puedes comprar en Amazon o Aliexpress.
 
