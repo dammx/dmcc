@@ -15,7 +15,7 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 
 Amazon: [TP-Link HS100 19,99€](https://amzn.to/2Lj7sHB) __ [TP-Link HS110  27.99€](https://amzn.to/2LjHwve) 
 
-!! Lorem ipsum dolor sit amet, **consectetur adipiscing** elit.
+! Lorem ipsum dolor sit amet, **consectetur adipiscing** elit.
 
 |  |  |
 |-------------|-------------|
