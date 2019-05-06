@@ -1,6 +1,6 @@
 ---
 title: 'TP-Link HS100 y HS110'
-media_order: 'Screenshot_1.png,tp-link-hs-100.png,tp-link-hs-110.png'
+media_order: 'Screenshot_1.png,tp-link-hs-100.png,tp-link-hs-110.png,integracion_google_home.gif'
 taxonomy:
     category:
         - docs
@@ -49,7 +49,8 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 
 [ui-tab title="Integración ..."]
 
-In tempor sed sapien **eu porttitor**. Aliquam cursus facilisis ante. Etiam neque nunc, blandit vel lacus et, faucibus accumsan lacus. Proin posuere varius purus quis faucibus. [Quisque et enim](#) vitae orci placerat tincidunt id ac eros. Fusce et gravida libero. 
+La Integración en Google Home es muy secilla. tienes que añadir la cuenta que creas de la aplicacion del disposivo en la configuracion de añadir dispositivos de Google Home:
+![](integracion_google_home.gif)
 
 Phasellus cursus odio ex, in mattis lorem tincidunt vel. [Donec nibh odio](#), dapibus non ligula a, semper ornare massa. Nulla consectetur eu nunc sed ultrices. Integer at turpis dolor.
 
