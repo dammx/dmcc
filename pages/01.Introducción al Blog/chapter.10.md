@@ -17,6 +17,4 @@ También te da la posibilidad de rastrear y controlar todos los dispositivos del
 
 ![Home Assistant](home-assistant.png)
 
-Aunque se utiliza codigo para integrar los elementos, intentaremos dar las instrucciones necesarias para cada tipo y modelo.
-
-Asi mismo, se daran las instrucciones necesarias para integrarlos en elaAsistente de Google Home y creación de las rutinas para su manejo por voz. 
+Aunque se utiliza código para integrar los elementos, intentaremos dar las instrucciones necesarias para cada tipo y modelo, así como, para integrarlos en el asistente de _Google Home_ y creación de las rutinas para su manejo por voz. 
