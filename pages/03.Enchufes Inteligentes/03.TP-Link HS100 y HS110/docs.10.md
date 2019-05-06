@@ -10,6 +10,9 @@ process:
 visible: true
 ---
 
+[ui-tabs position="top-left" active="0" theme="lite"]
+[ui-tab title="Descripción ..."]
+
 TP-Link cuenta con dos modelos con WiFi, el HS100 y el HS110. Ambos cuentan con las mismas funciones de control mediante la aplicación, programación, modo de simulación de que hay gente en casa, etc. Sin embargo, el HS110 también mide el consumo energético de los aparatos que le conectamos, y saca resúmenes semanas y mensuales. Podemos controlarlo con la voz con Google Home
 ![](Screenshot_1.png)
 Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. El HS100 vale 19,99 euros, y el HS110 vale 27,99 euros. Ambos funcionan por WiFi de 2,4 GHz, se pueden controlar desde fuera de casa, y tienen garantía de 3 años.
@@ -39,3 +42,15 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Buy+from+AMAZON!&f=Roboto-Bold&ts=20&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 
 ---
+
+[/ui-tab]
+
+[ui-tab title="Tour guiado ..."]
+
+In tempor sed sapien **eu porttitor**. Aliquam cursus facilisis ante. Etiam neque nunc, blandit vel lacus et, faucibus accumsan lacus. Proin posuere varius purus quis faucibus. [Quisque et enim](#) vitae orci placerat tincidunt id ac eros. Fusce et gravida libero. 
+
+Phasellus cursus odio ex, in mattis lorem tincidunt vel. [Donec nibh odio](#), dapibus non ligula a, semper ornare massa. Nulla consectetur eu nunc sed ultrices. Integer at turpis dolor.
+
+[/ui-tab]
+
+[/ui-tabs]
