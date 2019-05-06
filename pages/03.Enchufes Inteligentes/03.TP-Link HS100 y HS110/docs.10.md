@@ -10,6 +10,8 @@ process:
 visible: true
 ---
 
+![win10](image://windows10.png]
+
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
