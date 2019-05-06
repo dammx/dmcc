@@ -21,7 +21,7 @@ Amazon: [TP-Link HS100 19,99€](https://amzn.to/2Lj7sHB) __ [TP-Link HS110  27.
 [ui-accordion-item title="TP-Link HS100 | » ±20.00€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**TP-Link HS100 - Enchufe inteligente para controlar sus disposi-<br />tivos desde cualquier lugar, sin necesidad de concentrador ...**](https://amzn.to/2Lj7sHB)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>**Kasa** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | !!![200x200](HS100.png)[amzn-TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB)</p> |
+| <p>[**TP-Link HS100 - Enchufe inteligente para controlar sus disposi-<br />tivos desde cualquier lugar, sin necesidad de concentrador ...**](https://amzn.to/2Lj7sHB)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>**Kasa** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | !!![200x200](HS100.png)[TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB)</p> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="TP-Link HS110 | » ±30.00€"]
@@ -39,4 +39,4 @@ Amazon: [TP-Link HS100 19,99€](https://amzn.to/2Lj7sHB) __ [TP-Link HS110  27.
 
 [amzn-TPL-HS110]: https://dummyimage.com/200x200/474/fff.png&text=200x200
 [amzn-btn-lnk]: https://images-na.ssl-images-amazon.com/images/G/01/associates/remote-buy-box/buy1.gif "TP-Link-HS100"
-[buy-mzn]: https://dabuttonfactory.com/button.png?t=Buy+from+AMAZON!&f=Roboto-Bold&ts=20&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
+[buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=20&tc=fff&w=210&h=40&c=5&bgt=unicolored&bgc=037ba2
