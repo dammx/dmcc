@@ -10,7 +10,7 @@ process:
 visible: true
 ---
 
-![win10](user://images/windows10.png)
+![win10](image://windows10.png)
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
