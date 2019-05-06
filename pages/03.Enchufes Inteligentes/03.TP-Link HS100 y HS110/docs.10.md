@@ -53,6 +53,21 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 ![](integracion_google_home.gif)
 Para Integrarlo en Home Assitant:
 
+```
+# Ejemplo configuration.yaml entradas con Ip específicas
+tplink:
+  discovery: false
+  light:
+    - host: 192.168.200.1
+    - host: 192.168.200.2
+  switch:
+    - host: 192.168.200.3
+    - host: 192.168.200.4
+
+```
+
+  
+
 
 
 
