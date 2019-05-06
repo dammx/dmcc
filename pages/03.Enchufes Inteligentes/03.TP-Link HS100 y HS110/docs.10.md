@@ -1,6 +1,6 @@
 ---
 title: 'TP-Link HS100 y HS110'
-media_order: 'Screenshot_1.png,HS100.png'
+media_order: 'Screenshot_1.png,tp-link-hs-100.png,tp-link-hs-110.png'
 taxonomy:
     category:
         - docs
