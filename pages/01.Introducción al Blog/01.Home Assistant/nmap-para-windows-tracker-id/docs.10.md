@@ -11,6 +11,8 @@ visible: true
 
 **Instalando este rastreador de dispositivos en un sistema conectado a nuestra red, podremos crear automatizaciones en Home Assistant basadas en nuestra presencia en nuestra casa.**
 
+Puedes descargarlo desde aqui: [nMap para Windows](https://nmap.org/dist/nmap-7.70-setup.exe)
+
 Nmap ("Network Mapper") es una herramienta de código abierto para la exploración de redes y la auditoría de seguridad. Fue diseñado para escanear rápidamente redes grandes, aunque funciona bien contra hosts individuales. Nmap utiliza paquetes de IP sin procesar en formas novedosas para determinar qué hosts están disponibles en la red, qué servicios (nombre y versión de la aplicación) ofrecen esos hosts,
 qué sistemas operativos (y versiones de sistema operativo) están ejecutando, qué tipo de filtros de paquetes / cortafuegos están en uso, y docenas de otras características. Si bien Nmap se usa comúnmente para auditorías de seguridad, muchos administradores de sistemas y redes lo encuentran útil para tareas rutinarias como el inventario de redes, la administración de programas de actualización de servicios,
 y monitoreando el tiempo de actividad del host o del servicio.
@@ -25,5 +27,5 @@ adivinanzas del sistema operativo, tipos de dispositivos y direcciones MAC.
 
 En el Ejemplo 15.1 se muestra una exploración típica de Nmap. Los únicos argumentos de Nmap utilizados en este ejemplo son -A, para habilitar la detección de versiones y sistemas operativos, escaneo de scripts y traceroute; -T4 para una ejecución más rápida; y luego el nombre de host.
 
-Pedes descargarlo desde aqui: [nMap para Windows](https://nmap.org/dist/nmap-7.70-setup.exe)
+
 
