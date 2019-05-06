@@ -1,5 +1,5 @@
 ---
-title: 'Broadlink RM pro WIFI + IR + Control Remoto RF'
+title: 'BroadlinkRM Pro WIFI + IR + Control Remoto RF'
 media_order: Broadlink.png
 published: true
 taxonomy:
