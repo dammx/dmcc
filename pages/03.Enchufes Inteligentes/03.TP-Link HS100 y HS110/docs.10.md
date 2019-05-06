@@ -55,8 +55,8 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 
 ```
 # Ejemplo configuration.yaml entradas con Ip específicas
-tplink:
 
+tplink:
   discovery: false
   light:
     - host: 192.168.200.1
