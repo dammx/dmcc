@@ -32,7 +32,7 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 [ui-accordion-item title="TP-Link HS110 | » 27.99€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**TP-Link HS100 - Enchufe inteligente para controlar sus disposi-<br />tivos desde cualquier lugar, sin necesidad de concentrador ...**](https://amzn.to/2Lj7sHB)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>**Kasa** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | ![200x200][amzn-TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB)</p> |
+| <p>[**TP-Link HS100 - Enchufe inteligente para controlar sus disposi-<br />tivos desde cualquier lugar, sin necesidad de concentrador ...**](https://amzn.to/2Lj7sHB)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>**Kasa** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | ![200x200][amzn-TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB) ![buy-aliex!][buy-aliex] |
 [/ui-accordion-item]
 
 [/ui-accordion]
@@ -42,6 +42,7 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 [amzn-TPL-HS100]: user://pages/03.Enchufes+Inteligentes/03.TP-Link+HS100+y+HS110/tp-link-hs-100.png?lightbox=1024&cropResize=200,200
 [amzn-TPL-HS110]: user://pages/03.Enchufes+Inteligentes/03.TP-Link+HS100+y+HS110/tp-link-hs-110.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
+[buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+AliExpress&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 
 ---
 
