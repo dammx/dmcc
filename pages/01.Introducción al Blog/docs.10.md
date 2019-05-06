@@ -2,7 +2,8 @@
 title: 'Introducción al Blog'
 media_order: home-assistant.png
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
