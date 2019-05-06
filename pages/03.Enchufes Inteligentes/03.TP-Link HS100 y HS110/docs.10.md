@@ -34,8 +34,8 @@ Para controlar ambos hay que descargar la aplicación Kasa para iOS y Android. E
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-TPL-HS100]: user://pages/03.Enchufes+Inteligentes/03.TP-Link+HS100+y+HS110/tp-link-hs-100.png?lightbox=1024&cropResize=200,200
-[amzn-TPL-HS110]: user://pages/03.Enchufes+Inteligentes/03.TP-Link+HS100+y+HS110/tp-link-hs-110.png?lightbox=1024&cropResize=200,200
+[amzn-TPL-HS100]: https://domotizarmicasa.s3-eu-west-1.amazonaws.com/imagenes/tp-link-hs-100.png?lightbox=1024&cropResize=200,200
+[amzn-TPL-HS110]: https://domotizarmicasa.s3-eu-west-1.amazonaws.com/imagenes/tp-link-hs-110.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Buy+from+AMAZON!&f=Roboto-Bold&ts=20&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 
 ---
