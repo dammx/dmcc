@@ -19,3 +19,9 @@ Amazon: [TP-Link HS100 19,99€](https://amzn.to/2Lj7sHB) __ [TP-Link HS110  27.
 |-------------|-------------|
 | ![200x200][amzn-TPL-HS100] | - **Acceso remoto**: Controla dispositivos conectados al Enchufe Inteligente<br /> donde tengas Internet, utilizando la app gratuita Kasa en tu smartphone.<br>- **Programación**: Programa el Enchufe Inteligente para que automáticamente<br />encienda o apague la alimentación de los electrodomésticos según sea<br />necesario: Encender la luz al anochecer o apagarla al amanecer ... |
 |  <span style="color:orange; font-size:2.4em;">**» ± 20.00€**</span> | **Visita Amazon [es] y aprovecha esta oferta! ...** [![TP-LinkHS100][amzn-btn-lnk]](https://amzn.to/2Lj7sHB) |
+
+<!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
+
+[mejor-oferta]: https://dabuttonfactory.com/button.png?t=Mejor+oferta!&f=Roboto-Bold&ts=24&tc=fff&w=200&h=50&c=5&bgt=unicolored&bgc=e4b101
+[amzn-TPL-HS100]: https://dummyimage.com/200x200/474/fff.png&text=200x200
+[amzn-btn-lnk]: https://images-na.ssl-images-amazon.com/images/G/01/associates/remote-buy-box/buy1.gif?classes=float-right "TP-Link-HS100"
