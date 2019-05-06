@@ -35,7 +35,7 @@ Amazon: [TP-Link HS100 19,99€](https://amzn.to/2Lj7sHB) __ [TP-Link HS110  27.
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [mejor-oferta]: https://dabuttonfactory.com/button.png?t=Mejor+oferta!&f=Roboto-Bold&ts=24&tc=fff&w=200&h=50&c=5&bgt=unicolored&bgc=e4b101?classes=float-left
-[amzn-TPL-HS100]: user://pages/03.Enchufes+Inteligentes/03.TP-Link+HS100+y+HS110/tp-link-hs-100.png
+[amzn-TPL-HS100]: user://pages/03.Enchufes+Inteligentes/03.TP-Link+HS100+y+HS110/tp-link-hs-100.png?lightbox=1024&cropResize=200,200
 
 [amzn-TPL-HS110]: https://dummyimage.com/200x200/474/fff.png&text=200x200
 [amzn-btn-lnk]: https://images-na.ssl-images-amazon.com/images/G/01/associates/remote-buy-box/buy1.gif "TP-Link-HS100"
