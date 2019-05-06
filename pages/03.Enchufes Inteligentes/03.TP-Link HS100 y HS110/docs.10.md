@@ -19,6 +19,9 @@ Amazon: [TP-Link HS100 19,99€](https://amzn.to/2Lj7sHB) __ [TP-Link HS110  27.
 |-------------|:-------------:|
 | - | - |
 
+![My Image](https://images-na.ssl-images-amazon.com/images/G/01/associates/remote-buy-box/buy1.gif?classes=float-left)
+
+
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [mejor-oferta]: https://dabuttonfactory.com/button.png?t=Mejor+oferta!&f=Roboto-Bold&ts=24&tc=fff&w=200&h=50&c=5&bgt=unicolored&bgc=e4b101
