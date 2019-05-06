@@ -17,7 +17,7 @@ Amazon: [TP-Link HS100 19,99€](https://amzn.to/2Lj7sHB) __ [TP-Link HS110  27.
 
 !!!! Lorem ipsum dolor sit amet, **consectetur adipiscing** elit.
 
-[ui-accordion independent=true open=1]
+[ui-accordion independent=true open=all]
 [ui-accordion-item title="TP-Link HS100"]
 |  |  |
 |:-------------|:-------------:|
