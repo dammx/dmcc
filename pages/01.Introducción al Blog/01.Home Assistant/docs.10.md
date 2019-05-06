@@ -7,7 +7,7 @@ taxonomy:
 visible: true
 ---
 
-Home Assistant es una plataforma de domótica de código abierto que se ejecuta en Python 3. También te da la posibilidad de rastrear y controlar todos los dispositivos del hogar y automatizar su control.
+Home Assistant es una plataforma de domótica de código abierto que se ejecuta en Python3. También te da la posibilidad de rastrear y controlar todos los dispositivos del hogar y automatizar su control.
 ![](Interface.png)
 Home Assistant se suele montar en un dispositivo como un Raspberry Pi, Orange Pi Zero o **Windows** **(la mejor opción de entrada para poder aprender y no tener que invertir en un nuevo dispositivo)**
 Lo que hacemos con este software es centralizar el control de todos estos aparatos para no tener que controlarlos de forma independiente.
