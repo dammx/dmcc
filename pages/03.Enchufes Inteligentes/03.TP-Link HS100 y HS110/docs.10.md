@@ -19,8 +19,6 @@ Amazon: [TP-Link HS100 19,99€](https://amzn.to/2Lj7sHB) __ [TP-Link HS110  27.
 |-------------|:-------------:|
 | - | ![My Image](https://images-na.ssl-images-amazon.com/images/G/01/associates/remote-buy-box/buy1.gif?classes=float-right) |
 
-![My Image](https://images-na.ssl-images-amazon.com/images/G/01/associates/remote-buy-box/buy1.gif?classes=float-left)
-
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
