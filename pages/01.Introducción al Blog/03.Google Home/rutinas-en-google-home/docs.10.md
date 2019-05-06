@@ -1,6 +1,6 @@
 ---
 title: 'Rutinas en Google Home'
-media_order: 'photo_2019-05-06_11-53-10.jpg,photo_2019-05-06_11-53-28.jpg,photo_2019-05-06_11-53-35.jpg,photo_2019-05-06_11-53-40.jpg'
+media_order: photo_2019-05-06_11-53-10.jpg
 taxonomy:
     category:
         - docs
@@ -15,7 +15,7 @@ En la esquina inferior derecha de la pantalla de inicio, toca Cuenta .
 Comprueba que la cuenta de Google que aparece sea la que está vinculada a Google Home.  Para cambiar de cuenta, toca el triángulo situado a la derecha del nombre de la cuenta.
 Toca Ajustes  y después pestaña Asistente y después Rutinas y después add_routine.
 En "Cuando..."
-![](photo_2019-05-06_11-53-40.jpg)![](photo_2019-05-06_11-53-35.jpg)![](photo_2019-05-06_11-53-28.jpg)![](photo_2019-05-06_11-53-10.jpg)
+![](photo_2019-05-06_11-53-10.jpg)![](photo_2019-05-06_11-53-10.jpg)
 
 Toca Añadir comandos y después plus y después introduce la frase que quieras decir para activar la rutina y después Back.
 
