@@ -1,6 +1,6 @@
 ---
 title: 'Regletas Wifi'
-media_order: 'iraza.png,Konesky.png'
+media_order: 'iraza.png,Konesky.png,integracion_google_home.gif'
 published: true
 taxonomy:
     category:
@@ -50,35 +50,36 @@ Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simul
 
 [ui-tab title="Integración ..."]
 
-La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera IHC,  en la configuración de añadir dispositivos de _Google Home_, en éste caso concreto la aplicación de _Android_ que a mí me funcionó correctamente es la que se descarga de su página oficial, la que se baja de _Google Play_ no me funcionó correctamente, aquí tenéis el enlace para descargarlo:
- * [**IHC android**](http://bit.ly/2VMG34J)
- * [**IHC Iphone**](https://apple.co/2H80XBN)
+La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera _Smart Life_ o _Tuya_,  en la configuración de añadir dispositivos de _Google Home_, aquí tenéis el enlace para descargarlo:
+ * [**Smart Life android**](http://bit.ly/2JnEUtN)
+ * [**Smart Life Iphone**](https://apple.co/2DVyRsK)
+ * [**Tuya Android](http://bit.ly/2ZYql5T)
+ * [**Tuya iphone](https://apple.co/2vIrNeD)
 ![](integracion_google_home.gif)
 
 **Para Integrarlo en Home Assitant**
+Solo necesitaras anadir a tu `configuration.yaml` los siguientes datos:
 
-Necesitaras la carpeta de `custom_components` con los archivos para los diferentes componentes, que puedes descargar de aquí: [smartir.zip](smartir.zip), la tienes que poner en el directorio de Home Assistant dentro la carpeta `custom_components`, si no la tienes debes crearla.
-![](smartir3.png)
-
-
-+ Ejemplo `configuration.yaml`:
++ Ejemplo  App Tuya `configuration.yaml`:
 
 ```text
 
-smartir:
+tuya:
+  username: dmunoz.info@gmail.com
+  password: abb40lsot
+  country_code: 34 
 
-switch:
-  - platform: broadlink
-    host: 192.168.1.25 _(Ip de tu Broadlink)_
-    mac: 78:0f:77:eb:4c:08 _(Mac de tu broadlink)_
+```
++ Ejemplo  App Smart Life `configuration.yaml`:
 
-media_player:
-  - platform: smartir
-    name: TV Samsumg
-    device_code: 1060
-    controller_send_service: switch.broadlink_send_packet_192_168_1_25
-    power_sensor: binary_sensor.tv_power
-
+```text
+​
+tuya:
+  username: nuestro@correo.es
+  password: contraseñaquepusimos
+  country_code: 34
+  platform: smart_life
+​
 ```
 ---
 
