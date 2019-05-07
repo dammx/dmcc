@@ -42,6 +42,12 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 | <p>[**Beok BOT-313 WiFi termostato se puede controlar<br /> por APP...**](https://amzn.to/2Jicz8e)</p><p>El **termostato WiFi** es **la nueva forma inteligente<br /> de controlar la temperatura en su hogar**<br /> y reducir fácilmente el costo <br />de calefacción de su caldera de gas.<br /> El termostato BOT313WIFI le permite sentirse<br /> cómodo sabiendo que la temperatura de su <br />hogar siempre será como le gusta.<br /> Es **fácil de instalar** y usar y se adapta <br />convenientemente a su estilo de vida.<br /> Puede programarlo según su horario, <br />o dejar que se adapte a su vida a<br /> medida que cambian los planes.<br /> Controle este termostato inteligente <br />desde cualquier lugar simplemente<br />usando su teléfono inteligente: <br />ayudando a mantener la vida simple, <br />mientras que asegura la máxima<br /> comodidad cuando está en casa<br /> y **ahorrando dinero en sus facturas<br /> de energía.**</p> | ![200x200][amzn-Beok] [![buy-mzn!][buy-mzn]](https://amzn.to/2Jicz8e)</p> |
 [/ui-accordion-item]
 
+[ui-accordion-item title="Floureon Termostato para caldera de gas | Amazon: 69,99€ "]
+|  |  |
+|:-------------|:-------------:|
+| <p>[**Floureon Termostato para caldera de gas con Wifi Termostato hidráulico con pantalla con retroiluminación LCD Control con App Compatible con Google Home, Color blanco...**](https://amzn.to/2Jicz8e)</p><p>El **termostato WiFi** es **la nueva forma inteligente<br /> de controlar la temperatura en su hogar**<br /> y reducir fácilmente el costo <br />de calefacción de su caldera de gas.<br /> El termostato Floureon le permite sentirse<br /> cómodo sabiendo que la temperatura de su <br />hogar siempre será como le gusta.<br /> Es **fácil de instalar** y usar y se adapta <br />convenientemente a su estilo de vida.<br /> Puede programarlo según su horario, <br />o dejar que se adapte a su vida a<br /> medida que cambian los planes.<br /> Controle este termostato inteligente <br />desde cualquier lugar simplemente<br />usando su teléfono inteligente: <br />ayudando a mantener la vida simple, <br />mientras que asegura la máxima<br /> comodidad cuando está en casa<br /> y **ahorrando dinero en sus facturas<br /> de energía.**</p> | ![200x200][amzn-Beok] [![buy-mzn!][buy-mzn]](https://amzn.to/2Jicz8e)</p> |
+[/ui-accordion-item]
+
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
