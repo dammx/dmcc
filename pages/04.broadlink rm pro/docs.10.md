@@ -26,7 +26,7 @@ Televisores, aires acondicionados, ventanas, reproductores de música y reproduc
 [ui-accordion-item title="Broadlink RM pro | »39,89€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**BroadLink RM Pro+ WiFi Smart Home Automatización Todo en uno<br /> Aprendizaje Controlador Remoto Universal<br /> Compatible para Dispositivos iOS/Android<br /> (EU Standard)** ...</p> | ![200x200][amzn-BL-RMPRO] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lskans)</p> |
+| <p>[**BroadLink RM Pro+ WiFi Smart Home Automatización Todo en uno<br /> Aprendizaje Controlador Remoto Universal<br /> Compatible para Dispositivos iOS/Android<br /> (EU Standard)** ...](https://amzn.to/2Lskans)</p><p> | ![200x200][amzn-BL-RMPRO] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lskans)</p> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Broadlink RM Mini3 | » 19.99€"]
