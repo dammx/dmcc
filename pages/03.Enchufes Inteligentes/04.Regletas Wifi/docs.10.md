@@ -23,7 +23,7 @@ Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simul
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title="Netatmo | Amazon » 164,95€ "]
+[ui-accordion-item title="Iraza Enchufe Múltiple Inteligente | Amazon » 29,99€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Iraza Enchufe Múltiple Inteligente...**](https://amzn.to/2J7yf7y)</p><p>Configuración simple y fácil de usar : Siga los pasos de instalación. Investigación y desarrollo independientes, fácil de operar. Y la conexión wifi es muy estable.Control de voz de Amazon Alexa, Google Assistant. Puede activar o desactivar las 3 tomas por separado o juntas y los 2 puertos USB a través de Echo o Google Home. NEST y Samsung Smart Things serán compatibles en breve.</p><p> | ![200x200][amzn-iraza][![buy-mzn!][buy-mzn]](https://amzn.to/2J7yf7y)</p> |
