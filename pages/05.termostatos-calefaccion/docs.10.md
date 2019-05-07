@@ -1,6 +1,6 @@
 ---
 title: 'Termostatos Wifi'
-media_order: 'netnamo.png,nest.png,Beok.png,mac.jpg,Floureon.png'
+media_order: 'netnamo.png,nest.png,Beok.png,mac.jpg,Floureon.png,decdeal.png'
 taxonomy:
     category:
         - docs
@@ -48,6 +48,14 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 | <p>[**Floureon Termostato para caldera de gas con<br /> Wifi Termostato hidráulico con pantalla<br /> con retroiluminación LCD Control<br /> con App Compatible con Google Home, <br />Color blanco...**](https://amzn.to/2Vl5Z7Z)</p><p>El **termostato WiFi** es **la nueva forma inteligente<br /> de controlar la temperatura en su hogar**<br /> y reducir fácilmente el costo <br />de calefacción de su caldera de gas.<br /> El termostato Floureon le permite sentirse<br /> cómodo sabiendo que la temperatura de su <br />hogar siempre será como le gusta.<br /> Es **fácil de instalar** y usar y se adapta <br />convenientemente a su estilo de vida.<br /> Puede programarlo según su horario, <br />o dejar que se adapte a su vida a<br /> medida que cambian los planes.<br /> Controle este termostato inteligente <br />desde cualquier lugar simplemente<br />usando su teléfono inteligente: <br />ayudando a mantener la vida simple, <br />mientras que asegura la máxima<br /> comodidad cuando está en casa<br /> y **ahorrando dinero en sus facturas<br /> de energía.**</p> | ![200x200][amzn-Floureon] [![buy-mzn!][buy-mzn]](https://amzn.to/2Vl5Z7Z)</p> |
 [/ui-accordion-item]
 
+[ui-accordion-item title="Decdeal 3A Termostato Calefacción por Agua | Amazon: 39,99€ "]
+|  |  |
+|:-------------|:-------------:|
+| <p>[**Decdeal 3A Termostato Programable de Calefacción por Agua,Control de Voz,con Pantalla LCD Controlador de Temperatura de Luz de Fondo Blanco...**](https://amzn.to/2DU5iIe)</p><p>El **termostato WiFi** es **la nueva forma inteligente<br /> de controlar la temperatura en su hogar**<br /> y reducir fácilmente el costo <br />de calefacción de su caldera de gas.<br /> El termostato Floureon le permite sentirse<br /> cómodo sabiendo que la temperatura de su <br />hogar siempre será como le gusta.<br /> Es **fácil de instalar** y usar y se adapta <br />convenientemente a su estilo de vida.<br /> Puede programarlo según su horario, <br />o dejar que se adapte a su vida a<br /> medida que cambian los planes.<br /> Controle este termostato inteligente <br />desde cualquier lugar simplemente<br />usando su teléfono inteligente: <br />ayudando a mantener la vida simple, <br />mientras que asegura la máxima<br /> comodidad cuando está en casa<br /> y **ahorrando dinero en sus facturas<br /> de energía.**</p> | ![200x200][amzn-Decdeal] [![buy-mzn!][buy-mzn]](https://amzn.to/2DU5iIe)</p> |
+[/ui-accordion-item]
+
+
+
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
@@ -56,6 +64,7 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 [amzn-Nest]: user://pages/05.termostatos-calefaccion/nest.png?lightbox=1024&cropResize=200,200
 [amzn-Beok]: user://pages/05.termostatos-calefaccion/Beok.png?lightbox=1024&cropResize=200,200
 [amzn-Floureon]: user://pages/05.termostatos-calefaccion/Floureon.png?lightbox=1024&cropResize=200,200
+[amzn-Decdeal]: user://pages/05.termostatos-calefaccion/decdeal.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
