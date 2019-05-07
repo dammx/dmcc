@@ -58,14 +58,20 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 + Ejemplo `configuration.yaml` entradas con IP's específicas:
 
 ```text
-tplink:
-  discovery: false
-  light:
-    - host: 192.168.200.1
-    - host: 192.168.200.2
-  switch:
-    - host: 192.168.200.3
-    - host: 192.168.200.4
+smartir:
+
+switch:
+  - platform: broadlink
+    host: 192.168.1.123
+    mac: 78:0f:77:eb:4c:08
+    
+media_player:
+  - platform: smartir
+    name: TV Samsumg
+    device_code: 1060
+    controller_send_service: switch.broadlink_send_packet_192_168_1_25
+    power_sensor: binary_sensor.tv_power
+    
 ```
 ---
 
