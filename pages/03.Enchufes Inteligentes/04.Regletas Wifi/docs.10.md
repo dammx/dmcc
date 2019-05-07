@@ -15,7 +15,7 @@ visible: true
 
 > Te presentamos algunas de las mejores regletas Wifi del mercado. Controla todos tus aparatos eléctricos desde tu dispositivo móvil de forma sencilla y eficiente.
 
-Aunque de momento no son muchos los fabricantes que se han lanzado a la fabricación de regletas Wifi, desde Regleta Eléctrica estamos seguros de que esta nueva forma de controlar la corriente eléctrica de tu casa va a ganar en adeptos en los próximos años.
+Aúnque de momento no son muchos los fabricantes que se han lanzado a la fabricación de regletas Wifi, desde Regleta Eléctrica estamos seguros de que esta nueva forma de controlar la corriente eléctrica de tu casa va a ganar en adeptos en los próximos años.
 
 Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simultáneas Posibilidad de ahorro en el consumo eléctrico Control individual de cada toma AC Comodidad para controlar dispositivos Opción de conexión con _Google Home_ o _Amazon Echo_. Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan sobrecargas, altas temperaturas y largas jornadas de trabajo como el resto de regletas de calidad.
 
