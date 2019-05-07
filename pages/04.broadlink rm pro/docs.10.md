@@ -50,8 +50,10 @@ Televisores, aires acondicionados, ventanas, reproductores de música y reproduc
 [ui-tab title="Integración ..."]
 
 La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo en la configuracion de añadir dispositivos de Google Home, en este caso concreto la palicacion que a mi me funciono correctamente el la que se descarga de su pagina oficial, la que se baja de Google Play no me funciono correctamente, aqui teneis el enlace a pagina para descargarla:
- * [**IHC android**](http://upgrade.broadlink.com.cn/soft/broadlink2/ihc.apk)
+ * [**IHC android**](http://bit.ly/2VMG34J)
+ * [**IHC Iphone**](https://apple.co/2H80XBN)
 ![](integracion_google_home.gif)
+
 **Para Integrarlo en Home Assitant**
 
 
