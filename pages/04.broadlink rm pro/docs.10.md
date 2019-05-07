@@ -60,7 +60,7 @@ Necesitaras la carpeta de ´custom_components´ con los archivos para de los com
 ![](smartir3.png)
 
 
-+ Ejemplo `configuration.yaml` entradas con IP's específicas:
++ Ejemplo `configuration.yaml`:
 
 ```text
 
