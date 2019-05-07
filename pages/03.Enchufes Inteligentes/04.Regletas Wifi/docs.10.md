@@ -1,6 +1,6 @@
 ---
 title: 'Regletas Wifi'
-media_order: iraza.png
+media_order: 'iraza.png,Konesky.png'
 published: true
 taxonomy:
     category:
@@ -23,16 +23,16 @@ Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simul
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title="Iraza Enchufe Múltiple Inteligente | Amazon: 28,66€ "]
+[ui-accordion-item title="Netatmo | Amazon » 164,95€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Iraza Enchufe Múltiple Inteligente...**](https://amzn.to/2J7yf7y)</p><p>Configuración simple y fácil de usar : Siga los pasos<br /> de instalación. Investigación y desarrollo <br />independientes, fácil de operar.<br /> Y la conexión wifi es muy estable.<br />Control de voz de Amazon Alexa, <br />Google Assistant. <br />Puede activar o desactivar las 3 tomas <br />por separado o juntas y los 2 puertos USB <br />a través de Echo o Google Home. <br />NEST y Samsung Smart Things serán <br />compatibles en breve.</p><p> | ![200x200][amzn-iraza][![buy-mzn!][buy-mzn]](https://amzn.to/2J7yf7y)</p> |
+| <p>[**Iraza Enchufe Múltiple Inteligente...**](https://amzn.to/2J7yf7y)</p><p>Configuración simple y fácil de usar : Siga los pasos de instalación. Investigación y desarrollo independientes, fácil de operar. Y la conexión wifi es muy estable.Control de voz de Amazon Alexa, Google Assistant. Puede activar o desactivar las 3 tomas por separado o juntas y los 2 puertos USB a través de Echo o Google Home. NEST y Samsung Smart Things serán compatibles en breve.</p><p> | ![200x200][amzn-iraza][![buy-mzn!][buy-mzn]](https://amzn.to/2J7yf7y)</p> |
 [/ui-accordion-item]
 
-[ui-accordion-item title="Nest Learning - Termostato Inteligente | Amazon: 249,00€ "]
+[ui-accordion-item title="Konesky Smart Power Strips | Amazon » 29.99 "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Nest Learning - Termostato Inteligente de 3 A Generación, Negro...**](https://amzn.to/2JsD7DA)</p><p>El Nest Learning thermostat de tercera generación es delgado, elegante y refinado. La Grande y claro pantalla y lectura a distancia te permiten ver temperatura, hora y predicción meteorológica incluso cuando te vayas de la otra parte de la habitación. El termostato Nest apprende la temperatura que desees para luego programmarsi de Sé. Conoce el tiempo necesario para calentar tu casa y te lafa cálida encontrar a tu llegada. Cuando vayas por se apaga, para permitirte ahorrar energía. De más, con la aplicación Nest, podrás cambiar la temperatura o controlar la historial de energía dondequiera que vayas.</p> | ![200x200][amzn-BL-RMMINI3] [![buy-mzn!][buy-mzn]](https://amzn.to/2JsD7DA)</p> |
+| <p>[**Konesky Smart Power Strips Wifi Protector contra sobretensiones con 4 salidas 4 puertos USB...**](https://amzn.to/2Valrih)</p><p>La regleta de alimentación inalámbrica Timmer es compatible con los puertos USB y USB, ahorra espacio y dinero, no necesita comprar muchos enchufes ni banco de energía, la regleta multifuncional le permite cargar muchos dispositivos al mismo tiempo. El control de voz de la toma de corriente inteligente wifi, puede controlar sus aplicaciones a través de los dispositivos Alexa / Google Home / IFTTT, conveniente y fácil de usar.</p> | ![200x200][amzn-Konesky][![buy-mzn!][buy-mzn]](https://https://amzn.to/2Valrih)</p> |
 [/ui-accordion-item]
 
 [/ui-accordion]
@@ -40,7 +40,7 @@ Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simul
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-iraza]: user://pages/03.Enchufes+Inteligentes/04.Regletas+Wifi/iraza.png?lightbox=1024&cropResize=200,200
-[amzn-Nest]: user://pages/05.termostatos-calefaccion/nest.png?lightbox=1024&cropResize=200,200
+[amzn-Konesky]: user://pages/03.Enchufes+Inteligentes/04.Regletas+Wifi/Konesky.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
