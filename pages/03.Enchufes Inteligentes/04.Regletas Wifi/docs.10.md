@@ -65,8 +65,8 @@ Solo necesitaras anadir a tu `configuration.yaml` los siguientes datos:
 ```text
 
 tuya:
-  username: dmunoz.info@gmail.com
-  password: abb40lsot
+  username: nuestro@correo.es
+  password: contraseñaquepusimos
   country_code: 34 
 
 ```
