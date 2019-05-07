@@ -23,7 +23,7 @@ Televisores, aires acondicionados, ventanas, reproductores de música y reproduc
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title="Broadlink RM pro | Amazon:39,89€  Aliexpress: 34,33€ "]
+[ui-accordion-item title="Broadlink RM pro | Amazon: 39,89€  Aliexpress: 34,33€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**BroadLink RM Pro+ WiFi Smart Home...**](https://amzn.to/2Lskans)</p><p>Automatización Todo en uno<br /> Aprendizaje Controlador Remoto Universal<br /> Compatible para Dispositivos iOS/Android<br /> (EU Standard)</p><p> | ![200x200][amzn-BL-RMPRO] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lskans)</p>[![buy-aliex][buy-aliex]](http://bit.ly/2PQfo1q)</p> | |
