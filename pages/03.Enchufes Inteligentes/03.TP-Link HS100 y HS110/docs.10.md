@@ -1,6 +1,9 @@
 ---
 title: 'TP-Link HS100 y HS110'
 media_order: 'Screenshot_1.png,tp-link-hs-100.png,tp-link-hs-110.png,integracion_google_home.gif'
+metadata:
+    key(enchufes_wifi): 'Valor(Blog,Grav)'
+    key(enchufes_tp-link): 'Valor(Blog,Grav)'
 taxonomy:
     category:
         - docs
