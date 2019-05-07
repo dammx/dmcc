@@ -1,6 +1,6 @@
 ---
 title: 'Regletas Wifi'
-media_order: 'iraza.png,Konesky.png,integracion_google_home.gif,Acuario.png'
+media_order: 'iraza.png,Konesky.png,integracion_google_home.gif,Acuario.png,ligthweight.png'
 published: true
 taxonomy:
     category:
@@ -39,12 +39,19 @@ Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simul
 | <p>[**Konesky Smart Power Strips Wifi<br /> Protector contra sobretensiones con <br />4 salidas 4 puertos USB...**](https://amzn.to/2Valrih)</p><p>La regleta de alimentación inalámbrica<br /> Timmer es compatible con los puertos USB,<br /> ahorra espacio y dinero, no necesita<br /> comprar muchos enchufes ni<br /> banco de energía, la regleta multifuncional <br />le permite cargar muchos dispositivos<br /> al mismo tiempo. <br />El control de voz de la toma<br /> de corriente inteligente wifi,<br /> puede controlar sus aplicaciones a través de<br /> los dispositivos<br /> Alexa / Google Home / IFTTT,<br /> conveniente y fácil de usar.</p> | ![200x200][amzn-Konesky][![buy-mzn!][buy-mzn]](https://amzn.to/2Valrih)</p> |
 [/ui-accordion-item]
 
+[ui-accordion-item title="Lightweight Smart Power Strips | Aliexpress » 24.85€ "]
+|  |  |
+|:-------------|:-------------:|
+| <p>[**Smart Wifi Plug Power Strip Protector contra sobretensiones Múltiples tomas de corriente 4 puertos USB Control de voz para Alexa de Amazon Echo y Google Home...**](https://amzn.to/2Valrih)</p><p>LSoporte para altavoz inteligente: Amazon alexa, Google Home, IFTTT. Control remoto del teléfono móvil: cuando el teléfono móvil y la toma de corriente están conectados a Internet, la toma móvil puede controlarse remotamente mediante la aplicación móvil. Cambio manual: el estado de conexión / desconexión del zócalo se puede lograr haciendo clic en el botón del zócalo. Función de tiempo: aplicación móvil con función de interruptor de control de tiempo.Actualización en línea: cuando salga una nueva versión de firmware, puede actualizarla en línea en la aplicación y disfrutar de más funciones.Intercambio inteligente: comparte tu dispositivo con más amigos.Control compartido: controle su hogar inteligente con su familia.</p> | ![200x200][amzn-Lightweight][![buy-aliex!][buy-aliex]](https://amzn.to/2Valrih)</p> |
+[/ui-accordion-item]
+
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-iraza]: user://pages/03.Enchufes+Inteligentes/04.Regletas+Wifi/iraza.png?lightbox=1024&cropResize=200,200
 [amzn-Konesky]: user://pages/03.Enchufes+Inteligentes/04.Regletas+Wifi/Konesky.png?lightbox=1024&cropResize=200,200
+[amzn-Lightweight]: user://pages/03.Enchufes+Inteligentes/04.Regletas+Wifi/ligthweight.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
