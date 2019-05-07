@@ -53,8 +53,8 @@ Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simul
 La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera _Smart Life_ o _Tuya_,  en la configuración de añadir dispositivos de _Google Home_, aquí tenéis el enlace para descargarlo:
  * [**Smart Life android**](http://bit.ly/2JnEUtN)
  * [**Smart Life Iphone**](https://apple.co/2DVyRsK)
- * [**Tuya Android](http://bit.ly/2ZYql5T)
- * [**Tuya iphone](https://apple.co/2vIrNeD)
+ * [**Tuya Android**](http://bit.ly/2ZYql5T)
+ * [**Tuya iphone**](https://apple.co/2vIrNeD)
 ![](integracion_google_home.gif)
 
 **Para Integrarlo en Home Assitant**
