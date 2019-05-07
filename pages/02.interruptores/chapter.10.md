@@ -1,5 +1,6 @@
 ---
 title: 'Interruptores Wifi'
+published: false
 metadata:
     Key(domotizar_mi_casa): 'Valor(blog,grav)'
     Key(domotizar): 'Valor(blog,grav)'
