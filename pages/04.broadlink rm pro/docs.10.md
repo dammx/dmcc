@@ -1,6 +1,6 @@
 ---
 title: 'BroadlinkRM Pro WIFI + IR + Control RemotoRF'
-media_order: 'Broadlink.png,rm_pro.png,rm_mini_3.png'
+media_order: 'Broadlink.png,rm_pro.png,rm_mini_3.png,integracion_google_home.gif'
 published: true
 taxonomy:
     category:
@@ -49,7 +49,7 @@ Televisores, aires acondicionados, ventanas, reproductores de música y reproduc
 
 [ui-tab title="Integración ..."]
 
-La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo en la configuracion de añadir dispositivos de Google Home, en este caso concreto la palicacion que a mi me funciono correctamente el la que se descarga de su pagina oficial, la que se baja de Google Play no me funciono correctamente, aqui teneis el enlace a pagina para descargarla:
+La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera IHC,  en la configuración de añadir dispositivos de _Google Home_, en éste caso concreto la aplicación de _Android_ que a mí me funcionó correctamente es la que se descarga de su página oficial, la que se baja de _Google Play_ no me funcionó correctamente, aquí tenéis el enlace para descargarlo:
  * [**IHC android**](http://bit.ly/2VMG34J)
  * [**IHC Iphone**](https://apple.co/2H80XBN)
 ![](integracion_google_home.gif)
@@ -64,8 +64,8 @@ smartir:
 
 switch:
   - platform: broadlink
-    host: 192.168.1.123
-    mac: 78:0f:77:eb:4c:08
+    host: 192.168.1.123 _(Ip de tu Broadlink)_
+    mac: 78:0f:77:eb:4c:08 _(Mac de tu broadlink)_
     
 media_player:
   - platform: smartir
