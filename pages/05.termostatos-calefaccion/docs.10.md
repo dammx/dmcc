@@ -1,6 +1,6 @@
 ---
 title: 'Termostatos Wifi'
-media_order: 'netnamo.png,nest.png'
+media_order: 'netnamo.png,nest.png,Beok.png'
 taxonomy:
     category:
         - docs
@@ -36,12 +36,19 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 | <p>[**Nest Learning - Termostato Inteligente de 3A, Negro...**](https://amzn.to/2JsD7DA)</p><p>El **Nest Learning thermostat** de tercera<br /> generación es delgado, elegante y refinado.<br /> La Grande y clara pantalla y lectura<br /> a distancia te permiten ver **temperatura,<br /> hora y predicción meteorológica** <br />incluso cuando te vayas de la otra parte <br />de la habitación. El termostato Nest<br /> aprende la temperatura que desees para<br /> luego programmarse.<br /> Conoce el tiempo necesario para calentar<br /> tu casa y te lafa cálida encontrar a tu llegada.<br /> Cuando te vayas se apagará, para <br />permitirte ahorrar energía. <br />De más, con la aplicación Nest,<br /> podrás cambiar la temperatura o controlar<br /> la historial de energía donde <br />quiera que vayas.</p> | ![200x200][amzn-Nest] [![buy-mzn!][buy-mzn]](https://amzn.to/2JsD7DA)</p> |
 [/ui-accordion-item]
 
+[ui-accordion-item title="Beok BOT-313 WiFi | Amazon: 38,99€ "]
+|  |  |
+|:-------------|:-------------:|
+| <p>[**Beok BOT-313 WiFi termostato se puede controlar por APP...**](https://amzn.to/2Jicz8e)</p><p>El termostato WiFi es la nueva forma inteligente de controlar la temperatura en su hogar y reducir fácilmente el costo de calefacción de su caldera de gas. El termostato BOT313WIFI le permite sentirse cómodo sabiendo que la temperatura de su hogar siempre será como le gusta. Es fácil de instalar y usar y se adapta convenientemente a su estilo de vida. Puede programarlo según su horario, o dejar que se adapte a su vida a medida que cambian los planes. Controle este termostato inteligente desde cualquier lugar simplemente usando su teléfono inteligente: ayudando a mantener la vida simple, mientras que asegura la máxima comodidad cuando está en casa y ahorrando dinero en sus facturas de energía.</p> | ![200x200][amzn-Beok] [![buy-mzn!][buy-mzn]](https://amzn.to/2Jicz8e)</p> |
+[/ui-accordion-item]
+
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-netnamo]: user://pages/05.termostatos-calefaccion/netnamo.png?lightbox=1024&cropResize=200,200
 [amzn-Nest]: user://pages/05.termostatos-calefaccion/nest.png?lightbox=1024&cropResize=200,200
+[amzn-Beok]: user://pages/05.termostatos-calefaccion/Beok.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
