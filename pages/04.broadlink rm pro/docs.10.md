@@ -56,7 +56,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 
 **Para Integrarlo en Home Assitant**
 
-Necesitaras la carpeta de ´custom_components´ con los archivos para de los compnentes que pudes descargar de aqui: [smartir.zip](smartir.zip), la tienes que poner en el directorio de Home Assistant dentro la carpeta ´custom_components´, si no la tienes debes crearla.
+Necesitaras la carpeta de ´custom_components´ con los archivos para de los compnentes que pudes descargar de aqui: [smartir.zip](smartir.zip), la tienes que poner en el directorio de Home Assistant dentro la carpeta `custom_components`, si no la tienes debes crearla.
 ![](smartir3.png)
 
 
