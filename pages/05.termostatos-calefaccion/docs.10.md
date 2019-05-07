@@ -24,31 +24,31 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title="Netatmo | Amazon: 164,95 "]
+[ui-accordion-item title="Netatmo | Amazon » 164,95€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Netatmo.Termostato Inteligente para caldera individual...**](https://amzn.to/2H27FcP)</p><p>Termostato Inteligente Netatmo te permite<br />**ahorrar una media de 37% de energÍa** para<br /> calentar tu casa. El ahorro se consigue gracias <br />a una programa de la calefacción adaptada <br />a tu ritmo de vida, al control<br /> fácil de la calefacción desde tu smartphone<br /> y a los consejos personalizados<br /> de tu Balance de Ahorro Energético.</p><p> | ![200x200][amzn-netnamo][![buy-mzn!][buy-mzn]](https://amzn.to/2H27FcP)</p> |
 [/ui-accordion-item]
 
-[ui-accordion-item title="Nest | Amazon: 249,00€ "]
+[ui-accordion-item title="Nest | Amazon » 249,00€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Nest Learning  -  Termostato Inteligente de 3A, Negro...**](https://amzn.to/2JsD7DA)</p><p>El **Nest Learning thermostat** de tercera<br /> generación es delgado, elegante y refinado.<br /> La Grande y clara pantalla y lectura<br /> a distancia te permiten ver **temperatura, hora y<br /> predicción meteorológica** <br />incluso cuando te vayas de la otra parte <br />de la habitación. El termostato Nest<br /> aprende la temperatura que desees para luego<br />  programarse.<br /> Conoce el tiempo necesario para calentar tu casa y te<br /> preparará para tú llegada.<br /> **Cuando te vayas se apagará, para <br />permitirte ahorrar energía**. <br />De más, con la aplicación Nest,<br /> podrás cambiar la temperatura o controlar<br /> la historial de energía donde <br />quiera que vayas.</p> | ![200x200][amzn-Nest] [![buy-mzn!][buy-mzn]](https://amzn.to/2JsD7DA)</p> |
 [/ui-accordion-item]
 
-[ui-accordion-item title="Beok BOT-313 WiFi | Amazon: 38,99€ "]
+[ui-accordion-item title="Beok BOT-313 WiFi | Amazon » 38,99€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Beok BOT-313 WiFi termostato se puede controlar por<br /> APP...**](https://amzn.to/2Jicz8e)</p><p>El **termostato WiFi** es **la nueva forma inteligente<br /> de controlar la temperatura en su hogar**<br /> y reducir fácilmente el costo <br />de calefacción de su caldera de gas.<br /> El termostato BOT313WIFI le permite sentirse<br /> cómodo sabiendo que la temperatura de su <br />hogar siempre será como le gusta.<br /> Es **fácil de instalar** y usar y se adapta <br />convenientemente a su estilo de vida.<br /> Puede programarlo según su horario, <br />o dejar que se adapte a su vida a<br /> medida que cambian los planes.<br /> Controle este termostato inteligente <br />desde cualquier lugar simplemente<br />usando su teléfono inteligente: <br />ayudando a mantener la vida simple, <br />mientras que asegura la máxima<br /> comodidad cuando está en casa<br /> y **ahorrando dinero en sus facturas<br /> de energía.**</p> | ![200x200][amzn-Beok] [![buy-mzn!][buy-mzn]](https://amzn.to/2Jicz8e)</p> |
 [/ui-accordion-item]
 
-[ui-accordion-item title="Floureon Termostato para caldera de gas | Amazon: 69,99€ "]
+[ui-accordion-item title="Floureon Termostato para caldera de gas | Amazon » 69,99€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Floureon Termostato para caldera de gas con Wifi<br /> Termostato hidráulico con pantalla<br /> con retroiluminación LCD Control<br /> con App Compatible con Google Home, <br />Color blanco...**](https://amzn.to/2Vl5Z7Z)</p><p>El **termostato WiFi** es **la nueva forma inteligente<br /> de controlar la temperatura en su hogar**<br /> y reducir fácilmente el costo <br />de calefacción de su caldera de gas.<br /> El termostato Floureon le permite sentirse<br /> cómodo sabiendo que la temperatura de su <br />hogar siempre será como le gusta.<br /> Es **fácil de instalar** y usar y se adapta <br />convenientemente a su estilo de vida.<br /> Puede programarlo según su horario, <br />o dejar que se adapte a su vida a<br /> medida que cambian los planes.<br /> Controle este termostato inteligente <br />desde cualquier lugar simplemente<br />usando su teléfono inteligente: <br />ayudando a mantener la vida simple, <br />mientras que asegura la máxima<br /> comodidad cuando está en casa<br /> y **ahorrando dinero en sus facturas<br /> de energía.**</p> | ![200x200][amzn-Floureon] [![buy-mzn!][buy-mzn]](https://amzn.to/2Vl5Z7Z)</p> |
 [/ui-accordion-item]
 
-[ui-accordion-item title="Decdeal 3A Termostato Calefacción por Agua | Amazon: 39,99€ "]
+[ui-accordion-item title="Decdeal 3A Termostato Calefacción por Agua | Amazon » 39,99€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Decdeal 3A Termostato Programable<br /> de Calefacción por Agua,Control de Voz,<br />con Pantalla LCD Controlador de Temperatura<br /> de Luz de Fondo Blanco...**](https://amzn.to/2DU5iIe)</p><p>Este termostato de calefacción está <br />diseñado como un controlador de temperatura<br /> de calentamiento de agua / caldera. <br />La aplicación móvil gratuita le permite controlar<br /> su termostato desde cualquier lugar<br /> y en cualquier momento, lo que se adapta <br />convenientemente a su estilo de vida y le<br /> proporciona un entorno de vida cómodo<br /> y que ahorra energía.<br /> Es adecuado para su uso en edificios de oficinas,<br /> hospitales, escuelas y lugares<br /> de entretenimiento para el control<br /> de la temperatura.</p> | ![200x200][amzn-Decdeal] [![buy-mzn!][buy-mzn]](https://amzn.to/2DU5iIe)</p> |
