@@ -1,7 +1,9 @@
 ---
-title: 'Advanced Topic 2'
+title: Shelly
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 Lorem markdownum vides aram est sui istis excipis Danai elusaque manu fores.
