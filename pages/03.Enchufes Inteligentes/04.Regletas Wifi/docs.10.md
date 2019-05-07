@@ -32,7 +32,7 @@ Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simul
 [ui-accordion-item title="Konesky Smart Power Strips | Amazon » 29.99 "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Konesky Smart Power Strips Wifi Protector contra sobretensiones con 4 salidas 4 puertos USB...**](https://amzn.to/2Valrih)</p><p>La regleta de alimentación inalámbrica Timmer es compatible con los puertos USB y USB, ahorra espacio y dinero, no necesita comprar muchos enchufes ni banco de energía, la regleta multifuncional le permite cargar muchos dispositivos al mismo tiempo. El control de voz de la toma de corriente inteligente wifi, puede controlar sus aplicaciones a través de los dispositivos Alexa / Google Home / IFTTT, conveniente y fácil de usar.</p> | ![200x200][amzn-Konesky][![buy-mzn!][buy-mzn]](https://https://amzn.to/2Valrih)</p> |
+| <p>[**Konesky Smart Power Strips Wifi Protector contra sobretensiones con 4 salidas 4 puertos USB...**](https://amzn.to/2Valrih)</p><p>La regleta de alimentación inalámbrica<br /> Timmer es compatible con los puertos USB,<br /> ahorra espacio y dinero, no necesita<br /> comprar muchos enchufes ni<br /> banco de energía, la regleta multifuncional <br />le permite cargar muchos dispositivos<br /> al mismo tiempo. <br />El control de voz de la toma<br /> de corriente inteligente wifi,<br /> puede controlar sus aplicaciones a través de los dispositivos<br /> Alexa / Google Home / IFTTT,<br /> conveniente y fácil de usar.</p> | ![200x200][amzn-Konesky][![buy-mzn!][buy-mzn]](https://https://amzn.to/2Valrih)</p> |
 [/ui-accordion-item]
 
 [/ui-accordion]
