@@ -1,6 +1,8 @@
 ---
 title: 'Home Assistant'
 media_order: Interface.png
+metadata:
+    'key(home Assistant)': 'Valor(Blog,Grav)'
 taxonomy:
     category:
         - docs
