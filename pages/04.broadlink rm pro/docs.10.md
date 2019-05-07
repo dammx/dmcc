@@ -32,7 +32,7 @@ Televisores, aires acondicionados, ventanas, reproductores de música y reproduc
 [ui-accordion-item title="Broadlink RM Mini3 | » 19.99€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Broadlink RM Mini3...**](https://amzn.to/2WtK7DW)</p><p>-Wi-Fi Universal Remote integra todos<br />tus dispositivos controlados IR-<br />En comparacióncon RMPRO,<br />no dispone la función de RF 433 Mhz.<br /> Con la aplicación IHC en tu<br />teléfono inteligente puedes controlar todos los dispositivos,<br /> usa un cable USB para conectar con la energía.<br /> Fácil configuración.</p> | ![200x200][amzn-BL-RMMINI3] [![buy-mzn!][buy-mzn]](https://amzn.to/2WtK7DW)</p> |
+| <p>[**Broadlink RM Mini3...**](https://amzn.to/2WtK7DW)</p><p>-Wi-Fi Universal Remote integra todos<br />tus dispositivos controlados IR-<br />En comparacióncon RMPRO,<br />no dispone la función de RF 433 Mhz.<br /> Con la aplicación IHC en tu<br />teléfono inteligente puedes controlar<br />todos los dispositivos,<br /> usa un cable USB para conectar<br />con la energía.<br /> Fácil configuración.</p> | ![200x200][amzn-BL-RMMINI3] [![buy-mzn!][buy-mzn]](https://amzn.to/2WtK7DW)</p> |
 [/ui-accordion-item]
 
 [/ui-accordion]
