@@ -60,6 +60,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 + Ejemplo `configuration.yaml` entradas con IP's específicas:
 
 ```text
+
 smartir:
 
 switch:
