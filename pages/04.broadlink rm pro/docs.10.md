@@ -40,7 +40,7 @@ Televisores, aires acondicionados, ventanas, reproductores de música y reproduc
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-BL-RMPRO]: user://pages/04.BroadlinkRM+Pro+WIFI+IR+Control+RemotoRF/rm_pro.png?lightbox=1024&cropResize=200,200
-[amzn-BL-RMMINI3]: user://pages/04.BroadlinkRM+Pro+WIFI+IR+Control+RemotoRF/rm_mini_3.png?lightbox=1024&cropResize=200,200
+[amzn-BL-RMMINI3]: user://pages//pages/04.broadlink+rm+pro/rm_mini_3.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 
 ---
