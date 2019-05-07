@@ -1,6 +1,8 @@
 ---
 title: 'Termostatos Wifi'
 media_order: 'netnamo.png,nest.png,Beok.png,mac.jpg,Floureon.png,decdeal.png,integracion_google_home.gif'
+metadata:
+    key(termostatos_wifi): 'Valor(Blog,Grav)'
 taxonomy:
     category:
         - docs
