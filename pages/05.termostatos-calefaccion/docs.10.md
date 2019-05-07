@@ -74,28 +74,31 @@ Este procedimiento, aunque sólo lo he probado con el Beok BOT-313Wifi , en prin
 4. Acceso a ficheros Home Assistant
 
 ![](mac.jpg)
+Lo primero indicar que Home Assistant no soporta oficialmente los termostatos BEOK, por lo que tenemos que utilizar los `custom_components`.
 
+1.Copiar el fichero python ( extension .py) en \custom_components\climate
+En el directorio donde tienes el configuration.yaml crea una carpeta ( si no la tienes ya creada) que se llame custom_components , dentro de ella una que se llame climate , en ella tendrás que pegar el fichero broadlinkHysen.py, puedes descargarlo de [aquí](http://bit.ly/2LsjpL5)( aunque tienes que cambiarle la extension de `.yaml` a `.py`)
 
+2. Crear termostato en el configuration.yaml
+Ahora el paso es crear la entrada en el configuration.yalm similar a este codigo, obviamente con la ip fija asignada al termostato en el campo host y con la MAC de tu termostato.
 
 + Ejemplo `configuration.yaml`:
 
 ```text
 
-smartir:
-
-switch:
-  - platform: broadlink
-    host: 192.168.1.25 _(Ip de tu Broadlink)_
-    mac: 78:0f:77:eb:4c:08 _(Mac de tu broadlink)_
-
-media_player:
-  - platform: smartir
-    name: TV Samsumg
-    device_code: 1060
-    controller_send_service: switch.broadlink_send_packet_192_168_1_25
-    power_sensor: binary_sensor.tv_power
-
+climate:
+  - platform: broadlinkHysen
+    name:  Termostato_Casa
+    host: 192.168.1.148       # <- Cambiala por la IP asignada a tu termostato
+    mac: 34:EA:34:xx:yy:zz  # <- Cambiala por la MAC de tu termostato
+    target_temp_default: 20
+    target_temp_step: 0.5
+    scan_interval: 15
 ```
+El scan_interval son los segundo que tarda en refrescar la información del termostato. Aquí está cada 15sg, yo una vez finalice todas la automatizaciones lo cambiaré a 90sg, ya que con ese refresco me parece suficiente.
+
+Con estos dos simples pasos ya puedes verificar el código y reiniciar el sistema
+
 ---
 
 [/ui-tab]
