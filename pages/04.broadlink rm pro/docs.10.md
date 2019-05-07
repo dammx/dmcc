@@ -2,6 +2,8 @@
 title: 'BroadlinkRM Pro WIFI + IR + Control RemotoRF'
 media_order: 'Broadlink.png,rm_pro.png,rm_mini_3.png,integracion_google_home.gif,smartir.zip,smartir3.png'
 published: true
+metadata:
+    key(broadlink): 'Valor(Blog,Grav)'
 taxonomy:
     category:
         - docs
