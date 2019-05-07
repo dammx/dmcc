@@ -1,6 +1,6 @@
 ---
 title: 'Termostatos Wifi'
-media_order: 'netnamo.png,nest.png,Beok.png'
+media_order: 'netnamo.png,nest.png,Beok.png,mac.jpg'
 taxonomy:
     category:
         - docs
@@ -12,7 +12,7 @@ visible: true
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
-> Comprar un termostato WiFi es una de las mejores cosas que puedes hacer para ahorrar en la factura de la luz, en el caso que tengas calefacción en casa. Lejos de ser una pijada para geeks y techies, los termostatos inteligentes han demostrado ser, como mínimo,  **un 24% más eficientes que los termostatos analógicos**. Y tal y como está el precio de la luz, no es cosa menor.
+> Comprar un termostato WiFi es **una de las mejores cosas que puedes hacer** para ahorrar en la factura de la luz, en el caso que tengas calefacción en casa. Lejos de ser una pijada para geeks y techies, los termostatos inteligentes han demostrado ser, como mínimo,  **un 24% más eficientes que los termostatos analógicos**. Y tal y como está el precio de la luz, no es cosa menor.
 
 Pero instalar un termostato WiFi en casa no solo es buena idea por el ahorro energético, sino por confort. La regulación automática de la temperatura, el control a distancia desde tu propio móvil allí donde estés, y la posibilidad de monitorizar el consumo son prestaciones que los termostatos inteligentes ofrecen, mientras que los termostatos normales no.
 
@@ -58,15 +58,23 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 
 [ui-tab title="Integración ..."]
 
-La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera IHC,  en la configuración de añadir dispositivos de _Google Home_, en éste caso concreto la aplicación de _Android_ que a mí me funcionó correctamente es la que se descarga de su página oficial, la que se baja de _Google Play_ no me funcionó correctamente, aquí tenéis el enlace para descargarlo:
- * [**IHC android**](http://bit.ly/2VMG34J)
- * [**IHC Iphone**](https://apple.co/2H80XBN)
+La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera IHC,  en la configuración de añadir dispositivos de _Google Home_, aquí tenéis el enlace para descargarlo:
+ * [**BeokHome android**](http://bit.ly/2H4huqE)
+ * [**BeokHome Iphone**](https://apple.co/2PTiGRF)
 ![](integracion_google_home.gif)
 
 **Para Integrarlo en Home Assitant**
 
-Necesitaras la carpeta de `custom_components` con los archivos para los diferentes componentes, que puedes descargar de aquí: [smartir.zip](smartir.zip), la tienes que poner en el directorio de Home Assistant dentro la carpeta `custom_components`, si no la tienes debes crearla.
-![](smartir3.png)
+Este procedimiento, aunque sólo lo he probado con el Beok BOT-313Wifi , en principio funciona para las marcas BEOK , FLOUREON, DECDEAL ya que comparten el mismo hardware.
+
+**PASOS PREVIOS – no indicados en este tutorial**
+1. Tener instalado y operativo el termostato , por supuesto conectado a la wifi.
+2. Darle una ip fija al termostato ( en el ejemplo será 192.168.0.110 ) . Yo las asigno en el router
+3. Conocer la MAC del termostato . En la pantalla de la app móvil te lo indica. ( para el ejemplo será 34:ea:34:xx:yy:zz )
+4. Acceso a ficheros Home Assistant
+
+![](mac.jpg)
+
 
 
 + Ejemplo `configuration.yaml`:
