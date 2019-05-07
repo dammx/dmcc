@@ -1,5 +1,7 @@
 ---
 title: 'Enchufes ...'
+metadata:
+    key(enchufes_wifi): 'Valor(Blog,Grav)'
 taxonomy:
     category:
         - docs
