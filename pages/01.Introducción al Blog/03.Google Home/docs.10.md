@@ -1,6 +1,8 @@
 ---
 title: 'Google Home'
 media_order: 'home1.png,home2.png,Rutinas1..png,Rutinas2..png'
+metadata:
+    key(google_home): 'Valor(Blog,Grav)'
 taxonomy:
     category:
         - docs
