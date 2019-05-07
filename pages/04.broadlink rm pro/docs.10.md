@@ -1,6 +1,6 @@
 ---
 title: 'BroadlinkRM Pro WIFI + IR + Control RemotoRF'
-media_order: 'Broadlink.png,rm_pro.png,rm_mini_3.png,integracion_google_home.gif'
+media_order: 'Broadlink.png,rm_pro.png,rm_mini_3.png,integracion_google_home.gif,smartir.zip,smartir3.png'
 published: true
 taxonomy:
     category:
@@ -55,6 +55,9 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 ![](integracion_google_home.gif)
 
 **Para Integrarlo en Home Assitant**
+
+Necesitaras la carpeta de ´custom_components´ con los archivos para de los compnentes que pudes descargar de aqui: [smartir.zip](smartir.zip), la tienes que poner en el directorio de Home Assistant dentro la carpeta ´custom_components´, si no la tienes debes crearla.
+![](smartir3.png)
 
 
 + Ejemplo `configuration.yaml` entradas con IP's específicas:
