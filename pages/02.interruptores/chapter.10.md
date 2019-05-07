@@ -1,6 +1,5 @@
 ---
-title: Advanced
-published: false
+title: Interruptores
 taxonomy:
     category: docs
 child_type: docs
