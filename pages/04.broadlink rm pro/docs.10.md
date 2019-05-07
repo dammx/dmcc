@@ -26,13 +26,13 @@ Televisores, aires acondicionados, ventanas, reproductores de música y reproduc
 [ui-accordion-item title="Broadlink RM pro | »39,89€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**BroadLink RM Pro+ WiFi Smart Home Automatización Todo en uno Aprendizaje Controlador Remoto Universal Compatible para Dispositivos iOS/Android (EU Standard)** ...</p> | ![200x200][amzn-BL-RMPRO] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lskans)</p> |
+| <p>[**BroadLink RM Pro+ WiFi Smart Home Automatización Todo en uno<br /> Aprendizaje Controlador Remoto Universal Compatible para Dispositivos iOS/Android (EU Standard)** ...</p> | ![200x200][amzn-BL-RMPRO] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lskans)</p> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Broadlink RM Mini3 | » 19.99€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Broadlink RM Mini3 - BroadLink RM Mini Wi-Fi Universal Remote integra todos tus dispositivos controlados IR...**](https://amzn.to/2WtK7DW)</p><p>- en comparación con RMPRO-US, canceló la función de RF) en una aplicación en tu teléfono inteligente, usa un cable USB para conectar con la energía. Fácil configuración, una tecla para un botón proceso de capacitación fácil para transferir todas las funciones a la aplicación</p> | ![200x200][amzn-BL-RMMINI3] [![buy-mzn!][buy-mzn]](https://amzn.to/2WtK7DW)</p> |
+| <p>[**Broadlink RM Mini3 - BroadLink RM Mini Wi-Fi Universal Remote integra todos <br />tus dispositivos controlados IR...**](https://amzn.to/2WtK7DW)</p><p>- En comparación con RMPRO, no dispone la función de RF 433 Mhz <br /> con la aplicación  IHC en tu teléfono inteligente puedes controla todos los dispositivos, usa un cable USB para conectar con la energía. Fácil configuración.</p> | ![200x200][amzn-BL-RMMINI3] [![buy-mzn!][buy-mzn]](https://amzn.to/2WtK7DW)</p> |
 [/ui-accordion-item]
 
 [/ui-accordion]
