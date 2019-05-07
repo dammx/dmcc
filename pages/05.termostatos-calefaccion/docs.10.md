@@ -27,7 +27,7 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 [ui-accordion-item title="Broadlink RM pro | Amazon: 39,89€   Aliexpress: 34,33€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Netatmo.Termostato Inteligente para caldera individual...**](https://amzn.to/2H27FcP)</p><p>Termostato Inteligente Netatmo te permite ahorrar una media de 37% de energÍa para calentar tu casa. El ahorro se consigue gracias a una programa de la calefacción adaptada a tu ritmo de vida, al control fácil de la calefacción desde tu smartphone y a los consejos personalizados de tu Balance de Ahorro Energético.</p><p> | ![200x200][amzn-netnamo][![buy-mzn!][buy-mzn]](https://amzn.to/2H27FcP)</p> |
+| <p>[**Netatmo.Termostato Inteligente para caldera individual...**](https://amzn.to/2H27FcP)</p><p>Termostato Inteligente Netatmo te permite<br />ahorrar una media de 37% de energÍa para<br /> calentar tu casa. El ahorro se consigue gracias <br />a una programa de la calefacción adaptada <br />a tu ritmo de vida, al control<br /> fácil de la calefacción desde tu smartphone<br /> y a los consejos personalizados<br /> de tu Balance de Ahorro Energético.</p><p> | ![200x200][amzn-netnamo][![buy-mzn!][buy-mzn]](https://amzn.to/2H27FcP)</p> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Broadlink RM Mini3 | Amazon: 19.99€  Aliexpress: 17,12€ "]
