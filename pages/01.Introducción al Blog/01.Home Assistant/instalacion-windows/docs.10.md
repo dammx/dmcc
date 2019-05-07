@@ -1,6 +1,9 @@
 ---
 title: 'Instalación en Windows'
 media_order: 'Inicio Home Assistant.png'
+metadata:
+    key(instalacion_home_assistant_windows): 'Valor(Blog,Grav)'
+    key(home_assistant_windows): 'Valor(Blog,Grav)'
 taxonomy:
     category:
         - docs
