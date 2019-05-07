@@ -33,6 +33,7 @@ Televisores, aires acondicionados, ventanas, reproductores de música y reproduc
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Broadlink RM Mini3...**](https://amzn.to/2WtK7DW)</p><p>-Wi-Fi Universal Remote integra todos tus<br />dispositivos controlados IR-<br />En comparacióncon RMPRO,<br />no dispone la función de RF 433 Mhz.<br /> Con la aplicación IHC en tu<br />teléfono inteligente puedes controlar<br />todos los dispositivos,<br /> usa un cable USB para conectar con la<br />energía.<br /> Fácil configuración.</p> | ![200x200][amzn-BL-RMMINI3] [![buy-mzn!][buy-mzn]](https://amzn.to/2WtK7DW)</p> |
+| ![200x200][amzn-BL-RMMINI3] [![buy-aliex][buy-aliex]](http://bit.ly/2PQfo1q)</p> |
 [/ui-accordion-item]
 
 [/ui-accordion]
@@ -42,6 +43,7 @@ Televisores, aires acondicionados, ventanas, reproductores de música y reproduc
 [amzn-BL-RMPRO]: user://pages/04.broadlink+rm+pro/rm_pro.png?lightbox=1024&cropResize=200,200
 [amzn-BL-RMMINI3]: user://pages/04.broadlink+rm+pro/rm_mini_3.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
+[buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
 ---
 
