@@ -1,6 +1,6 @@
 ---
 title: 'Termostatos Wifi'
-media_order: netnamo.png
+media_order: 'netnamo.png,nest.png'
 taxonomy:
     category:
         - docs
@@ -30,10 +30,10 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 | <p>[**Netatmo.Termostato Inteligente para caldera individual...**](https://amzn.to/2H27FcP)</p><p>Termostato Inteligente Netatmo te permite<br />**ahorrar una media de 37% de energÍa** para<br /> calentar tu casa. El ahorro se consigue gracias <br />a una programa de la calefacción adaptada <br />a tu ritmo de vida, al control<br /> fácil de la calefacción desde tu smartphone<br /> y a los consejos personalizados<br /> de tu Balance de Ahorro Energético.</p><p> | ![200x200][amzn-netnamo][![buy-mzn!][buy-mzn]](https://amzn.to/2H27FcP)</p> |
 [/ui-accordion-item]
 
-[ui-accordion-item title="Broadlink RM Mini3 | Amazon: 19.99€  Aliexpress: 17,12€ "]
+[ui-accordion-item title=Nest Learning - Termostato Inteligente | Amazon: 249,00€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Broadlink RM Mini3...**](https://amzn.to/2WtK7DW)</p><p>-Wi-Fi Universal Remote integra todos tus<br />dispositivos controlados IR-<br />En comparación con RMPRO,<br />no dispone la función de RF 433 Mhz.<br /> Con la aplicación IHC en tu<br />teléfono inteligente puedes controlar<br />todos los dispositivos,<br /> usa un cable USB para conectar con la<br />energía.<br /> Fácil configuración.</p> | ![200x200][amzn-BL-RMMINI3] [![buy-mzn!][buy-mzn]](https://amzn.to/2WtK7DW)</p>[![buy-aliex][buy-aliex]](http://bit.ly/2V1LpVr)</p> |
+| <p>[**Nest Learning - Termostato Inteligente de 3 A Generación, Negro...**](https://amzn.to/2JsD7DA)</p><p>El Nest Learning thermostat de tercera generación es delgado, elegante y refinado. La Grande y claro pantalla y lectura a distancia te permiten ver temperatura, hora y predicción meteorológica incluso cuando te vayas de la otra parte de la habitación. El termostato Nest apprende la temperatura que desees para luego programmarsi de Sé. Conoce el tiempo necesario para calentar tu casa y te lafa cálida encontrar a tu llegada. Cuando vayas por se apaga, para permitirte ahorrar energía. De más, con la aplicación Nest, podrás cambiar la temperatura o controlar la historial de energía dondequiera que vayas.</p> | ![200x200][amzn-BL-RMMINI3] [![buy-mzn!][buy-mzn]](https://amzn.to/2JsD7DA)</p> |
 [/ui-accordion-item]
 
 [/ui-accordion]
