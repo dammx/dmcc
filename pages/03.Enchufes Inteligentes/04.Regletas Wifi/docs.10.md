@@ -19,6 +19,8 @@ Aunque de momento no son muchos los fabricantes que se han lanzado a la fabricac
 
 Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simultáneas Posibilidad de ahorro en el consumo eléctrico Control individual de cada toma AC Comodidad para controlar dispositivos Opción de conexión con Google Home o Amazon Echo Recordar que la mayoría de estas regletas de conexión inalámbrica soportan sobrecargas, altas temperaturas y largas jornadas de trabajo como el resto de regletas de calidad.
 
+>En mi caso, por ejemplo, tengo una regleta wifi 4 toas y 4 USB, y la tengo puesta en el acuario para controlar la luz, el calentador, el alimentador y la bomba de filtrado. En el caso del calentador y de la bomba que están 24 horas funcionando, el alimentador y la luz están con timer programado, de esa manera se que esta mantenido aunque yo no este en casa por uno días, ademas esta integrado en Home Assistant con que que me avisa vía Telegram si algo se apagara inesperadamente.
+
 ---
 
 [ui-accordion independent=true open=none]
