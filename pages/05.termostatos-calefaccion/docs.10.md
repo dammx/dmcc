@@ -44,7 +44,7 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 | <p>[**Beok BOT-313 WiFi termostato se puede controlar por<br /> APP...**](https://amzn.to/2Jicz8e)</p><p>El **termostato WiFi** es **la nueva forma inteligente<br /> de controlar la temperatura en su hogar**<br /> y reducir fácilmente el costo <br />de calefacción de su caldera de gas.<br /> El termostato BOT313WIFI le permite sentirse<br /> cómodo sabiendo que la temperatura de su <br />hogar siempre será como le gusta.<br /> Es **fácil de instalar** y usar y se adapta <br />convenientemente a su estilo de vida.<br /> Puede programarlo según su horario, <br />o dejar que se adapte a su vida a<br /> medida que cambian los planes.<br /> Controle este termostato inteligente <br />desde cualquier lugar simplemente<br />usando su teléfono inteligente: <br />ayudando a mantener la vida simple, <br />mientras que asegura la máxima<br /> comodidad cuando está en casa<br /> y **ahorrando dinero en sus facturas<br /> de energía.**</p> | ![200x200][amzn-Beok] [![buy-mzn!][buy-mzn]](https://amzn.to/2Jicz8e)</p> |
 [/ui-accordion-item]
 
-[ui-accordion-item title="Floureon Termostato para caldera de gas | Amazon » 69,99€ "]
+[ui-accordion-item title="Floureon Termostato para de caldera de gas | Amazon » 69,99€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Floureon Termostato Caldera gas con Wifi...**](https://amzn.to/2Vl5Z7Z)<br /> Termostato hidráulico con pantalla<br /> con retroiluminación LCD Control<br /> con App Compatible con Google Home, <br />Color blanco<br />El **termostato WiFi** es **la nueva forma inteligente<br /> de controlar la temperatura en su hogar**<br /> y reducir fácilmente el costo <br />de calefacción de su caldera de gas.<br />**Ahorrando dinero en sus facturas<br /> de energía.**</p> | ![200x200][amzn-Floureon] [![buy-mzn!][buy-mzn]](https://amzn.to/2Vl5Z7Z)</p> |
@@ -53,7 +53,7 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 [ui-accordion-item title="Decdeal 3A Termostato Calefacción Agua | Amazon » 39,99€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Decdeal 3A Termostato Programable<br /> de Calefacción por Agua,Control de Voz.**](https://amzn.to/2DU5iIe)</p><p>Este termostato de calefacción está <br />diseñado como un controlador de<br /> temperatura de calentamiento del agua de la caldera. <br />Es adecuado para su uso en edificios de<br /> oficinas, hospitales, escuelas<br /> y lugares de entretenimiento para<br /> el control de la<br /> temperatura.</p> | ![200x200][amzn-Decdeal] [![buy-mzn!][buy-mzn]](https://amzn.to/2DU5iIe)</p> |
+| <p>[**Decdeal 3A Termostato Programable<br /> de Calefacción por Agua,Control de Voz.**](https://amzn.to/2DU5iIe)</p><p>Este termostato de calefacción está <br />diseñado como un controlador de<br /> temperatura de calentamiento del agua de la caldera. <br />Es adecuado para su uso en edificios de<br /> oficinas, hospitales, escuelas<br /> y lugares de entretenimiento para<br /> el control de la temperatura.</p> | ![200x200][amzn-Decdeal] [![buy-mzn!][buy-mzn]](https://amzn.to/2DU5iIe)</p> |
 [/ui-accordion-item]
 
 
