@@ -56,7 +56,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 [ui-accordion-item title="Sonoff 3 Gang WiFi | Amazon » 23,75€ -  Aliexpress » 19,08€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Sonoff 3 Gang WiFi...**](https://amzn.to/2LE8r5o)</p><p>Mismo dispositivo que el anterior con 3 pulsadores apra contolar 3 puntos de luz desde el mismo componente.Encendido / apagado remoto: enciende / apaga las luces desde cualquier lugar. Soporte de aplicaciones: aplicación móvil gratuita iOS y Android eWeLink. Control independiente: controla cada grupo por separado. Timers para encender / apagar a la hora especificada. Control compartido: controle su casa inteligente junto con su familia. Compatibilidad: Amazon Alexa, Asistente de Google, IFTTT.</p> | ![200x200][amzn-basic][![buy-mzn!][buy-mzn]](https://amzn.to/2LE8r5o)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/LenLi2c) |
+| <p>[**Sonoff 3 Gang WiFi...**](https://amzn.to/2LE8r5o)</p><p>Mismo dispositivo que el anterior con 3 pulsadores<br /> para controlar 3 puntos de luz desde el mismo componente.<br />Encendido / apagado remoto: enciende / apaga<br /> las luces desde cualquier lugar.<br /> Soporte de aplicaciones: aplicación móvil<br /> gratuita iOS y Android eWeLink.<br /> Control independiente: controla cada grupo<br /> por separado. Timers para encender / apagar<br /> a la hora especificada.<br /> Control compartido: controle su casa inteligente<br /> junto con su familia. Compatibilidad: Amazon Alexa, <br />Asistente de Google, IFTTT.</p> | ![200x200][amzn-basic][![buy-mzn!][buy-mzn]](https://amzn.to/2LE8r5o)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/LenLi2c) |
 [/ui-accordion-item]
 
 [/ui-accordion]
