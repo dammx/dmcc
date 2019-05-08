@@ -68,7 +68,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 [ui-accordion-item title="Interruptor Cortina o Persianas WiFi  | Amazon » 20,99€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Interruptor Cortina o Persianas WiFi...**](https://amzn.to/2JqiQ1O)</p><p>El interruptor de cortina Wifi puede funcionar<br /> con cortinas inteligentes, puertas<br /> eléctricas, puertas de garaje inteligentes<br /> y otros aparatos. El método de instalación <br />se puede instalar en tan solo unos<br /> minutos como el interruptor ciego tradicional.<br /> Los interruptores táctiles le brindan<br /> diferentes experiencias cuando lo usa.<br />(Este interruptor táctil wifi necesita<br /> conectarse con un cable neutro).</p> | ![200x200][amzn-persiana][![buy-mzn!][buy-mzn]](https://amzn.to/2JqiQ1O)</p> |
+| <p>[**Interruptor Cortina o Persianas WiFi...**](https://amzn.to/2JqiQ1O)</p><p>El interruptor de cortina Wifi puede funcionar<br /> con cortinas inteligentes, puertas<br /> eléctricas, puertas de garaje inteligentes<br /> y otros aparatos. El método de instalación <br />se puede instalar en tan solo unos<br /> minutos como el interruptor ciego tradicional.<br /> Los interruptores táctiles le brindan<br /> diferentes experiencias cuando lo usa.<br />(Este interruptor táctil wifi necesita<br /> conectarse con un cable neutro).<br />Aplicación **_eWelink_**</p> | ![200x200][amzn-persiana][![buy-mzn!][buy-mzn]](https://amzn.to/2JqiQ1O)</p> |
 [/ui-accordion-item]
 
 [/ui-accordion]
