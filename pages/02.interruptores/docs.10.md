@@ -111,6 +111,7 @@ switch:
 
 ```
 + Ejemplo configuración dispositivos **_Sonoff_**  `configuration.yaml`:
+###### En el caso de la configuracion de los disposivos Sonoff, la aplicacion eWelink, no permite estar abierta en dos aplicaciones al mismo tiempo,asi que, recomiendo que abras otra cuenta de correo, solo para Home Assistant, y que desde la cuenta principal del movil, compartas los dispositivos a la cuenta de correo de Home Assistant, de esta manera podra estar abierta en las dos applicacion a la vez.######
 
 ```text
 
