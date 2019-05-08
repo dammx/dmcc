@@ -38,7 +38,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 [ui-accordion-item title="Sonoff Basic | Amazon » 5,81€ -  Aliexpress » 4,99€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Sonoff Basic Interruptor Inteligente...**](https://amzn.to/2Hbfsor)</p><p>Sonoff Basic es un interruptor inteligente WiFi que| <p>[**Sonoff Basic Interruptor Inteligente...**](https://amzn.to/2Hbfsor)</p><p>Sonoff Basic es un interruptor inteligente WiFi que permite encender y apagar <br />remotamente un aparato eléctrico.<br /> Este dispositivo eléctrico transmite <br />datos a través de su router WiFi,<br /> permitiendo a los usuarios controlar de forma<br /> remota todos los dispositivos conectados a <br />través de la aplicación móvil**_eWeLink_**. </p><p> | ![200x200][amzn-basic][![buy-mzn!][buy-mzn]](https://amzn.to/2Hbfsor)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/b91hZB3S)</p> |
+| <p>[**Sonoff Basic Interruptor Inteligente...**](https://amzn.to/2Hbfsor)</p><p>Sonoff Basic es un interruptor inteligente WiFi que permite encender y apagar remotamente un aparato eléctrico. Este dispositivo eléctrico transmite datos a través de su router WiFi, permitiendo a los usuarios controlar de forma remota todos los dispositivos conectados a través de la aplicación móvil**_eWeLink_**. </p><p> | ![200x200][amzn-basic][![buy-mzn!][buy-mzn]](https://amzn.to/2Hbfsor)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/b91hZB3S)</p> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Sonoff touch EU | Amazon » 21,33€ -  Aliexpress » 10,95€ "]
