@@ -1,6 +1,6 @@
 ---
 title: 'Interruptores Wifi'
-media_order: 'shellys.png,sonoff_touch.png,sonoff_touch2.png,touch1.png,basic.png,sonoff_touch3.png,shelly11.png'
+media_order: 'shellys.png,sonoff_touch.png,sonoff_touch2.png,touch1.png,basic.png,sonoff_touch3.png,shelly11.png,integracion_google_home.gif'
 metadata:
     Key(domotizar_mi_casa): 'Valor(blog,grav)'
     Key(domotizar): 'Valor(blog,grav)'
@@ -94,27 +94,20 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 
 **Para Integrarlo en Home Assitant**
 
-Necesitaras la carpeta de `custom_components` con los archivos para los diferentes componentes, que puedes descargar de aquí: [smartir.zip](smartir.zip), la tienes que poner en el directorio de Home Assistant dentro la carpeta `custom_components`, si no la tienes debes crearla.
-![](smartir3.png)
-
-
 + Ejemplo `configuration.yaml`:
 
 ```text
 
-smartir:
-
 switch:
-  - platform: broadlink
-    host: 192.168.1.25 _(Ip de tu Broadlink)_
-    mac: 78:0f:77:eb:4c:08 _(Mac de tu broadlink)_
-
-media_player:
-  - platform: smartir
-    name: TV Samsumg
-    device_code: 1060
-    controller_send_service: switch.broadlink_send_packet_192_168_1_25
-    power_sensor: binary_sensor.tv_power
+  - platform: rest
+    name: "Shelly2 Switch1"
+    scan_interval: 5
+    resource: http://192.168.0.28/relay/0    (IP de nuestro Shelly1)
+    body_on: 'turn=on'
+    body_off: 'turn=off'
+    is_on_template: '{{ value_json.ison == true}}'
+    headers:
+      content-type: application/x-www-form-urlencoded
 
 ```
 ---
