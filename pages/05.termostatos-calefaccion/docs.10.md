@@ -35,7 +35,7 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 [ui-accordion-item title="Nest | Amazon » 249,00€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Nest Learning  -  Termostato Inteligente de 3A, Negro...**](https://amzn.to/2JsD7DA)</p><p>El **Nest Learning thermostat** de tercera<br /> generación es delgado, elegante y refinado.<br /> La Grande y clara pantalla y lectura<br /> a distancia te permiten ver **temperatura, hora y<br /> predicción meteorológica** <br />incluso cuando te vayas de la otra parte <br />de la habitación.<br /> Conoce el tiempo necesario para calentar tu casa y te<br /> preparará para tú llegada.<br /> **Cuando te vayas se apagará, para <br />permitirte ahorrar energía**. <br />De más, con la aplicación Nest,<br /> podrás cambiar la temperatura.</p> | ![200x200][amzn-Nest] [![buy-mzn!][buy-mzn]](https://amzn.to/2JsD7DA)</p> |
+| <p>[**Nest Learning  -  Termostato Inteligente de 3A, Negro...**](https://amzn.to/2JsD7DA)</p><p>El **Nest Learning thermostat** de tercera<br /> generación es delgado, elegante y refinado.<br /> La Grande y clara pantalla y lectura<br /> a distancia te permiten ver **temperatura, hora y<br /> predicción meteorológica** <br />incluso cuando te vayas de la otra parte <br />de la habitación.<br /> Conoce el tiempo necesario para calentar tu casa y te preparará<br /> para tú llegada.<br /> **Cuando te vayas se apagará, para <br />permitirte ahorrar energía**. <br />De más, con la aplicación Nest,<br /> podrás cambiar la temperatura.</p> | ![200x200][amzn-Nest] [![buy-mzn!][buy-mzn]](https://amzn.to/2JsD7DA)</p> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Beok BOT-313 WiFi | Amazon » 38,99€ "]
