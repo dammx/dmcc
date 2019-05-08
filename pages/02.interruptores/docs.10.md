@@ -35,7 +35,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title="Sonoff touch EU | Amazon » 21,33€ "]
+[ui-accordion-item title="Sonoff touch EU | Amazon » 21,33€ Aliexpress » 10,95€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Sonoff Smart Wi-Fi Interruptor de luz táctil...**](https://amzn.to/2J8kDsY)</p><p>Controle sus electrodomésticos o dispositivos eléctricos en cualquier momento y en cualquier lugar.
@@ -43,7 +43,7 @@ Donde quiera que esté, y siempre que desee encender/apagar sus electrodoméstic
 La aplicación inteligente **_Ewelink_** es compatible con teléfonos inteligentes o tabletas con Android e IOS.</p><p> | ![200x200][amzn-touch2][![buy-mzn!][buy-mzn]](https://amzn.to/2J8kDsY)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/ERgGkIy)</p> |
 [/ui-accordion-item]
 
-[ui-accordion-item title="Konesky Smart Power Strips | Amazon » 29.99 "]
+[ui-accordion-item title="Sonoff 2 Gang Smart Switch WiFi | Amazon » 22,98  Aliexpress » 17,71€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Sonoff T1 Smart Switch WiFi Touch Interruptor de Luz de Pared 2 Gang...**](https://amzn.to/2Jp3Gtp)</p><p>Encendido / apagado remoto: enciende / apaga las luces desde cualquier lugar. Soporte de aplicaciones: aplicación móvil gratuita iOS y Android eWeLink. Control independiente: controla cada grupo por separado. Timers para encender / apagar a la hora especificada. Control compartido: controle su casa inteligente junto con su familia. Compatibilidad: Amazon Alexa, Asistente de Google, IFTTT.</p> | ![200x200][amzn-touch1][![buy-mzn!][buy-mzn]](https://amzn.to/2Jp3Gtp)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/bQ01Ojfi) |
