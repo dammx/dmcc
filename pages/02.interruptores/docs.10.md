@@ -1,6 +1,6 @@
 ---
 title: 'Interruptores Wifi'
-media_order: 'shellys.png,sonoff_touch.png,sonoff_touch2.png,touch1.png,basic.png'
+media_order: 'shellys.png,sonoff_touch.png,sonoff_touch2.png,touch1.png,basic.png,sonoff_touch3.png'
 metadata:
     Key(domotizar_mi_casa): 'Valor(blog,grav)'
     Key(domotizar): 'Valor(blog,grav)'
@@ -53,6 +53,12 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 | <p>[**Sonoff T1 WiFi Touch 2 Gang...**](https://amzn.to/2Jp3Gtp)</p><p>Encendido / apagado remoto: enciende/apaga las luces<br /> desde cualquier lugar.<br /> Soporte de aplicaciones: aplicación <br />móvil gratuita iOS y Android **_eWeLink_**.<br /> Control independiente: controla cada grupo<br /> por separado. Timers para encender/apagar<br /> a la hora especificada. Control compartido:<br /> controle su casa inteligente<br /> junto con su familia. Compatibilidad:<br /> Amazon Alexa, Asistente de Google.</p> | ![200x200][amzn-touch1][![buy-mzn!][buy-mzn]](https://amzn.to/2Jp3Gtp)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/bQ01Ojfi) |
 [/ui-accordion-item]
 
+[ui-accordion-item title="Sonoff 3 Gang WiFi | Amazon » 23,75€ -  Aliexpress » 19,08€ "]
+|  |  |
+|:-------------|:-------------:|
+| <p>[**Sonoff 3 Gang WiFi...**](https://amzn.to/2LE8r5o)</p><p>Mismo dispositivo que el anterior con 3 pulsadores apra contolar 3 puntos de luz desde el mismo componente.Encendido / apagado remoto: enciende / apaga las luces desde cualquier lugar. Soporte de aplicaciones: aplicación móvil gratuita iOS y Android eWeLink. Control independiente: controla cada grupo por separado. Timers para encender / apagar a la hora especificada. Control compartido: controle su casa inteligente junto con su familia. Compatibilidad: Amazon Alexa, Asistente de Google, IFTTT.</p> | ![200x200][amzn-basic][![buy-mzn!][buy-mzn]](https://amzn.to/2LE8r5o)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/LenLi2c) |
+[/ui-accordion-item]
+
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
@@ -60,6 +66,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 [amzn-touch2]: user://pages/02.interruptores/sonoff_touch2.png?lightbox=1024&cropResize=200,200
 [amzn-touch1]: user://pages/02.interruptores/touch1.png?lightbox=1024&cropResize=200,200
 [amzn-basic]: user://pages/02.interruptores/basic.png?lightbox=1024&cropResize=200,200
+[amzn-touch3]: user://pages/02.interruptores/sonoff_touch3.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
