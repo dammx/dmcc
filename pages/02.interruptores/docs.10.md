@@ -1,6 +1,6 @@
 ---
 title: 'Interruptores Wifi'
-media_order: 'shellys.png,sonoff_touch2.png,touch1.png,basic.png,sonoff_touch3.png,shelly11.png,integracion_google_home.gif,sonoff_touch1.png,Persiana.png'
+media_order: 'shellys.png,sonoff_touch2.png,touch1.png,basic.png,sonoff_touch3.png,shelly11.png,integracion_google_home.gif,sonoff_touch1.png,Persiana.png,vhome.png'
 metadata:
     Key(domotizar_mi_casa): 'Valor(blog,grav)'
     Key(domotizar): 'Valor(blog,grav)'
@@ -50,13 +50,13 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 [ui-accordion-item title="Sonoff 2 Gang Wifi | Amazon » 22,98 - Aliexpress » 17,71€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Sonoff T1 WiFi Touch 2 Gang...**](https://amzn.to/2Jp3Gtp)</p><p>Encendido / apagado remoto: enciende/apaga<br /> las luces desde cualquier lugar.<br /> Soporte de aplicaciones: aplicación <br />móvil gratuita iOS y Android **_eWeLink_**.<br /> Control independiente: controla cada grupo<br /> por separado. Timers para encender/apagar<br /> a la hora especificada. Control compartido:<br /> controle su casa inteligente<br /> junto con su familia. Compatibilidad:<br /> Amazon Alexa, Asistente de Google.</p> | ![200x200][amzn-touch1][![buy-mzn!][buy-mzn]](https://amzn.to/2Jp3Gtp)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/bQ01Ojfi) |
+| <p>[**Sonoff T1 WiFi Touch 2 Gang...**](http://s.click.aliexpress.com/e/bQ01Ojfi)</p><p>Encendido / apagado remoto: enciende/apaga<br /> las luces desde cualquier lugar.<br /> Soporte de aplicaciones: aplicación <br />móvil gratuita iOS y Android **_eWeLink_**.<br /> Control independiente: controla cada grupo<br /> por separado. Timers para encender/apagar<br /> a la hora especificada. Control compartido:<br /> controle su casa inteligente<br /> junto con su familia. Compatibilidad:<br /> Amazon Alexa, Asistente de Google.</p> | ![200x200][amzn-touch1][![buy-mzn!][buy-mzn]](https://amzn.to/2Jp3Gtp)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/bQ01Ojfi) |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Sonoff 3 Gang WiFi | Amazon » 23,75€ -  Aliexpress » 19,08€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Sonoff 3 Gang WiFi...**](https://amzn.to/2LE8r5o)</p><p>Mismo dispositivo que el anterior con 3<br /> pulsadores para controlar 3 puntos de luz<br /> desde el mismo componente.<br />Encendido / apagado remoto: enciende o<br /> apaga las luces desde cualquier lugar.<br /> Soporte de aplicaciones: aplicación móvil<br /> gratuita iOS y Android eWeLink.<br /> Control independiente: controla cada grupo<br /> por separado. Timers para encender / apagar<br /> a la hora especificada.<br /> Control compartido: controle su casa<br /> inteligente junto con su familia.<br /> Compatibilidad: Amazon Alexa, <br />Asistente de Google, IFTTT.</p> | ![200x200][amzn-touch3][![buy-mzn!][buy-mzn]](https://amzn.to/2LE8r5o)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/LenLi2c) |
+| <p>[**Sonoff 3 Gang WiFi...**](http://s.click.aliexpress.com/e/LenLi2c)</p><p>Mismo dispositivo que el anterior con 3<br /> pulsadores para controlar 3 puntos de luz<br /> desde el mismo componente.<br />Encendido / apagado remoto: enciende o<br /> apaga las luces desde cualquier lugar.<br /> Soporte de aplicaciones: aplicación móvil<br /> gratuita iOS y Android eWeLink.<br /> Control independiente: controla cada grupo<br /> por separado. Timers para encender / apagar<br /> a la hora especificada.<br /> Control compartido: controle su casa<br /> inteligente junto con su familia.<br /> Compatibilidad: Amazon Alexa, <br />Asistente de Google, IFTTT.</p> | ![200x200][amzn-touch3][![buy-mzn!][buy-mzn]](https://amzn.to/2LE8r5o)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/LenLi2c) |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Conmutador Shelly 1 | Amazon » 22,99€ "]
@@ -71,6 +71,12 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 | <p>[**Interruptor Cortina o Persianas WiFi...**](https://amzn.to/2JqiQ1O)</p><p>El interruptor de cortina Wifi puede funcionar<br /> con cortinas inteligentes, puertas<br /> eléctricas, puertas de garaje inteligentes<br /> y otros aparatos. El método de instalación <br />se puede instalar en tan solo unos<br /> minutos como el interruptor ciego tradicional.<br /> Los interruptores táctiles le brindan<br /> diferentes experiencias cuando lo usa.<br />(Este interruptor táctil wifi necesita<br /> conectarse con un cable neutro).<br />Aplicación **_eWelink_**</p> | ![200x200][amzn-persiana][![buy-mzn!][buy-mzn]](https://amzn.to/2JqiQ1O)</p> |
 [/ui-accordion-item]
 
+[ui-accordion-item title="Interruptor similar a Sonoff Blanco/Negro   | Aliexpress » 9,18€- 12,87€ "]
+|  |  |
+|:-------------|:-------------:|
+| <p>[**Vhome Ewelink Touch Switch,2.4G...**](http://s.click.aliexpress.com/e/bw4GpfYy)</p><p>Interruptor similar a Sonof de 1 a 3 Gang, 3 colores difrentes , Blanco, Negro o Crema.Aplicación **_eWelink_**, se puede integrar a Google Home y a Home Assistant.</p> | ![200x200][amzn-vhome][![buy-mzn!][buy-mzn]](http://s.click.aliexpress.com/e/bw4GpfYy)</p> |
+[/ui-accordion-item]
+
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
@@ -81,6 +87,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 [amzn-touch3]: user://pages/02.interruptores/sonoff_touch3.png?lightbox=1024&cropResize=200,200
 [amzn-shelly1]: user://pages/02.interruptores/shelly11.png?lightbox=1024&cropResize=200,200
 [amzn-persiana]: user://pages/02.interruptores/Persiana.png?lightbox=1024&cropResize=200,200
+[amzn-vhome]: user://pages/02.interruptores/vhome.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
