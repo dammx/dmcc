@@ -27,7 +27,7 @@ Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simul
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title="Iraza Enchufe Múltiple Inteligente | Amazon » 29,99€ "]
+[ui-accordion-item title="Iraza Enchufe Múltiple Inteligente | Amazon » 28,66€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Iraza Enchufe Múltiple Inteligente...**](https://amzn.to/2J7yf7y)</p><p>Configuración simple y fácil de usar : <br />Siga los pasos de instalación.<br /> Investigación y desarrollo independientes,<br /> fácil de operar. <br />Y la conexión wifi es muy estable.<br />Control de voz de Amazon Alexa,<br /> Google Assistant.<br /> Puede activar o desactivar las 3 tomas<br /> por separado o juntas y<br /> los 2 puertos USB a través de <br />Echo o Google Home. NEST<br /> y Samsung Smart Things serán compatibles<br /> en breve.</p><p> | ![200x200][amzn-iraza][![buy-mzn!][buy-mzn]](https://amzn.to/2J7yf7y)</p> |
