@@ -1,6 +1,6 @@
 ---
 title: 'Interruptores Wifi'
-media_order: 'shellys.png,sonoff_touch.png,sonoff_touch2.png,touch1.png,basic.png,sonoff_touch3.png'
+media_order: 'shellys.png,sonoff_touch.png,sonoff_touch2.png,touch1.png,basic.png,sonoff_touch3.png,shelly11.png'
 metadata:
     Key(domotizar_mi_casa): 'Valor(blog,grav)'
     Key(domotizar): 'Valor(blog,grav)'
@@ -59,6 +59,12 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 | <p>[**Sonoff 3 Gang WiFi...**](https://amzn.to/2LE8r5o)</p><p>Mismo dispositivo que el anterior con 3<br /> pulsadores para controlar 3 puntos de luz desde<br /> el mismo componente.<br />Encendido / apagado remoto: enciende / apaga<br /> las luces desde cualquier lugar.<br /> Soporte de aplicaciones: aplicación móvil<br /> gratuita iOS y Android eWeLink.<br /> Control independiente: controla cada grupo<br /> por separado. Timers para encender / apagar<br /> a la hora especificada.<br /> Control compartido: controle su casa inteligente<br /> junto con su familia.<br /> Compatibilidad: Amazon Alexa, <br />Asistente de Google, IFTTT.</p> | ![200x200][amzn-touch3][![buy-mzn!][buy-mzn]](https://amzn.to/2LE8r5o)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/LenLi2c) |
 [/ui-accordion-item]
 
+[ui-accordion-item title="Conmutador Shelly 1 | Amazon » 22,99€ "]
+|  |  |
+|:-------------|:-------------:|
+| <p>[**Conmutador Shelly 1...**](https://amzn.to/2Lunn5V)</p><p>Transformar un hogar o una oficina en inteligente no requiere de complejas instalaciones. Interruptor de relé Wi-Fi Shelly 1, que con sus compactas dimensiones 41 x 36 x 17 mm el instalador podrá acoplarlo detrás de cualquier contacto de alimentación, interruptor de luz estándar o directamente en una caja de DIN en la caja de electricidad. </p><p> | ![200x200][amzn-shelly1][![buy-mzn!][buy-mzn]](https://amzn.to/2Lunn5V)</p> |
+[/ui-accordion-item]
+
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
@@ -67,6 +73,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 [amzn-touch1]: user://pages/02.interruptores/touch1.png?lightbox=1024&cropResize=200,200
 [amzn-basic]: user://pages/02.interruptores/basic.png?lightbox=1024&cropResize=200,200
 [amzn-touch3]: user://pages/02.interruptores/sonoff_touch3.png?lightbox=1024&cropResize=200,200
+[amzn-shelly1]: user://pages/02.interruptores/shelly11.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
