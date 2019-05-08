@@ -38,8 +38,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 [ui-accordion-item title="Sonoff touch EU | Amazon » 21,33€ -  Aliexpress » 10,95€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Sonoff Smart Wi-Fi Interruptor de luz táctil...**](https://amzn.to/2J8kDsY)</p><p>Controle sus electrodomésticos o dispositivos eléctricos en cualquier momento y en cualquier lugar. Donde quiera que esté, y siempre que desee encender/apagar sus electrodomésticos o dispositivos eléctricos, no necesita estar allí o la ayuda de los demás, solo necesita tocar ligeramente el botón ON/OFF en la aplicación Ewelink. Los dispositivos conectados se encenderán/apagarán automáticamente.
-La aplicación inteligente **_Ewelink_** es compatible con teléfonos inteligentes o tabletas con Android e IOS.</p><p> | ![200x200][amzn-touch2][![buy-mzn!][buy-mzn]](https://amzn.to/2J8kDsY)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/ERgGkIy)</p> |
+| <p>[**Sonoff Smart Wi-Fi Interruptor de luz táctil...**](https://amzn.to/2J8kDsY)</p><p>Controle sus electrodomésticos o dispositivos eléctricos en cualquier momento y en cualquier lugar. Donde quiera que esté, y siempre que desee encender/apagar sus electrodomésticos o dispositivos eléctricos, no necesita estar allí o la ayuda de los demás, solo necesita tocar ligeramente el botón ON/OFF en la aplicación Ewelink. Los dispositivos conectados se encenderán/apagarán automáticamente.La aplicación inteligente **_Ewelink_** es compatible con teléfonos inteligentes o tabletas con Android e IOS.</p><p> | ![200x200][amzn-touch2][![buy-mzn!][buy-mzn]](https://amzn.to/2J8kDsY)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/ERgGkIy)</p> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Sonoff 2 Gang Wifi | Amazon » 22,98 - Aliexpress » 17,71€ "]
