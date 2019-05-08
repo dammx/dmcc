@@ -94,7 +94,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 
 **Para Integrarlo en Home Assitant**
 
-+ Ejemplo configuración dispositivos **_Shelly_** `configuration.yaml`:
++ Ejemplo configuración dispositivos **_Shelly_**  `configuration.yaml`:
 
 ```text
 
@@ -110,7 +110,7 @@ switch:
       content-type: application/x-www-form-urlencoded
 
 ```
-+ Ejemplo configuración dispositivos **_Sonoff_** `configuration.yaml`:
++ Ejemplo configuración dispositivos **_Sonoff_**  `configuration.yaml`:
 
 ```text
 
