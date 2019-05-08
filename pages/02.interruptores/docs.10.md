@@ -62,7 +62,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 [ui-accordion-item title="Conmutador Shelly 1 | Amazon » 22,99€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Conmutador Shelly 1...**](https://amzn.to/2Lunn5V)</p><p>Transformar un hogar o una oficina<br /> en inteligente no requiere de complejas<br /> instalaciones. Interruptor de relé Wi-Fi Shelly 1,<br /> que con sus compactas dimensiones<br /> 41x36x17 mm el instalador podrá acoplarlo<br /> detrás de cualquier contacto de<br /> alimentación, interruptor de luz estándar,<br /> o directamente en una caja de DIN<br /> en la caja de electricidad. </p><p> | ![200x200][amzn-shelly1][![buy-mzn!][buy-mzn]](https://amzn.to/2Lunn5V)</p> |
+| <p>[**Conmutador Shelly 1...**](https://amzn.to/2Lunn5V)</p><p>Transformar un hogar o una oficina<br /> en inteligente no requiere de complejas<br /> instalaciones. Interruptor de relé<br /> Wi-Fi **_Shelly1_**, que con sus compactas<br /> dimensiones 41x36x17 mm el instalador podrá<br /> acoplarlo detrás de cualquier contacto<br />  de alimentación, interruptor de luz estándar,<br /> o directamente en una caja de DIN<br /> en la caja de electricidad. </p><p> | ![200x200][amzn-shelly1][![buy-mzn!][buy-mzn]](https://amzn.to/2Lunn5V)</p> |
 [/ui-accordion-item]
 
 [/ui-accordion]
