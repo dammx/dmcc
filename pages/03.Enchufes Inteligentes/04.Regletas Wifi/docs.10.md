@@ -66,6 +66,8 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
  * [**Smart Life Iphone**](https://apple.co/2DVyRsK)
  * [**Tuya Android**](http://bit.ly/2ZYql5T)
  * [**Tuya iphone**](https://apple.co/2vIrNeD)
+
+###### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.###### 
 ![](integracion_google_home.gif)
 
 **Para Integrarlo en Home Assitant**
