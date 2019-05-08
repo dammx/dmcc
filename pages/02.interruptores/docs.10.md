@@ -87,8 +87,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 ###### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.###### 
 
  * [**eWelink android**](http://bit.ly/304iAeG)
- * [**eWelink Iphone**](https://apple.co/2VO5ZwV)
-    
+ * [**eWelink Iphone**](https://apple.co/2VO5ZwV)    
  * [**Shelly Cloud android**](http://bit.ly/2DYDjHj)
  * [**Shelly Cloud android**](https://apple.co/2WuWTCk)
 ![](integracion_google_home.gif)
