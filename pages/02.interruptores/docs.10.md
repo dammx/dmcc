@@ -83,11 +83,14 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 
 [ui-tab title="Integración ..."]
 
-La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera **_eWelink_**,  en la configuración de añadir dispositivos de _Google Home_, aquí tenéis el enlace para descargarlo:
-> **_(Aúnque en el Ejemplo usamos la aplicacion Kasa, el procedimiento para la integración és el mismo, utilizando la apilcacion correcta del componente, arriba indicada)._**.
+La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera **_eWelink_**, para los dispositivos **-Sonoff_** y **_Shelly Cloud_**, para los dispositivos **_Shelly_**, en la configuración de añadir dispositivos de _Google Home_, aquí tenéis los enlaces para descargar la que necesitéis:
+> #### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.####
 
- * [**eWelink android**](http://bit.ly/304iAeG)
+ * [**eWelink android**](http://bit.ly/304iAeG)                
  * [**eWelink Iphone**](https://apple.co/2VO5ZwV)
+ 
+ * [**Shelly Cloud android**](http://bit.ly/2DYDjHj)
+ * [**Shelly Cloud android**](https://apple.co/2WuWTCk)
 ![](integracion_google_home.gif)
 
 **Para Integrarlo en Home Assitant**
