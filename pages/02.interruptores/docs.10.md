@@ -71,7 +71,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 | <p>[**Interruptor Cortina o Persianas WiFi...**](https://amzn.to/2JqiQ1O)</p><p>El interruptor de cortina Wifi puede funcionar<br /> con cortinas inteligentes, puertas<br /> eléctricas, puertas de garaje inteligentes<br /> y otros aparatos. El método de instalación <br />se puede instalar en tan solo unos<br /> minutos como el interruptor ciego tradicional.<br /> Los interruptores táctiles le brindan<br /> diferentes experiencias cuando lo usa.<br />(Este interruptor táctil wifi necesita<br /> conectarse con un cable neutro).<br />Aplicación **_eWelink_**</p> | ![200x200][amzn-persiana][![buy-mzn!][buy-mzn]](https://amzn.to/2JqiQ1O)</p> |
 [/ui-accordion-item]
 
-[ui-accordion-item title="Interruptor similar a Sonoff Bl/Ng | Aliexpress » 9,18€- 12,87€ "]
+[ui-accordion-item title="Interruptor similar a Sonoff Bl/Ng | Aliexpress » 9,18€ - 12,87€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Vhome Ewelink Touch Switch,2.4G...**](http://s.click.aliexpress.com/e/bw4GpfYy)</p><p>Interruptor similar a **_Sonoff_**  de 1 a 3 Gang,.<br /> 3 colores difrentes , Blanco, Negro o Crema..<br />Aplicación **_eWelink_**, se puede integrar<br /> a Google Home y a Home Assistant.</p> | ![200x200][amzn-vhome][![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/bw4GpfYy)</p> |
