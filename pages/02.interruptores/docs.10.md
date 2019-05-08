@@ -1,6 +1,6 @@
 ---
 title: 'Interruptores Wifi'
-media_order: 'shellys.png,sonoff_touch.png,sonoff_touch2.png,touch1.png'
+media_order: 'shellys.png,sonoff_touch.png,sonoff_touch2.png,touch1.png,basic.png'
 metadata:
     Key(domotizar_mi_casa): 'Valor(blog,grav)'
     Key(domotizar): 'Valor(blog,grav)'
@@ -35,6 +35,12 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 
 [ui-accordion independent=true open=none]
 
+[ui-accordion-item title="Sonoff Basic | Amazon » 5,81€ -  Aliexpress » 4,99€ "]
+|  |  |
+|:-------------|:-------------:|
+| <p>[**Sonoff Basic Interruptor Inteligente...**](https://amzn.to/2Hbfsor)</p><p>Sonoff Basic es un interruptor inteligente WiFi que permite encender y apagar remotamente un aparato eléctrico. Este dispositivo eléctrico transmite datos a través de su router WiFi, permitiendo a los usuarios controlar de forma remota todos los dispositivos conectados a través de la aplicación móvil**_eWeLink_**. </p><p> | ![200x200][amzn-basic][![buy-mzn!][buy-mzn]](https://amzn.to/2Hbfsor)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/b91hZB3S)</p> |
+[/ui-accordion-item]
+
 [ui-accordion-item title="Sonoff touch EU | Amazon » 21,33€ -  Aliexpress » 10,95€ "]
 |  |  |
 |:-------------|:-------------:|
@@ -53,6 +59,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 
 [amzn-touch2]: user://pages/02.interruptores/sonoff_touch2.png?lightbox=1024&cropResize=200,200
 [amzn-touch1]: user://pages/02.interruptores/touch1.png?lightbox=1024&cropResize=200,200
+[amzn-basic]: user://pages/02.interruptores/basic.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
