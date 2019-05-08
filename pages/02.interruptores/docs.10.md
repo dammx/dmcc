@@ -1,6 +1,6 @@
 ---
 title: 'Interruptores Wifi'
-media_order: 'shellys.png,sonoff_touch2.png,touch1.png,basic.png,sonoff_touch3.png,shelly11.png,integracion_google_home.gif,sonoff_touch1.png'
+media_order: 'shellys.png,sonoff_touch2.png,touch1.png,basic.png,sonoff_touch3.png,shelly11.png,integracion_google_home.gif,sonoff_touch1.png,Persiana.png'
 metadata:
     Key(domotizar_mi_casa): 'Valor(blog,grav)'
     Key(domotizar): 'Valor(blog,grav)'
@@ -65,6 +65,12 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 | <p>[**Conmutador Shelly 1...**](https://amzn.to/2Lunn5V)</p><p>Transformar un hogar o una oficina<br /> en inteligente no requiere de complejas<br /> instalaciones. Interruptor de relé<br /> Wi-Fi **_Shelly1_**, que con sus compactas<br /> dimensiones 41x36x17 mm el instalador<br /> podrá acoplarlo detrás de cualquier contacto<br />  de alimentación, interruptor de luz estándar,<br /> o directamente en una caja de DIN<br /> en la caja de electricidad. </p><p> | ![200x200][amzn-shelly1][![buy-mzn!][buy-mzn]](https://amzn.to/2Lunn5V)</p> |
 [/ui-accordion-item]
 
+[ui-accordion-item title="Interruptor Cortina o Persianas WiFi  | Amazon » 20,99€ "]
+|  |  |
+|:-------------|:-------------:|
+| <p>[**Interruptor Cortina o Persianas WiFi...**](https://amzn.to/2JqiQ1O)</p><p>El interruptor de cortina Wifi puede funcionar con cortinas inteligentes, puertas eléctricas, puertas de garaje inteligentes y otros aparatos. El método de instalación se puede instalar en tan solo unos minutos como el interruptor ciego tradicional. Los interruptores táctiles le brindan diferentes experiencias cuando lo usa.(Este interruptor táctil wifi necesita conectarse con un cable neutro).</p> | ![200x200][amzn-persiana][![buy-mzn!][buy-mzn]](https://amzn.to/2JqiQ1O)</p> |
+[/ui-accordion-item]
+
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
@@ -74,6 +80,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 [amzn-basic]: user://pages/02.interruptores/basic.png?lightbox=1024&cropResize=200,200
 [amzn-touch3]: user://pages/02.interruptores/sonoff_touch3.png?lightbox=1024&cropResize=200,200
 [amzn-shelly1]: user://pages/02.interruptores/shelly11.png?lightbox=1024&cropResize=200,200
+[amzn-persiana]: user://pages/02.interruptores/Persiana.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
