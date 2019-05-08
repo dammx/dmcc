@@ -89,7 +89,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
  * [**eWelink android**](http://bit.ly/304iAeG)
  * [**eWelink Iphone**](https://apple.co/2VO5ZwV)    
  * [**Shelly Cloud android**](http://bit.ly/2DYDjHj)
- * [**Shelly Cloud android**](https://apple.co/2WuWTCk)
+ * [**Shelly Cloud Iphone**](https://apple.co/2WuWTCk)
 ![](integracion_google_home.gif)
 
 **Para Integrarlo en Home Assitant**
