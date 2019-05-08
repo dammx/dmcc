@@ -1,5 +1,6 @@
 ---
 title: 'Interruptores Wifi'
+media_order: sonoff_touch.png
 metadata:
     Key(domotizar_mi_casa): 'Valor(blog,grav)'
     Key(domotizar): 'Valor(blog,grav)'
@@ -15,7 +16,7 @@ visible: true
 
 > ¿Qué es un interruptor inteligente?
 Los interruptores WiFi al igual que los tradicionales se instalan conectándolos a la red eléctrica del interruptor convencional, pero a diferencia de los tradicionales te permiten instalar una aplicación de control en tu smartphone y con la que manejar a distancia este interruptor. Puedes establecer un horario, apagarlo o encenderlo de forma remota.
-
+![](sonoff_touch.png)
 Interruptores de luz inteligentes: cosas a considerar
 A diferencia de las luces inteligentes , los interruptores requieren un poco más de consideración. Puede parecer un caso de simplemente sacar tu interruptor existente e intercambiarlo por uno nuevo, pero hay cosas que debes considerar (cableado, medidas, compatibilidad) 
 
