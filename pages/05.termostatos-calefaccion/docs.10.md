@@ -79,6 +79,8 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera **_BeokHome_**,  en la configuración de añadir dispositivos de _Google Home_, aquí tenéis el enlace para descargarlo:
  * [**BeokHome android**](http://bit.ly/2H4huqE)
  * [**BeokHome Iphone**](https://apple.co/2PTiGRF)
+
+###### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.###### 
 ![](integracion_google_home.gif)
 
 **Para Integrarlo en Home Assitant**
