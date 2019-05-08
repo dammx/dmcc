@@ -50,7 +50,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 [ui-accordion-item title="Sonoff 2 Gang Wifi | Amazon » 22,98 - Aliexpress » 17,71€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Sonoff T1 WiFi Touch 2 Gang...**](https://amzn.to/2Jp3Gtp)</p><p>Encendido / apagado remoto: enciende/apaga las<br /> luces desde cualquier lugar.<br /> Soporte de aplicaciones: aplicación <br />móvil gratuita iOS y Android **_eWeLink_**.<br /> Control independiente: controla cada grupo<br /> por separado. Timers para encender/apagar<br /> a la hora especificada. Control compartido:<br /> controle su casa inteligente<br /> junto con su familia. Compatibilidad:<br /> Amazon Alexa, Asistente de Google.</p> | ![200x200][amzn-touch1][![buy-mzn!][buy-mzn]](https://amzn.to/2Jp3Gtp)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/bQ01Ojfi) |
+| <p>[**Sonoff T1 WiFi Touch 2 Gang...**](https://amzn.to/2Jp3Gtp)</p><p>Encendido / apagado remoto: enciende/apaga<br /> las luces desde cualquier lugar.<br /> Soporte de aplicaciones: aplicación <br />móvil gratuita iOS y Android **_eWeLink_**.<br /> Control independiente: controla cada grupo<br /> por separado. Timers para encender/apagar<br /> a la hora especificada. Control compartido:<br /> controle su casa inteligente<br /> junto con su familia. Compatibilidad:<br /> Amazon Alexa, Asistente de Google.</p> | ![200x200][amzn-touch1][![buy-mzn!][buy-mzn]](https://amzn.to/2Jp3Gtp)</p>[![buy-aliex][buy-aliex]](http://s.click.aliexpress.com/e/bQ01Ojfi) |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Sonoff 3 Gang WiFi | Amazon » 23,75€ -  Aliexpress » 19,08€ "]
