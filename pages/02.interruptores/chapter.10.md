@@ -8,9 +8,9 @@ taxonomy:
 child_type: docs
 ---
 
-![win10](image://os-compat.png)
-
 ### Interruptores Wifi ###
+
+![win10](image://os-compat.png)
 
 > ¿Qué es un interruptor inteligente?
 Los interruptores WiFi al igual que los tradicionales se instalan conectándolos a la red eléctrica del interruptor convencional, pero a diferencia de los tradicionales te permiten instalar una aplicación de control en tu smartphone y con la que manejar a distancia este interruptor. Puedes establecer un horario, apagarlo o encenderlo de forma remota.
