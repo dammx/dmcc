@@ -4,7 +4,8 @@ metadata:
     Key(domotizar_mi_casa): 'Valor(blog,grav)'
     Key(domotizar): 'Valor(blog,grav)'
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
