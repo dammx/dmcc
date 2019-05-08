@@ -83,9 +83,11 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 
 [ui-tab title="Integración ..."]
 
-La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera IHC,  en la configuración de añadir dispositivos de _Google Home_, en éste caso concreto la aplicación de _Android_ que a mí me funcionó correctamente es la que se descarga de su página oficial, la que se baja de _Google Play_ no me funcionó correctamente, aquí tenéis el enlace para descargarlo:
- * [**IHC android**](http://bit.ly/2VMG34J)
- * [**IHC Iphone**](https://apple.co/2H80XBN)
+La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera **_eWelink_**,  en la configuración de añadir dispositivos de _Google Home_, aquí tenéis el enlace para descargarlo:
+> **_(Aúnque en el Ejemplo usamos la aplicacion Kasa, el procedimiento para la integración és el mismo, utilizando la apilcacion correcta del componente, arriba indicada)._**.
+
+ * [**eWelink android**](http://bit.ly/304iAeG)
+ * [**eWelink Iphone**](https://apple.co/2VO5ZwV)
 ![](integracion_google_home.gif)
 
 **Para Integrarlo en Home Assitant**
