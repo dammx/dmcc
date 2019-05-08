@@ -94,7 +94,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 
 **Para Integrarlo en Home Assitant**
 
-+ Ejemplo `configuration.yaml`:
++ Ejemplo configuración dispositivos **_Shelly_** `configuration.yaml`:
 
 ```text
 
@@ -110,6 +110,19 @@ switch:
       content-type: application/x-www-form-urlencoded
 
 ```
++ Ejemplo configuración dispositivos **_Sonoff_** `configuration.yaml`:
+
+```text
+
+sonoff:
+  username: nuestrocorreo@correo.es
+  password: nuestracontraseña
+  scan_interval: 60
+  grace_period: 600
+  api_region: 'eu'
+
+```
+
 ---
 
 [/ui-tab]
