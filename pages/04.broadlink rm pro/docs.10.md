@@ -55,6 +55,8 @@ Televisores, aires acondicionados, ventanas, reproductores de música y reproduc
 La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera IHC,  en la configuración de añadir dispositivos de _Google Home_, en éste caso concreto la aplicación de _Android_ que a mí me funcionó correctamente es la que se descarga de su página oficial, la que se baja de _Google Play_ no me funcionó correctamente, aquí tenéis el enlace para descargarlo:
  * [**IHC android**](http://bit.ly/2VMG34J)
  * [**IHC Iphone**](https://apple.co/2H80XBN)
+
+###### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.###### 
 ![](integracion_google_home.gif)
 
 **Para Integrarlo en Home Assitant**
