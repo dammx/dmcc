@@ -23,7 +23,7 @@ A diferencia de las luces inteligentes , los interruptores **requieren un poco m
 Éstos interruptores **requieren un cable de fase adicional** (normalmente color azul, dentro de tu instalacion), para la alimentacion del dispositivo wifi.
 **También debes tener en cuenta** que éstos dispositivos, en caso de **reemplazo de los existentes**, si los existentes son conmutados, **pierdes uno de los conmutados**, cosa que no agrada demasiado.
 
-Otra opción en vez de reemplazar los interruptores, son los dispositivos _Shelly_, son disposivos que se instalan en las cajas de empalme de la casa,  con los cables de los interruptores existentes, por lo que mantienes la función de los interrupteres y además están enlazados por wifi.
+**Otra opción en vez de reemplazar los interruptores**, son los dispositivos **_Shelly_**, son disposivos que se instalan en las cajas de empalme de la casa,  con los cables de los interruptores existentes, por lo que **mantienes la función de los interrupteres y además están enlazados por wifi.**
 
 Pero los interruptores de luz inteligentes te otorgan un control inteligente sobre las luces «tontas» que ya se encuentran en tu hogar; no solo puedes encenderlas o apagarlas a miles de kilómetros de distancia, sino que también podrás ajustar el brillo y, en algunos casos, el color. Si tienes algún accesorio de iluminación en tu hogar que sea incompatible con bombillas inteligentes, el interruptor que buscas deberá ser un interruptor inteligente.
 
