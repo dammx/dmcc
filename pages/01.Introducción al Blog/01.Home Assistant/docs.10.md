@@ -2,8 +2,7 @@
 title: 'Home Assistant'
 media_order: Interface.png
 metadata:
-    'key(home Assistant)': 'Valor(Blog,Grav)'
-    'key(domotizar_con_home Assistant)': 'Valor(Blog,Grav)'
+    'key(home,assistant)': 'Valor(domotizar,casa,home,assistant,wi-fi,windows,wifi,python3,python,google,aliexpress,amazon)'
 taxonomy:
     category:
         - docs
