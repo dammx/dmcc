@@ -2,7 +2,7 @@
 title: 'Google Home'
 media_order: 'home1.png,home2.png,Rutinas1..png,Rutinas2..png'
 metadata:
-    key(google_home): 'Valor(Blog,Grav)'
+    'key(google,home)': 'Valor(domotizar,casa,google,wifi,wi-fi,inteligente,home,domotico,assistant,android,iphone,aliexpress,amazon'
 taxonomy:
     category:
         - docs
