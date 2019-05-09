@@ -14,7 +14,7 @@ La ventaja de instalar en Windows, para los que no somos programadores, es que *
 
 **Empezaremos por instalar Python3 en Windows:**<br/>lo podremos hacer desde este enlace: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
 
-**Instalación Home Assistant en Windows:**<br/> Abriremos una consola de comandos cmd y escribiremos lo siguiente:
+**Instalación Home Assistant en Windows:**<br/> Abriremos una consola de comandos `cmd` y escribiremos lo siguiente:
 
 ```
   py -m pip install homeassistant (Enter)  
