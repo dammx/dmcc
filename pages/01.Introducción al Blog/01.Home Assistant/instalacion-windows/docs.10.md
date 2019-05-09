@@ -13,7 +13,6 @@ Con el fin de hacer pruebas y aprender el funcionamiento, empecé por **instalar
 La ventaja de instalar en Windows, para los que no somos programadores, es que **tienes acceso al archivo "configuration.yaml**",el archivo madre de la configuración de Home Assistant, sin tener que hacer grandes instalaciones de acceso a través de DDns o configuraciones más complicadas.
 
 **Empezaremos por instalar Python3 en Windows:**
-
 lo podremos hacer desde este enlace: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
 
 **Instalación Home Assistant en Windows:**
