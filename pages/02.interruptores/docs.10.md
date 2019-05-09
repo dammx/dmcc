@@ -3,7 +3,6 @@ title: 'Interruptores Wifi'
 media_order: 'shellys.png,sonoff_touch2.png,touch1.png,basic.png,sonoff_touch3.png,shelly11.png,integracion_google_home.gif,sonoff_touch1.png,Persiana.png,vhome.png'
 metadata:
     Key(domotizar_mi_casa): 'Valor(blog,grav)'
-    Key(domotizar): 'Valor(blog,grav)'
 taxonomy:
     category:
         - docs
