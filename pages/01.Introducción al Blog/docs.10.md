@@ -2,7 +2,7 @@
 title: 'Introducción al Blog'
 media_order: home-assistant.png
 metadata:
-    ' Key(domotizar,casa)': 'Valor(domotizar,casa,interruptor,wifi,wi-fi,inteligente,luz,shelly,sonoff,cortina,persiana,aliexpress,amazon)'
+    ' Key(domotizar,casa)': 'Valor(domotizar,casa,home,assistant,wifi,wi-fi,inteligente,luz,tp-link,regleta,python,automatico,aliexpress,amazon)'
 taxonomy:
     category:
         - docs
