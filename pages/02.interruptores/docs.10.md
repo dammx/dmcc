@@ -2,7 +2,7 @@
 title: 'Interruptores Wifi'
 media_order: 'shellys.png,sonoff_touch2.png,touch1.png,basic.png,sonoff_touch3.png,shelly11.png,integracion_google_home.gif,sonoff_touch1.png,Persiana.png,vhome.png'
 metadata:
-    Key(interruptores_wifi): 'Valor(interruptor,wifi,wi-fi,inteligente,luz,shelly,sonoff,cortina,persiana,aliexpress,amazon)'
+    Key(interruptores_wifi): 'Valor(domotizar,casa,interruptor,wifi,wi-fi,inteligente,luz,shelly,sonoff,cortina,persiana,aliexpress,amazon)'
 taxonomy:
     category:
         - docs
