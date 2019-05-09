@@ -1,7 +1,7 @@
 ---
 title: 'Enchufes ...'
 metadata:
-    key(enchufes_wifi): 'Valor(Blog,Grav)'
+    'key(enchufes,wifi)': 'Valor(domotizar,casa,enchufes,programar,tp-link,inteligentes,regletas,android,iphone,aliexpress,amazon)'
 taxonomy:
     category:
         - docs
