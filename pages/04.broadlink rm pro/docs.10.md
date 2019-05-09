@@ -3,7 +3,7 @@ title: 'BroadlinkRM Pro WIFI + IR + Control RemotoRF'
 media_order: 'Broadlink.png,rm_pro.png,rm_mini_3.png,integracion_google_home.gif,smartir.zip,smartir3.png'
 published: true
 metadata:
-    key(broadlink): 'Valor(Blog,Grav)'
+    key(broadlink): 'Valor(domotizar,wifi,wi-fi,mando,distancia,multiple,universal,inteligentes,control,remoto,ir,frecuencia,android,iphone,aliexpress,amazon)'
 taxonomy:
     category:
         - docs
