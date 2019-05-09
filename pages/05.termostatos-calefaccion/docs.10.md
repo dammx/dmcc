@@ -2,7 +2,7 @@
 title: 'Termostatos Wifi'
 media_order: 'netnamo.png,nest.png,Beok.png,mac.jpg,Floureon.png,decdeal.png,integracion_google_home.gif'
 metadata:
-    key(termostatos_wifi): 'Valor(Blog,Grav)'
+    'key(termostatos,wifi)': 'Valor(domotizar,wifi,wi-fi,termostato,distancia,inteligentes,netnamo,beok,floureon,decdeal,nest,control,android,iphone,aliexpress,amazon)'
 taxonomy:
     category:
         - docs
