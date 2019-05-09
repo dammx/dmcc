@@ -2,6 +2,8 @@
 title: 'Regletas Wifi'
 media_order: 'iraza.png,Konesky.png,integracion_google_home.gif,Acuario.png,ligthweight.png'
 published: true
+metadata:
+    'key(regletas,wifi)': 'Valor(domotizar,casa,enchufes,programar,tp-link,inteligentes,regletas,android,iphone,aliexpress,amazon)'
 taxonomy:
     category:
         - docs
