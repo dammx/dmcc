@@ -2,7 +2,7 @@
 title: 'Rutinas en Google Home'
 media_order: Rutinas.png
 metadata:
-    key(rutinas_en_google_home): 'Valor(Blog,Grav)'
+    'key(rutinas,google,home)': 'Valor(domotizar,casa,google,programar,personalizar,escenas,inteligente,home,rutinas,assistant,android,iphone,aliexpress,amazon)'
 taxonomy:
     category:
         - docs
