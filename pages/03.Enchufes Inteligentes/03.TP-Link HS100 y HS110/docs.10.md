@@ -2,8 +2,7 @@
 title: 'TP-Link HS100 y HS110'
 media_order: 'Screenshot_1.png,tp-link-hs-100.png,tp-link-hs-110.png,integracion_google_home.gif'
 metadata:
-    key(enchufes_wifi): 'Valor(Blog,Grav)'
-    key(enchufes_tp-link): 'Valor(Blog,Grav)'
+    'key(enchufes,tp-link,wifi)': 'Valor(domotizar,casa,enchufes,programar,tp-link,inteligentes,programar,home,assistant,hs100,hs110,regletas,android,iphone,aliexpress,amazon)'
 taxonomy:
     category:
         - docs
@@ -26,13 +25,13 @@ Para controlar ambos hay que descargar la aplicación Kasa para [iOS](https://ap
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title="TP-Link HS100 | » 19,90€"]
+[ui-accordion-item title="TP-Link HS100 | Amazon » 19,90€"]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**TP-Link HS100 - Enchufe inteligente para controlar sus disposi-<br />tivos desde cualquier lugar, sin necesidad de concentrador ...**](https://amzn.to/2Lj7sHB)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>**Kasa** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | ![200x200][amzn-TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB)</p> |
 [/ui-accordion-item]
 
-[ui-accordion-item title="TP-Link HS110 | » 27.99€"]
+[ui-accordion-item title="TP-Link HS110 | Amazon » 27.99€"]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**TP-Link HS110 - Enchufe inteligente para controlar sus disposi-<br />tivos desde cualquier lugar, sin necesidad de concentrador ...**](https://amzn.to/2HjWRab)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>**Kasa** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | ![200x200][amzn-TPL-HS110] [![buy-mzn!][buy-mzn]](https://amzn.to/2HjWRab)</p> |
