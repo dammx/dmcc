@@ -6,6 +6,16 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - interruptor
+        - wifi
+        - inteligente
+        - luz
+        - cortina
+        - persiana
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 child_type: docs
 visible: true
 ---
