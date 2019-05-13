@@ -4,8 +4,8 @@ media_order: home-assistant.png
 metadata:
     ' Key(domotizar,casa)': 'Valor(domotizar,casa,home,assistant,wifi,wi-fi,inteligente,luz,tp-link,regleta,python,automatico,aliexpress,amazon)'
 taxonomy:
-    category: docs
-    tag: ''
+    category:
+        - docs
 child_type: docs
 visible: true
 ---
