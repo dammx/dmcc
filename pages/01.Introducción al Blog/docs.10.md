@@ -6,6 +6,8 @@ metadata:
 taxonomy:
     category:
         - docs
+external_links:
+    process: true
 child_type: docs
 visible: true
 ---
