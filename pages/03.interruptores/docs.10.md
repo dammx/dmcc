@@ -90,7 +90,7 @@ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con inte
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-touch2]: user://pages/02.interruptores/sonoff_touch2.png?lightbox=1024&cropResize=200,200
+[amzn-touch2]: user://pages/03.interruptores/sonoff_touch2.png?lightbox=1024&cropResize=200,200
 [amzn-touch1]: user://pages/02.interruptores/touch1.png?lightbox=1024&cropResize=200,200
 [amzn-basic]: user://pages/02.interruptores/basic.png?lightbox=1024&cropResize=200,200
 [amzn-touch3]: user://pages/02.interruptores/sonoff_touch3.png?lightbox=1024&cropResize=200,200
