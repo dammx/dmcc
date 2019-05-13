@@ -51,9 +51,9 @@ Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simul
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-iraza]: user://pages/02.Enchufes-Inteligentes/02.Regletas-Wifi/iraza.png?lightbox=1024&cropResize=200,200
-[amzn-Konesky]: user://pages/02.Enchufes-Inteligentes/02.Regletas-Wifi/Konesky.png?lightbox=1024&cropResize=200,200
-[amzn-Lightweight]: user://pages/02.Enchufes-Inteligentes/02.Regletas-Wifi/ligthweight.png?lightbox=1024&cropResize=200,200
+[amzn-iraza]: user://pages/03.Enchufes-Inteligentes/02.Regletas-Wifi/iraza.png?lightbox=1024&cropResize=200,200
+[amzn-Konesky]: user://pages/03.Enchufes-Inteligentes/02.Regletas-Wifi/Konesky.png?lightbox=1024&cropResize=200,200
+[amzn-Lightweight]: user://pages/03.Enchufes-Inteligentes/02.Regletas-Wifi/ligthweight.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
