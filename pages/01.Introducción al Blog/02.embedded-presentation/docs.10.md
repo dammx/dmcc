@@ -1,6 +1,5 @@
 ---
 title: 'Embedded Presentation'
-published: false
 taxonomy:
     category:
         - docs
