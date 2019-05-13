@@ -1,5 +1,6 @@
 ---
 title: Sensores
+published: false
 taxonomy:
     category:
         - docs
