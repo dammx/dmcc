@@ -6,6 +6,25 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - casa
+        - voz
+        - google
+        - programar
+        - personalizar
+        - escenas
+        - inteligente
+        - home
+        - rutinas
+        - assistant
+        - android
+        - iphone
+        - aliexpress
+        - amazon
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 visible: true
 ---
 
