@@ -2,7 +2,7 @@
 title: 'Home Assistant'
 media_order: Interface.png
 metadata:
-    'key(home,assistant)': 'Valor(domotizar,casa,home,assistant,wi-fi,windows,wifi,python3,python,google,aliexpress,amazon)'
+    'key(home,assistant)': 'Valor(domotizar,casa,home,assistant,wi-fi,windows,wifi,python3,python,google,iftt,xiaomi)'
 taxonomy:
     category:
         - docs
@@ -19,7 +19,7 @@ Todo este sistema se puede gestionar de forma totalmente modular, pudiendo organ
 
 
 Home Assistant se integra con distintos servicios
-Home Assistant se encargará de controlar automáticamente el estado de todos los dispositivos inteligentes además de darnos la posibilidad de usar aplicaciones como IFTTT para crear recetas, Plex, Kodi o Arduino. Además, se puede integrar con una gran variedad de APIs como HUE, Nest, WeMo y incluso dispositivos Xiaomi.
+Home Assistant se encargará de controlar automáticamente el estado de todos los dispositivos inteligentes además de darnos la posibilidad de usar aplicaciones como _IFTTT_ para crear recetas, Plex, Kodi o Arduino. Además, se puede integrar con una gran variedad de APIs como _HUE_, _Nest_, _WeMo_ y incluso dispositivos _Xiaomi_.
 
 Automatización
 Home Assistant se basa en reglas para controlar el sistema. Todas las reglas cuentan con tres elementos:
