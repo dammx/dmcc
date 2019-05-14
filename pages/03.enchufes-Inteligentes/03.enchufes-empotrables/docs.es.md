@@ -59,22 +59,38 @@ El zócalo está protegido por una protección electrónica contra cortocircuito
 
 [ui-tab title="Integración ..."]
 
-La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo en la configuracion de añadir dispositivos de Google Home:
+La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera **_Smart Life_**  o  **_Tuya_**,  en la configuración de añadir dispositivos de _Google Home_, aquí tenéis el enlace para descargarlo:
+ * [**Smart Life android**](http://bit.ly/2JnEUtN)
+ * [**Smart Life Iphone**](https://apple.co/2DVyRsK)
+ * [**Tuya Android**](http://bit.ly/2ZYql5T)
+ * [**Tuya iphone**](https://apple.co/2vIrNeD)
+
+###### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.###### 
 ![](integracion_google_home.gif)
+
 **Para Integrarlo en Home Assitant**
+Solo necesitaras anadir a tu `configuration.yaml` los siguientes datos:
 
-
-+ Ejemplo `configuration.yaml` entradas con IP's específicas:
++ Ejemplo  App Tuya `configuration.yaml`:
 
 ```text
-tplink:
-  discovery: false
-  light:
-    - host: 192.168.200.1
-    - host: 192.168.200.2
-  switch:
-    - host: 192.168.200.3
-    - host: 192.168.200.4
+
+tuya:
+  username: nuestro@correo.es
+  password: contraseñaquepusimos
+  country_code: 34 
+
+```
++ Ejemplo  App Smart Life `configuration.yaml`:
+
+```text
+​
+tuya:
+  username: nuestro@correo.es
+  password: contraseñaquepusimos
+  country_code: 34
+  platform: smart_life
+​
 ```
 ---
 
