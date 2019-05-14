@@ -7,6 +7,26 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - wifi
+        - wi-fi
+        - mando
+        - distancia
+        - multiple
+        - universal
+        - inteligentes
+        - control
+        - remoto
+        - ir
+        - frecuencia
+        - android
+        - iphone
+        - aliexpress
+        - amazon
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 visible: true
 ---
 
