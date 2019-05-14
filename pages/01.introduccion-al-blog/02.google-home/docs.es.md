@@ -6,6 +6,23 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - casa
+        - google
+        - wifi
+        - wi-fi
+        - inteligente
+        - home
+        - domotico
+        - assistant
+        - android
+        - iphone
+        - aliexpress
+        - amazon
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 visible: true
 ---
 
