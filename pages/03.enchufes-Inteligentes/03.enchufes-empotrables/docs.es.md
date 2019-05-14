@@ -70,7 +70,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 ![](integracion_google_home.gif)
 
 **Para Integrarlo en Home Assitant:**<br/>
--Solo necesitaras anadir a tu `configuration.yaml` los siguientes datos:
+-Solo necesitarás anadir a tu `configuration.yaml` los siguientes datos:
 
 + Ejemplo  App Tuya `configuration.yaml`:
 
