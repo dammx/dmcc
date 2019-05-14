@@ -120,7 +120,7 @@ Lo primero indicar que Home Assistant no soporta oficialmente los termostatos BE
 En el directorio donde tienes el `configuration.yaml` crea una carpeta ( si no la tienes ya creada) que se llame `custom_components` , dentro de ella una que se llame `climate` , en ella tendrás que pegar el fichero `broadlinkHysen.py`, puedes descargarlo de [aquí](http://bit.ly/2LsjpL5)( aunque tienes que cambiarle la extension de `.yaml` a `.py`)
 
 2. Crear termostato en el `configuration.yaml`
-Ahora el paso es crear la entrada en el configuration.yalm similar a este codigo, obviamente con la ip fija asignada al termostato en el campo host y con la MAC de tu termostato.
+Ahora el paso es crear la entrada en el `configuration.yaml` similar a este codigo, obviamente con la ip fija asignada al termostato en el campo host y con la MAC de tu termostato.
 
 + Ejemplo `configuration.yaml`:
 
