@@ -6,6 +6,20 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - Valor(domotizar
+        - casa
+        - google
+        - home
+        - assistant
+        - wifi
+        - wi-fi
+        - python
+        - automatico
+        - domotica
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 child_type: docs
 visible: true
 ---
