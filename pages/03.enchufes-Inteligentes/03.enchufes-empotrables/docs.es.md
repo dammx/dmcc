@@ -1,6 +1,6 @@
 ---
 title: 'Enchufes Empotrables'
-media_order: 'Kaifire.png,Jindia.png,shukowifi.png'
+media_order: 'Kaifire.png,Jindia.png,shukowifi.png,integracion_google_home.gif'
 taxonomy:
     category:
         - docs
