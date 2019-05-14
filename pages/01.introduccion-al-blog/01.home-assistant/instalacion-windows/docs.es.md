@@ -2,7 +2,7 @@
 title: 'Instalación en Windows'
 media_order: 'Inicio Home Assistant.png'
 metadata:
-    'key(instalacion,home,assistant,windows)': 'Valor(domotizar,casa,windows,python,wi-fi,wifi,home,assistant,aliexpress,amazon'
+    'key(instalacion,home,assistant,windows)': 'Valor(domotizar,casa,windows,python,wi-fi,wifi,home,assistant'
 taxonomy:
     category:
         - docs
