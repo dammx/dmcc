@@ -43,9 +43,9 @@ Home Assistant se encargará de controlar automáticamente el estado de todos lo
 **Automatización**<br/>
 Home Assistant se basa en reglas para controlar el sistema. Todas las reglas cuentan con tres elementos:
 
-* Trigger: lo que hace que se lance la regla.
-* Condition: condición a comprobar para que se ejecute la regla.
-* Action: acción que realiza la regla.
+* **Trigger**: lo que hace que se lance la regla.
+* **Condition**: condición a comprobar para que se ejecute la regla.
+* **Action**: acción que realiza la regla.
 
 En cualquier de estos tres elementos cuentas con un motor de plantillas que te permite extender las comprobaciones a lago más de opciones como "si A entonces B".
 
