@@ -16,8 +16,8 @@ Para la elección adecuada de las tomas de corriente, **tendrás que  tener en c
 Toma de corriente de protección con 2 conectores USB tipo A. Conexiones hasta cable de 2,5 mm².<br/>
 Protección con protección infantil integrada. Uso simultáneo de todos los puertos,USB a 2.4A.<br/>
 Para la carga sin complicaciones de todos los dispositivos móviles que tienen una interfaz USB, como por ejemplo iPhones, iPads y teléfonos inteligentes.<br/> 
-Girado alrededor por la descripción simple.La carga máxima de los dos puertos USB es de 2.4A.<br/>
-El zócalo está protegido por una protección electrónica contra cortocircuitos, una protección contra sobrecargas y una función de filtro de línea.
+La carga máxima de los dos puertos USB es de 2.4A.<br/>
+LA Toma está protegida por una protección electrónica contra cortocircuitos, una protección contra sobrecargas y una función de filtro de línea.
 ![](Kaifire.png)
 
 ---
