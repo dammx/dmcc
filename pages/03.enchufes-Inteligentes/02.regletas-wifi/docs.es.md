@@ -7,6 +7,25 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - wifi
+        - wi-fi
+        - casa
+        - enchufes
+        - multiple
+        - regletas
+        - programar
+        - Iraza
+        - Konesky
+        - inteligentes
+        - android
+        - iphone
+        - aliexpress
+        - amazon
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 visible: true
 ---
 
