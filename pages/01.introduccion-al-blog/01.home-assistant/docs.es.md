@@ -14,6 +14,9 @@ taxonomy:
         - wi-fi
         - windows
         - wifi
+        - plex
+        - kodi
+        - arduino
         - python3
         - python
         - google
