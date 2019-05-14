@@ -135,7 +135,7 @@ climate:
     target_temp_step: 0.5
     scan_interval: 15
 ```
-El scan_interval son los segundo que tarda en refrescar la información del termostato. Aquí está cada 15sg, yo una vez finalice todas la automatizaciones lo cambiaré a 90sg, ya que con ese refresco me parece suficiente.
+El scan_interval son los segundos que tarda en refrescar la información del termostato. Aquí está cada 15sg, yo una vez finalice todas la automatizaciones lo cambiaré a 90sg, ya que con ese refresco me parece suficiente.
 
 Con estos dos simples pasos ya puedes verificar el código y reiniciar el sistema
 
