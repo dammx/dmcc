@@ -6,6 +6,9 @@ metadata:
 taxonomy:
     category:
         - docs
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 visible: true
 ---
 
