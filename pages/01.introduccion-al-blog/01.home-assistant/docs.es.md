@@ -6,6 +6,19 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - casa
+        - home
+        - assistant
+        - wi-fi
+        - windows
+        - wifi
+        - python3
+        - python
+        - google
+        - iftt
+        - xiaomi
 sitemap:
     changefreq: hourly
     priority: 0.5
