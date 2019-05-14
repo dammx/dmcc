@@ -69,8 +69,8 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 ###### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.###### 
 ![](integracion_google_home.gif)
 
-**Para Integrarlo en Home Assitant**<br/>
-- Solo necesitaras anadir a tu `configuration.yaml` los siguientes datos:
+**Para Integrarlo en Home Assitant:**<br/>
+-Solo necesitaras anadir a tu `configuration.yaml` los siguientes datos:
 
 + Ejemplo  App Tuya `configuration.yaml`:
 
