@@ -6,6 +6,18 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - casa
+        - windows
+        - python
+        - wi-fi
+        - wifi
+        - home
+        - assistant
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 visible: true
 ---
 
