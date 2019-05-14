@@ -1,7 +1,7 @@
 ---
 title: 'nMap para windows (Tracker ID)'
 metadata:
-    'key(nmap,windows)': 'Valor(domotizar,casa,windows,wifi,wi-fi,inteligente,nmap,home,assistant,rastrear,dispositivo,aliexpress,amazon'
+    'key(nmap,windows)': 'Valor(domotizar,casa,windows,wifi,wi-fi,inteligente,nmap,home,python,assistant,rastrear,dispositivo'
 taxonomy:
     category:
         - docs
