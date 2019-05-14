@@ -5,6 +5,21 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - casa
+        - enchufes
+        - programar
+        - tp-link
+        - inteligentes
+        - regletas
+        - android
+        - iphone
+        - aliexpress
+        - amazon
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 child_type: docs
 visible: true
 ---
