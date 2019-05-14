@@ -6,6 +6,25 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - casa
+        - enchufes
+        - programar
+        - tp-link
+        - inteligentes
+        - home
+        - assistant
+        - hs100
+        - hs110
+        - regletas
+        - android
+        - iphone
+        - aliexpress
+        - amazon
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 process:
     markdown: true
     twig: true
