@@ -6,6 +6,9 @@ metadata:
 taxonomy:
     category:
         - docs
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 visible: true
 ---
 
@@ -62,8 +65,8 @@ Tenemos modelos cono los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-netnamo]: user://pages/05.termostatos-calefaccion/netnamo.png?lightbox=1024&cropResize=200,200
-[amzn-Nest]: user://pages/05.termostatos-calefaccion/nest.png?lightbox=1024&cropResize=200,200
+[amzn-netnamo]: user://pages/05.termostatos-wifi-calefaccion/netnamo.png?lightbox=1024&cropResize=200,200
+[amzn-Nest]: user://pages/05.termostatos-wifi-calefaccion/nest.png?lightbox=1024&cropResize=200,200
 [amzn-Beok]: user://pages/05.termostatos-calefaccion/Beok.png?lightbox=1024&cropResize=200,200
 [amzn-Floureon]: user://pages/05.termostatos-calefaccion/Floureon.png?lightbox=1024&cropResize=200,200
 [amzn-Decdeal]: user://pages/05.termostatos-calefaccion/decdeal.png?lightbox=1024&cropResize=200,200
