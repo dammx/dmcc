@@ -38,7 +38,7 @@ El zócalo está protegido por una protección electrónica contra cortocircuito
 [ui-accordion-item title="Toma corriente 15A UE 2 puertos USB | Aliexpress » 18,71€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Toma Schuko Enchufe Pared **15A**<br/> 2 puertos de carga USB,<br/> Blanco/...**](http://s.click.aliexpress.com/e/86Y7JIs)</p><p>- **Acceso remoto**: Toma de corriente<br/> con protección infantil integrada 15A.<br/> Uso simultáneo de todos los puertos,<br/> USB a 2.4A.<br/>Para la carga sin complicaciones de todos<br/> los dispositivos móviles que tienen una interfaz<br/> USB, como por ejemplo iPhones,<br/> iPads y teléfonos inteligentes.<br/>La carga máxima de los dos puertos USB<br/> es de 2.4A...</p> | ![200x200][amzn-shukowifi] [![buy-aliex!][buy-aliex]](http://s.click.aliexpress.com/e/86Y7JIs)</p> |
+| <p>[**Toma Schuko Enchufe Pared 15A<br/> 2 puertos de carga USB,<br/> Blanco/...**](http://s.click.aliexpress.com/e/86Y7JIs)</p><p>- **Acceso remoto**: Toma de corriente<br/> con protección infantil integrada 15A.<br/> Uso simultáneo de todos los puertos,<br/> USB a 2.4A.<br/>Para la carga sin complicaciones de todos<br/> los dispositivos móviles que tienen una interfaz<br/> USB, como por ejemplo iPhones,<br/> iPads y teléfonos inteligentes.<br/>La carga máxima de los dos puertos USB<br/> es de 2.4A...</p> | ![200x200][amzn-shukowifi] [![buy-aliex!][buy-aliex]](http://s.click.aliexpress.com/e/86Y7JIs)</p> |
 [/ui-accordion-item]
 [/ui-accordion]
 
