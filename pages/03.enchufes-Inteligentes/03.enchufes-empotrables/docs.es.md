@@ -17,7 +17,7 @@ Toma de corriente de protección con 2 conectores USB tipo A. Conexiones hasta c
 Protección con protección infantil integrada. Uso simultáneo de todos los puertos,USB a 2.4A.<br/>
 Para la carga sin complicaciones de todos los dispositivos móviles que tienen una interfaz USB, como por ejemplo iPhones, iPads y teléfonos inteligentes.<br/> 
 La carga máxima de los dos puertos USB es de 2.4A.<br/>
-LA Toma está protegida por una protección electrónica contra cortocircuitos, una protección contra sobrecargas y una función de filtro de línea.
+La Toma está protegida por una protección electrónica contra cortocircuitos, una protección contra sobrecargas y una función de filtro de línea.
 ![](Kaifire.png)
 
 ---
