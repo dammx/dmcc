@@ -5,6 +5,23 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - casa
+        - windows
+        - wifi
+        - wi-fi
+        - inteligente
+        - nmap
+        - home
+        - python
+        - assistant
+        - tracker
+        - rastrear
+        - dispositivo
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 visible: true
 ---
 
