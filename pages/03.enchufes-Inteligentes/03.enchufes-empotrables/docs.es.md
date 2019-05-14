@@ -32,10 +32,9 @@ El zócalo está protegido por una protección electrónica contra cortocircuito
 [ui-accordion-item title="Jindia 2.4A Schuko Enchufe Pared | Amazon » 13,49€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Jindia 2.4A Schuko Enchufe para la pared con 2 puertos de carga USB, toma USB Sockets de pared, Blanco/Gris...**](https://amzn.to/2LIBu7T)</p><p>- **Acceso remoto**: Toma de contacto de protección con protección infantil integrada. Uso simultáneo de todos los puertos,USB a 2.4A. 
-Para la carga sin complicaciones de todos los dispositivos móviles que tienen una interfaz USB, como por ejemplo iPhones, iPads y teléfonos inteligentes. 
-Girado alrededor por la descripción simple. Sólo para ser instalado por personal cualificado ! 
-La carga máxima de los dos puertos USB es de 2.4A.  ...</p> | ![200x200][amzn-TPL-HS110] [![buy-mzn!][buy-mzn]](https://amzn.to/2LIBu7T)</p> |
+| <p>[**Jindia 2.4A Schuko Enchufe para la pared<br/> 2 puertos de carga USB,<br/> Blanco/Gris...**](https://amzn.to/2LIBu7T)</p><p>- **Acceso remoto**: Toma de contacto<br/> con protección infantil integrada.<br/> Uso simultáneo de todos los puertos,USB a 2.4A.<br/> 
+Para la carga sin complicaciones de todos<br/> los dispositivos móviles que tienen<br/> una interfaz USB, como por ejemplo iPhones,<br/> iPads y teléfonos inteligentes.<br/>
+La carga máxima de los dos puertos USB es de 2.4A...</p> | ![200x200][amzn-TPL-HS110] [![buy-mzn!][buy-mzn]](https://amzn.to/2LIBu7T)</p> |
 [/ui-accordion-item]
 
 [/ui-accordion]
