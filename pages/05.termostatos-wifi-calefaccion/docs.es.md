@@ -6,6 +6,23 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - wifi
+        - wi-fi
+        - termostato
+        - distancia
+        - inteligentes
+        - netnamo
+        - beok
+        - floureon
+        - decdeal
+        - nest
+        - control
+        - android
+        - iphone
+        - aliexpress
+        - amazon
 sitemap:
     changefreq: hourly
     priority: 0.5
