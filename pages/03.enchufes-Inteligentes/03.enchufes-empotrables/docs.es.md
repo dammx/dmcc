@@ -26,13 +26,13 @@ El zócalo está protegido por una protección electrónica contra cortocircuito
 [ui-accordion-item title="Kaifire USB Enchufe Pared 2.4A Schuko | Amazon » 13,99€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Kaifire USB Enchufe Pared 2.4A Schuko<br/> Toma de Corriente Estándar<br/> con 2 USB Conectores...**](https://amzn.to/2HqTtKl)</p><p>- **Acceso remoto**: Controla dispositivos<br/> conectados al Enchufe<br/> Inteligente donde tengas Internet,<br/> utilizando la app gratuita<br/> **SmartLife** en tu smartphone.<br/>- **Programación:** Programa el Enchufe Inteligente<br/> para que automáticamente encienda<br/> o apague la alimentación de los<br/> electrodomésticos según sea necesario:...</p> | ![200x200][amzn-TPL-HS100] [![buy-mzn!][buy-mzn]](https://amzn.to/2HqTtKl)</p> |
+| <p>[**Kaifire USB Enchufe Pared 2.4A Schuko<br/> Toma de Corriente Estándar<br/> con 2 USB Conectores...**](https://amzn.to/2HqTtKl)</p><p>- **Acceso remoto**: Controla dispositivos<br/> conectados al Enchufe<br/> Inteligente donde tengas Internet,<br/> utilizando la app gratuita<br/> **SmartLife** en tu smartphone.<br/>- **Programación:** Programa el Enchufe Inteligente<br/> para que automáticamente encienda<br/> o apague la alimentación de los<br/> electrodomésticos según sea necesario:...</p> | ![200x200][amzn-Kaifire] [![buy-mzn!][buy-mzn]](https://amzn.to/2HqTtKl)</p> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Jindia 2.4A Schuko Enchufe Pared | Amazon » 13,49€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Jindia 2.4A Schuko Enchufe para la pared<br/> 2 puertos de carga USB,<br/> Blanco/Gris...**](https://amzn.to/2LIBu7T)</p><p>- **Acceso remoto**: Toma de contacto<br/> con protección infantil integrada.<br/> Uso simultáneo de todos los puertos,<br/> USB a 2.4A.<br/>Para la carga sin complicaciones de todos<br/> los dispositivos móviles que tienen una interfaz<br/> USB, como por ejemplo iPhones,<br/> iPads y teléfonos inteligentes.<br/>La carga máxima de los dos puertos USB<br/> es de 2.4A...</p> | ![200x200][amzn-TPL-HS110] [![buy-mzn!][buy-mzn]](https://amzn.to/2LIBu7T)</p> |
+| <p>[**Jindia 2.4A Schuko Enchufe para la pared<br/> 2 puertos de carga USB,<br/> Blanco/Gris...**](https://amzn.to/2LIBu7T)</p><p>- **Acceso remoto**: Toma de contacto<br/> con protección infantil integrada.<br/> Uso simultáneo de todos los puertos,<br/> USB a 2.4A.<br/>Para la carga sin complicaciones de todos<br/> los dispositivos móviles que tienen una interfaz<br/> USB, como por ejemplo iPhones,<br/> iPads y teléfonos inteligentes.<br/>La carga máxima de los dos puertos USB<br/> es de 2.4A...</p> | ![200x200][amzn-Jindia][![buy-mzn!][buy-mzn]](https://amzn.to/2LIBu7T)</p> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Toma corriente 15A UE 2 puertos USB | Aliexpress » 18,71€"]
