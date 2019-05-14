@@ -27,7 +27,7 @@ La Toma está protegida por una protección electrónica contra cortocircuitos, 
 [ui-accordion-item title="Kaifire USB Enchufe Pared 2.4A Schuko | Amazon » 13,99€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Kaifire USB Enchufe Pared 2.4A Schuko<br/> Toma de Corriente Estándar<br/> con 2 USB Conectores...**](https://amzn.to/2HqTtKl)</p><p>- **Acceso remoto**: Controla dispositivos<br/> conectados al Enchufe<br/> Inteligente donde tengas Internet,<br/> utilizando la app gratuita<br/> **SmartLife** en tu smartphone.<br/>- **Programación:** Programa el Enchufe<br/> Inteligente para que automáticamente encienda<br/> o apague la alimentación de los<br/> electrodomésticos según sea necesario:...</p> | ![200x200][amzn-Kaifire] [![buy-mzn!][buy-mzn]](https://amzn.to/2HqTtKl)</p> |
+| <p>[**Kaifire USB Enchufe Pared 2.4A Schuko<br/> Toma de Corriente Estándar<br/> con 2 USB Conectores...**](https://amzn.to/2HqTtKl)</p><p>- **Acceso remoto**: Controla dispositivos<br/> conectados al Enchufe<br/> Inteligente donde tengas Internet,<br/> utilizando la app gratuita<br/> **SmartLife** en tu smartphone.<br/>- **Programación:** Programa el Enchufe<br/> Inteligente para que automáticamente<br/> encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario:...</p> | ![200x200][amzn-Kaifire] [![buy-mzn!][buy-mzn]](https://amzn.to/2HqTtKl)</p> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Jindia 2.4A Schuko Enchufe Pared | Amazon » 13,49€"]
