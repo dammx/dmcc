@@ -2,7 +2,7 @@
 title: 'Home Assistant'
 media_order: Interface.png
 metadata:
-    'key(home,assistant)': 'Valor(domotizar,casa,home,assistant,wi-fi,windows,wifi,plex,kodi,arduino,python3,python,google,iftt,xiaomi)'
+    key(home_assistant): 'Valor(domotizar,casa,home,assistant,wi-fi,windows,wifi,plex,kodi,arduino,python3,python,google,iftt,xiaomi)'
 taxonomy:
     category:
         - docs
