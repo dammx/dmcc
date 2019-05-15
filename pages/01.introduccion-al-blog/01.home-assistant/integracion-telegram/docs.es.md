@@ -47,3 +47,46 @@ Para poder integrar en nuestra instalación necesitamos tan solo un dato, nuestr
 En el, pondremos /start y posteriormente el comando /getid y os contestará un número:
 
 Con ese número apuntado, ya podemos configurar nuestro Home Assistant para comunicarse con nosotros desde Telegram. Puedes ver la integración en la siguiente pestaña
+
+
+
+
+
+[/ui-tab]
+[ui-tab title="Integración..."]
+
+**Para Integrarlo en Home Assitant**
+
++ Ejemplo configuración dispositivos **_Shelly_**  `configuration.yaml`:
+
+```text
+
+switch:
+  - platform: rest
+    name: "Shelly2 Switch1"
+    scan_interval: 5
+    resource: http://192.168.0.28/relay/0    (IP de nuestro Shelly1)
+    body_on: 'turn=on'
+    body_off: 'turn=off'
+    is_on_template: '{{ value_json.ison == true}}'
+    headers:
+      content-type: application/x-www-form-urlencoded
+
+```
++ Ejemplo configuración dispositivos **_Sonoff_**  `configuration.yaml`:
+
+```text
+
+sonoff:
+  username: nuestrocorreo@correo.es
+  password: nuestracontraseña
+  scan_interval: 60
+  grace_period: 600
+  api_region: 'eu'
+
+```
+---
+
+[/ui-tab]
+
+[/ui-tabs]
