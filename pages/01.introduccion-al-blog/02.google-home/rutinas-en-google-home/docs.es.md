@@ -31,7 +31,7 @@ Puedes programar rutinas personalizadas para que se inicien automáticamente por
 + Inícia la aplicación _Google Home_.
 + En la esquina inferior derecha de la pantalla de início, **toca** en _Cuenta_ .
 + Comprueba que la cuenta de Google que aparece sea la que está vinculada a _Google Home_.  Para cambiar de cuenta, **toca** el triángulo situado a la derecha del nombre de la cuenta.
-+ **Toca** _Ajustes_ y después en la pestaña _Asistente_ , después en _Rutinas_ y finalmente _add_routine_ en el apartado "_Cuando..._"
++ **Toca** _Ajustes_ y después en la pestaña _Asistente_ , después en _Rutinas_ y finalmente _add routine_ en el apartado "_Cuando..._"
 ![](Rutinas.png)
 + **Toca** _Añadir comandos_, después _plus_ e introduce la frase que quieras decir para activar la rutina y después _Back_.<br />
 + **Toca** Establecer una _hora y un día_ (opcional) elige una hora para esta rutina y después _Back_.<br />
