@@ -58,7 +58,7 @@ b0_e1_7e_2a_6a_ca:
   mac: B0:E1:7E:2A:6A:CA
   name: Eric                    # <- Nombre del dispositivo o del ususario
   picture:  /local/Eric1.jpg    # <- imagen del dispositivo o del usuario
-  track: true                   # <- mostrar: `true` ocultar: `false`
+  track: true                   # <- mostrar: `true` /  ocultar: `false`
   
 ```
 La imagen debes tenerla en una carpeta, dentro de `.homeassistant`, y llamarla `www`, si no la tienes debes crearla.
