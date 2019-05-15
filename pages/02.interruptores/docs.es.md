@@ -147,7 +147,7 @@ sonoff:
   api_region: 'eu'
 
 ```
-!! _"En el caso de la configuración de los disposivos **Sonoff**, la aplicación **eWelink**, **no permite estar abierta en dos aplicaciones al mismo tiempo**, así que, recomiendo que abras otra cuenta de correo, solo para Home Assistant, y que désde la cuenta principal del móvil, compartas los dispositivos a la cuenta de correo de Home Assistant, de ésta manera podrá estar abierta en las dos aplicaciones a la vez."_
+!! #####_"En el caso de la configuración de los disposivos **Sonoff**, la aplicación **eWelink**, **no permite estar abierta en dos aplicaciones al mismo tiempo**, así que, recomiendo que abras otra cuenta de correo, solo para Home Assistant, y que désde la cuenta principal del móvil, compartas los dispositivos a la cuenta de correo de Home Assistant, de ésta manera podrá estar abierta en las dos aplicaciones a la vez."_#####
 
 ---
 
