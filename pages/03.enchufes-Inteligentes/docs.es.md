@@ -1,7 +1,7 @@
 ---
 title: 'Enchufes ...'
 metadata:
-    'key(enchufes,wifi)': 'Valor(domotizar,casa,enchufes,programar,tp-link,inteligentes,regletas)'
+    key(enchufes_wifi): 'Valor(domotizar,casa,enchufes,programar,tp-link,inteligentes,regletas)'
 taxonomy:
     category:
         - docs
