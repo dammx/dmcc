@@ -40,7 +40,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 
 !! Si tienes algún accesorio de iluminación en tu hogar que sea incompatible con bombillas inteligentes, el interruptor que buscas deberá ser un interruptor inteligente.
 
-+ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con interruptores de luz inteligentes puede ser una tarea costosa, especialmente con casas más grandes. Pero luego, el coste de instalar bombillas inteligentes y enchufes inteligentes en toda la casa puede costar más a largo plazo.
++ Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con interruptores de luz inteligentes puede ser una tarea costosa, especialmente con casas grandes. Pero la alternativa, es decir, el coste de instalar bombillas inteligentes y enchufes inteligentes en toda la casa puede resultar superior, a largo plazo.
 
 ---
 
