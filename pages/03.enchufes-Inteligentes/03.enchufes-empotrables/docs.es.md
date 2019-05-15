@@ -34,7 +34,7 @@ visible: true
 + Para la carga sin complicaciones de todos los dispositivos móviles que tienen una interfaz USB, como por ejemplo _iPhone(s)_, _iPad(s)_ y teléfonos inteligentes _Android_.
 + **La carga máxima de los dos puertos USB es de 2.4A**
 
-La Toma suele estar protegida por una protección electrónica contra cortocircuitos, sobrecargas y una función de filtro de línea.
+La Toma suele estar protegida por una protección electrónica contra **cortocircuitos**, **sobrecargas** y una función de **filtro de línea**.
 ![](Kaifire.png)
 
 ---
