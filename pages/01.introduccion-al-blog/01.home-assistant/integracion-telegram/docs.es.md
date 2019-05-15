@@ -23,7 +23,7 @@ Si ya tenéis Telegram, podéis seguir la guía de integración, pero, para aque
 
 [/ui-tab]
 
-[ui-tab title="Integración ..."]
+[ui-tab title="Crear Bot..."]
 
 **Para Integrarlo en Home Assitant**
 
@@ -56,6 +56,12 @@ sonoff:
 
 ```
 ---
+
+[/ui-tab]
+[ui-tab title="Integración..."]
+
+
+
 
 [/ui-tab]
 
