@@ -1,7 +1,7 @@
 ---
 title: 'Enchufes ...'
 metadata:
-    'key(enchufes,wifi)': 'Valor(domotizar,casa,enchufes,programar,tp-link,inteligentes,regletas,android,iphone,aliexpress,amazon)'
+    'key(enchufes,wifi)': 'Valor(domotizar,casa,enchufes,programar,tp-link,inteligentes,regletas)'
 taxonomy:
     category:
         - docs
@@ -13,10 +13,6 @@ taxonomy:
         - tp-link
         - inteligentes
         - regletas
-        - android
-        - iphone
-        - aliexpress
-        - amazon
 sitemap:
     changefreq: hourly
     priority: 0.5
