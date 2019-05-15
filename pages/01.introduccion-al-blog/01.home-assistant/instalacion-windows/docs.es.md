@@ -36,7 +36,7 @@ ___
   
 ```
 
-![home-assistant-install](2019-05-15_11-38-45.gif?lightbox=1024&cropResize=700,360)
+![home-assistant-install](2019-05-15_11-38-45.gif)
 
 ---
 
