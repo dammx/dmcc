@@ -48,7 +48,7 @@ Completo control de la regleta vía Wifi:
 
 Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan sobrecargas, altas temperaturas y largas jornadas de trabajo como el resto de regletas de calidad.
 
-!!!! _"En mi caso, por ejemplo, tengo una regleta wifi 4 tomas y 4 USB, y **la tengo puesta en el acuario para controlar la luz, el calentador, el alimentador y la bomba de filtrado**. En el caso del calentador y de la bomba que están 24 horas funcionando, el alimentador y la luz están con timer programado, de esa manera se que esta mantenido aúnque yo no esté en casa por unos días, además está integrado en Home Assistant con lo que que me avisa vía Telegram si algo se apaga inesperadamente."_.
+!!! _"En mi caso, por ejemplo, tengo una regleta wifi 4 tomas y 4 USB, y **la tengo puesta en el acuario para controlar la luz, el calentador, el alimentador y la bomba de filtrado**. En el caso del calentador y de la bomba que están 24 horas funcionando, el alimentador y la luz están con timer programado, de esa manera se que esta mantenido aúnque yo no esté en casa por unos días, además está integrado en Home Assistant con lo que que me avisa vía Telegram si algo se apaga inesperadamente."_.
 
 ![](Acuario.png)
 
