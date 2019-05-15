@@ -7,7 +7,7 @@ taxonomy:
     category:
         - docs
     tag:
-        - Valor(domotizar
+        - domotizar
         - casa
         - google
         - home
