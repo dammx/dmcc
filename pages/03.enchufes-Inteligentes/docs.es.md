@@ -26,7 +26,7 @@ visible: true
 
 ## - Inteligentes con WiFi
 
-* Entre los usos que podemos darle a un enchufe inteligente con WiFi encontramos: Programar el encendido de luces, de calentadores eléctricos, del ordenador, de la televisión, y un largo etc. Si te acuestas siempre a la misma hora, puedes decirle que te desconecte la televisión y todos los dispositivos a una hora concreta, y en un año puedes ahorrar bastante dinero evitando ese consumo fantasma. Todos los que vamos a recomendar aquí tienen WiFi.
+* Entre los usos que podemos darle a un enchufe inteligente con WiFi encontramos: Programar el encendido de luces, de calentadores eléctricos, del ordenador, de la televisión, y un largo etc. Si te acuestas siempre a la misma hora, puedes decirle que te desconecte la televisión y todos los dispositivos a una hora concreta, y en un año puedes ahorrar bastante dinero evitando ese consumo fantasma. **Todos los que vamos a recomendar aquí tienen WiFi**.
 
 ---
 
