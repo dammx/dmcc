@@ -2,7 +2,7 @@
 title: 'TP-Link HS100 y HS110'
 media_order: 'Screenshot_1.png,tp-link-hs-100.png,tp-link-hs-110.png,integracion_google_home.gif'
 metadata:
-    'key(enchufes,tp-link,wifi)': 'Valor(domotizar,casa,enchufes,programar,tp-link,inteligentes,programar,home,assistant,hs100,hs110,regletas,android,iphone,aliexpress,amazon)'
+    key(enchufes_wifi): 'Valor(domotizar,casa,enchufes,programar,tp-link,inteligentes,programar,home,assistant,hs100,hs110,regletas,android,iphone,aliexpress,amazon)'
 taxonomy:
     category:
         - docs
