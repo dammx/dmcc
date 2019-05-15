@@ -29,13 +29,18 @@ La ventaja de instalar en Windows, para los que no somos programadores, es que *
 **Instalación Home Assistant en Windows:**<br/> Abriremos una consola de comandos `cmd` y escribiremos lo siguiente:
 
 ```
-  py -m pip install homeassistant (Enter)  
-  py -m homeassistant —-open-ui (Enter)
+  py -m pip install homeassistant (Enter)    
   
 ```
-**Instalación Home Assistant:**
+
 ![](2019-05-15_11-38-45.gif)
+
 **Arranque Home Assistant:**
+
+```
+py -m homeassistant —-open-ui (Enter)
+
+```
 ![](2019-05-15_11-49-16.gif)
 Al final de la instalación, ya podremos entrar en **Home Assistant** a través del navegador con una dirección URL:  [http://localhost:8123](http://localhost:8123)
 
