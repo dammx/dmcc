@@ -28,11 +28,11 @@ visible: true
 
 !!! Para la elección adecuada de las tomas de corriente, **tendrás que  tener en cuenta el consumo de los electrodomésticos que vayas a conectar**, existen tomas de hasta 10A y tomas de 15A y 16A.
 
-+ Toma de corriente de protección con 2 conectores USB tipo A. Conexiones con cable de hasta 2,5 mm².
++ Toma de corriente de protección, con 2 conectores **USB tipo A**. Conexiones con cable de hasta 2,5 mm².
 + Protección con protección infantil integrada.
 + Uso simultáneo de todos los puertos,USB a 2.4A.
 + Para la carga sin complicaciones de todos los dispositivos móviles que tienen una interfaz USB, como por ejemplo _iPhone(s)_, _iPad(s)_ y teléfonos inteligentes _Android_.
-+ La carga máxima de los dos puertos USB es de 2.4A.
++ **La carga máxima de los dos puertos USB es de 2.4A**
 
 La Toma suele estar protegida por una protección electrónica contra cortocircuitos, sobrecargas y una función de filtro de línea.
 ![](Kaifire.png)
