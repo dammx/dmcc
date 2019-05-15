@@ -6,6 +6,15 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - enchufes
+        - empotrable
+        - kaifire
+        - jindia
+        - schuko
+        - toma
+        - corriente
 sitemap:
     changefreq: hourly
     priority: 0.5
