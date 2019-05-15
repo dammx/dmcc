@@ -48,7 +48,7 @@ device_tracker:
 ```  
 Una vez añadido y guardado el archivo configuration.yaml ,debes reiniciar Home Assistant.
 
-La salida de Nmap es una lista de objetivos escaneados, que se guardan en un fichero `known_devices.yaml` dentro de la carpeta de la configuración de `.homeassistant`, los cuales podras editar y nombrar.
+La salida de Nmap es una lista de objetivos escaneados, que se guardan en un fichero `known_devices.yaml` dentro de la carpeta de la configuración de `.homeassistant`, los cuales podrás editar y nombrar e incluso poner una iamgen personalizada
 ![](devices.png)
 
 ```
