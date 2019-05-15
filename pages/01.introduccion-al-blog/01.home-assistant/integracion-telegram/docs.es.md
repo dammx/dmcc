@@ -57,32 +57,25 @@ Con ese número apuntado, ya podemos configurar nuestro Home Assistant para comu
 
 **Para Integrarlo en Home Assitant**
 
-+ Ejemplo configuración dispositivos **_Shelly_**  `configuration.yaml`:
+vamos a usar la llamada “Telegram Polling” para poder mandar mensajes a nuestro usuario en Telegram. Para ello, abriremos el `configuration.yaml` y añadiremos lo siguiente:
 
 ```text
 
-switch:
-  - platform: rest
-    name: "Shelly2 Switch1"
-    scan_interval: 5
-    resource: http://192.168.0.28/relay/0    (IP de nuestro Shelly1)
-    body_on: 'turn=on'
-    body_off: 'turn=off'
-    is_on_template: '{{ value_json.ison == true}}'
-    headers:
-      content-type: application/x-www-form-urlencoded
+telegram_bot:
+  platform: polling
+  api_key: 719825869:AAGA9CRytgCMkF3FGX0oPE_cDOdUAuxG9g0Q
+  allowed_chat_ids:
+    - 77685961    
 
 ```
-+ Ejemplo configuración dispositivos **_Sonoff_**  `configuration.yaml`:
++ crear el notificador, `configuration.yaml`:
 
 ```text
 
-sonoff:
-  username: nuestrocorreo@correo.es
-  password: nuestracontraseña
-  scan_interval: 60
-  grace_period: 600
-  api_region: 'eu'
+notify:
+  - name: telegram
+    platform: telegram
+    chat_id: 77685961 
 
 ```
 ---
