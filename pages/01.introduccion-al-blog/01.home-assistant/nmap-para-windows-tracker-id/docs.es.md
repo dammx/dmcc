@@ -37,6 +37,8 @@ Nmap ("Network Mapper") es una herramienta de código abierto para la exploraci�
 qué sistemas operativos (y versiones de sistema operativo) están ejecutando, qué tipo de filtros de paquetes / cortafuegos están en uso, y docenas de otras características. Si bien Nmap se usa comúnmente para auditorías de seguridad, muchos administradores de sistemas y redes lo encuentran útil para tareas rutinarias como el inventario de redes, la administración de programas de actualización de servicios,
 y monitoreando el tiempo de actividad del host o del servicio.
 
+Para editar el archivo `configuration.yaml` recomendamos que utilices [_++Notepad_](http://bit.ly/2HnM0fc)
+
 Para la configuración de **"nmap device tracker"** debes añadir ésto en tu `configuration.yaml`:
 
 ```
@@ -44,6 +46,7 @@ device_tracker:
   - platform: nmap_tracker
     hosts: 192.168.1.0/24
 ```  
+Una vez añadido y guardado el archivo configuration.yaml ,debes reiniciar Home Assistant.
 
 La salida de Nmap es una lista de objetivos escaneados, que se guardan en un fichero `known_devices.yaml` dentro de la carpeta de la configuracion de `.homeassistant`, los cuales podras editar y nombrar.
 ![](devices.png)
