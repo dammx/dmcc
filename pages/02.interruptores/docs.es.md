@@ -36,7 +36,9 @@ A diferencia de las luces inteligentes , los interruptores **requieren un poco m
 
 **Otra opción, en vez de reemplazar los interruptores**, són los dispositivos **_Shelly_**, són disposivos que se instalan en las cajas de empalme de la casa,  con los cables de los interruptores existentes, por lo que **mantienes la función de los interruptores, y además, están enlazados por wifi.**. **_Shelly 1_**  (una fase) **_Shelly 2,5_** (dos Fases).
 ![Shelly 1 y  Shelly 2,5](shellys.png)
-Pero los interruptores de luz inteligentes te otorgan un control inteligente sobre las luces «tontas» que ya se encuentran en tu hogar; no solo puedes encenderlas o apagarlas a miles de kilómetros de distancia, sino que también podrás ajustar el brillo y, en algunos casos, el color. Si tienes algún accesorio de iluminación en tu hogar que sea incompatible con bombillas inteligentes, el interruptor que buscas deberá ser un interruptor inteligente.
+Pero los interruptores de luz inteligentes te otorgan un control inteligente sobre las luces «tontas» que ya se encuentran en tu hogar; no solo puedes encenderlas o apagarlas a miles de kilómetros de distancia, sino que también podrás ajustar el brillo y en algunos casos, el color. 
+
+!!! Si tienes algún accesorio de iluminación en tu hogar que sea incompatible con bombillas inteligentes, el interruptor que buscas deberá ser un interruptor inteligente.
 
 Nuestro consejo es hacer un análisis costo-beneficio. Conectar tu casa con interruptores de luz inteligentes puede ser una tarea costosa, especialmente con casas más grandes. Pero luego, el coste de instalar bombillas inteligentes y enchufes inteligentes en toda la casa puede costar más a largo plazo.
 
