@@ -57,3 +57,6 @@ sonoff:
 ```
 ---
 
+[/ui-tab]
+
+[/ui-tabs]
