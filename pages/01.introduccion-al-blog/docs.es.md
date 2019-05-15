@@ -2,7 +2,7 @@
 title: 'Introducción al Blog'
 media_order: home-assistant.png
 metadata:
-    ' Key(domotizar,casa)': 'Valor(domotizar,casa,google,home,assistant,wifi,wi-fi,python,automatico,domotica)'
+    ' Key(domotizar_mi_casa)': 'Valor(domotizar,casa,google,home,assistant,wifi,wi-fi,python,automatico,domotica)'
 taxonomy:
     category:
         - docs
