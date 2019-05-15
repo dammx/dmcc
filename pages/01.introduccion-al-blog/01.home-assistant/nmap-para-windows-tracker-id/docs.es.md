@@ -2,7 +2,7 @@
 title: 'nMap para windows (Tracker ID)'
 media_order: 'trakers.png,devices.png'
 metadata:
-    'key(nmap,windows)': 'Valor(domotizar,casa,windows,wifi,wi-fi,inteligente,nmap,home,python,assistant,tracker,rastrear,dispositivo'
+    key(nmap_windows): 'Valor(domotizar,casa,windows,wifi,wi-fi,inteligente,nmap,home,python,assistant,tracker,rastrear,dispositivo'
 taxonomy:
     category:
         - docs
