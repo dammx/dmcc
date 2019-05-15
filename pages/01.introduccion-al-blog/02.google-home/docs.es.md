@@ -34,7 +34,7 @@ El assitente de Google puede ayudarte en tareas como: **Temporizador**, **Google
 Pero si integras los dispositivos domóticos con las aplicaciones de los componentes puedes crear rutinas y/o escenas para crear ambientes o simplemente acciones que se ejecutan con frases predefinidas por ti:
 ![](Rutinas1..png)![](Rutinas2..png)
 
-!! Ver el capítulo [_Rutinas en Google Home_](/google-home/rutinas-en-google-home) para ver como se realizan.
+!!!! Ver el capítulo [_Rutinas en Google Home_](/google-home/rutinas-en-google-home) para ver como se realizan.
 
 
 
