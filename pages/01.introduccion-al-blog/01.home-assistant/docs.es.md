@@ -47,7 +47,7 @@ Todo este sistema se puede gestionar de forma totalmente modular, pudiendo organ
 * **Condition**: condición a comprobar para que se ejecute la regla.
 * **Action**: acción que realiza la regla.
 
-En cualquier de estos tres elementos cuentas con un motor de plantillas que te permiten extender las comprobaciones a algo más allá de la simple variable: "si _A_ entonces _B_".
+En cualquier de estos tres elementos cuentas con un motor de plantillas que te permiten extender las comprobaciones a algo más allá de la simple: "si _A_ entonces _B_".
 
 Gracias a esta característica puedes crear variables, aplicar transformaciones y hacer todas las comprobaciones que consideres necesarias.
 
