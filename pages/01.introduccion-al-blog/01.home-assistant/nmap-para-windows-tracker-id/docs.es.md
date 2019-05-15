@@ -1,6 +1,6 @@
 ---
 title: 'nMap para windows (Tracker ID)'
-media_order: devices.png
+media_order: 'devices.png,trakers.png'
 metadata:
     'key(nmap,windows)': 'Valor(domotizar,casa,windows,wifi,wi-fi,inteligente,nmap,home,python,assistant,tracker,rastrear,dispositivo'
 taxonomy:
@@ -51,8 +51,7 @@ b0_e1_7e_2a_6a_ca:
   
 ```
 La imagen debes tenerla en una carpeta, dentro de `.homeassistant`, y llamarla `www`, si no la tienes debes crearla.
-
-
+![](trakers.png)
 Para la configuración de "device tracker" debes añadir ésto en tu `configuration.yaml`:
 
 ```
