@@ -26,17 +26,17 @@ sitemap:
 visible: true
 ---
 
-Para empezar necesitas instalar el asistente de Google en tu teléfono Android o Iphone:
+Para empezar necesitas instalar el asistente de Google en tu teléfono _Android_ o _Iphone_:
 * [Google Home (Android)](http://bit.ly/2LdE5pN)
 * [Google Home (Iphone)](https://apple.co/2Y3CODo)
 
-El assitente de Google puede ayudarte en tareas como: Temporizador, google maps, noticias, Alarmas:
+El assitente de Google puede ayudarte en tareas como: **Temporizador**, **GoogleMaps**, **noticias**, **alarmas** :
 ![](home1.png)![](home2.png)
 
-Pero si integras los dispositivos domóticos con las aplicaciones de los componentes puedes crear rutinas y/o escenas para crear ambientes o simplemente acciones que se ejecutan con las frases predefinidas por ti
+Pero si integras los dispositivos domóticos con las aplicaciones de los componentes puedes crear rutinas y/o escenas para crear ambientes o simplemente acciones que se ejecutan con frases predefinidas por ti:
 ![](Rutinas1..png)![](Rutinas2..png)
 
-Ve al apartado Crear Rutinas Google Home para ver como se realizan.
+Ve al apartado _Crear Rutinas_ en _Google Home_ para ver como se realizan.
 
 
 
