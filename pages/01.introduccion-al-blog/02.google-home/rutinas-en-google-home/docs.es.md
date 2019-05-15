@@ -50,6 +50,6 @@ visible: true
 + **Toca** _Añadir_ archivo multimedia.
 + **Toca** el círculo que está junto a la fuente de medios.
 
-!! Nota: Puedes personalizar lo que se reproduce tocando Settings gear junto a la fuente.
+!! Nota: Puedes personalizar lo que se reproduce tocando _Settings gear_ junto a la fuente.
 
 + **Toca** _Añadir_ y después _Done_. En la esquina superior derecha, **toca** _Done_.
