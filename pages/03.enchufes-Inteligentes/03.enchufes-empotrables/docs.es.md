@@ -4,6 +4,9 @@ media_order: 'Kaifire.png,Jindia.png,shukowifi.png,integracion_google_home.gif'
 taxonomy:
     category:
         - docs
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 visible: true
 ---
 
