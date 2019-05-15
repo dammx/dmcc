@@ -1,6 +1,6 @@
 ---
 title: 'Instalación en Windows'
-media_order: 'Inicio Home Assistant.png'
+media_order: 'Inicio Home Assistant.png,2019-05-15_11-38-45.gif,2019-05-15_11-49-16.gif'
 metadata:
     'key(instalacion,home,assistant,windows)': 'Valor(domotizar,casa,windows,python,wi-fi,wifi,home,assistant'
 taxonomy:
@@ -33,11 +33,11 @@ La ventaja de instalar en Windows, para los que no somos programadores, es que *
   py -m homeassistant —-open-ui (Enter)
   
 ```
-
+![](2019-05-15_11-38-45.gif)![](2019-05-15_11-49-16.gif)
 Al final de la instalación, ya podremos entrar en Home Assistant a través del navegador con una dirección URL:  [http://localhost:8123](http://localhost:8123)
 
 Nos pedirá que creemos un usuario con contraseña y estaremos dentro de la configuración de Home Assistant.
-![](Inicio%20Home%20Assistant.png)
+
 
 
 
