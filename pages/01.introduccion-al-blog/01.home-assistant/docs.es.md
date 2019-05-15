@@ -40,8 +40,7 @@ Todo este sistema se puede gestionar de forma totalmente modular, pudiendo organ
 **Home Assistant se integra con distintos servicios:**<br/>
 **Home Assistant** se encargará de controlar automáticamente el estado de todos los dispositivos inteligentes además de darnos la posibilidad de usar aplicaciones como _IFTTT_ para crear recetas, _Plex_, _Kodi_ o _Arduino_. Además, se puede integrar con una gran variedad de APIs como _HUE_, _Nest_, _WeMo_ e incluso dispositivos _Xiaomi_.
 
-**Automatización**
-
+**Automatización**<br/>
 **Home Assistant** se basa en reglas para controlar el sistema. Todas las reglas cuentan con tres elementos:
 
 * **Trigger**: lo que hace que se lance la regla.
@@ -52,8 +51,7 @@ En cualquier de estos tres elementos cuentas con un motor de plantillas que te p
 
 Gracias a esta característica puedes crear variables, aplicar transformaciones y hacer todas las comprobaciones que consideres necesarias.
 
-**Interfaz**
-
-Su interfaz esta basada en Material Design y cuenta con varias características interesantes como el soporte a WebSockets que permite al sistema reaccionar en tiempo real. Esto permite mostrar los valores de los sensores en cada momento sin necesidad de recargar la página.
+**Interfaz**<br/>
+Su interfaz esta basada en _Material Design_ y cuenta con varias características interesantes como el soporte a _WebSockets_ que permite al sistema reaccionar en tiempo real. Esto permite mostrar los valores de los sensores en cada momento sin necesidad de recargar la página.
 
 Podemos decir en resumen que su interfaz es simple, clara y moderna, perfectamente adaptable a cualquier dispositivo.
