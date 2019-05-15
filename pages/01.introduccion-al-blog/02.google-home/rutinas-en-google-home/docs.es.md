@@ -27,12 +27,11 @@ visible: true
 ---
 
 ### Programar una rutina personalizada ...
-Puedes programar rutinas personalizadas para que se inicien automáticamente en un altavoz inteligente. Solo tienes que definir el día y la hora que quieras.<br />
-Abre la aplicación Google Home.<br />
-En la esquina inferior derecha de la pantalla de inicio, toca Cuenta .<br />
-Comprueba que la cuenta de Google que aparece sea la que está vinculada a Google Home.  Para cambiar de cuenta, toca el triángulo situado a la derecha del nombre de la cuenta.<br />
-Toca Ajustes  y después pestaña Asistente y después Rutinas y después add_routine.<br />
-En "Cuando..."<br />
+Puedes programar rutinas personalizadas para que se inicien automáticamente por ejemplo, en un altavoz inteligente: Solo tienes que definir el día y la hora que quieras...<br />
++ Abre la aplicación Google Home.<br />
++ En la esquina inferior derecha de la pantalla de inicio, toca Cuenta .<br />
++ Comprueba que la cuenta de Google que aparece sea la que está vinculada a Google Home.  Para cambiar de cuenta, toca el triángulo situado a la derecha del nombre de la cuenta.<br />
++ Toca Ajustes  y después pestaña Asistente y después Rutinas y después _add_routine_ en "_Cuando..._"
 ![](Rutinas.png)
 Toca Añadir comandos y después plus y después introduce la frase que quieras decir para activar la rutina y después Back.<br />
 Toca Establecer una hora y un día (opcional) y después Elige una hora para esta rutina y después Back.<br />
