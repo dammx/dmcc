@@ -29,7 +29,7 @@ visible: true
 ### nMap ###
 
 !!! nMap - Rastreador dispositivos conectado a la red
-!!! + Instalando este rastreador de dispositivos en un sistema conectado a nuestra red, podremos crear automatizaciones en Home Assistant basadas en nuestra presencia en nuestra casa.
+!!! + Instalando este rastreador de dispositivos en un sistema conectado a nuestra red, podremos crear automatizaciones en **Home Assistant** basadas en nuestra presencia en nuestra casa.
 !!! + Puedes descargarlo desde aquí: [nMap para Windows](https://nmap.org/dist/nmap-7.70-setup.exe)
 
 _Nmap_ ("Network Mapper") es una herramienta de código abierto para la exploración de redes y la auditorías de seguridad. Fue diseñado para escanear rápidamente redes grandes, aunque funciona bien contra _hosts_ individuales. _Nmap_ utiliza paquetes de IP sin procesar en formas novedosas para determinar qué _hosts_ están disponibles en la red, qué servicios (nombre y versión de la aplicación) ofrecen esos hosts,
