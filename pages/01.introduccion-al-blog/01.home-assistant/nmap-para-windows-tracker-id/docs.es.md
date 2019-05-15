@@ -26,7 +26,7 @@ sitemap:
 visible: true
 ---
 
-#### nMap ###
+### nMap ###
 #### (Rastreador dispositivos conectado a la red) ####
 
 **Instalando este rastreador de dispositivos en un sistema conectado a nuestra red, podremos crear automatizaciones en Home Assistant basadas en nuestra presencia en nuestra casa.**
