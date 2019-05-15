@@ -36,9 +36,17 @@ visible: true
 
 > Te presentamos algunas de las mejores regletas Wifi del mercado. Controla todos tus aparatos eléctricos desde tu dispositivo móvil de forma sencilla y eficiente.
 
-Aúnque de momento no son muchos los fabricantes que se han lanzado a la fabricación de regletas Wifi, desde domotizarmicasa.com estamos seguros de que ésta nueva forma de controlar la corriente eléctrica de tu casa va a ganar en adeptos en los próximos años.
+Aúnque de momento no son muchos los fabricantes que se han lanzado a la fabricación de regletas Wifi, desde [domotizarmicasa.com](https://domotizarmicasa.com) estamos seguros de que ésta nueva forma de controlar la corriente eléctrica de tu casa va a ganar en adeptos en un futuro inmediato.
 
-Completo control de la regleta vía Wifi Acepta múltiples conexiones Wifi simultáneas Posibilidad de ahorro en el consumo eléctrico Control individual de cada toma AC Comodidad para controlar dispositivos Opción de conexión con _Google Home_ o _Amazon Echo_. Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan sobrecargas, altas temperaturas y largas jornadas de trabajo como el resto de regletas de calidad.
+Completo control de la regleta vía Wifi:
+
++ Acepta múltiples conexiones Wifi simultáneas
++ Posibilidad de ahorro en el consumo eléctrico
++ Control individual de cada toma AC
++ Comodidad para controlar dispositivos
++ Opción de conexión con _Google Home_ o _Amazon Echo_.
+
+- Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan sobrecargas, altas temperaturas y largas jornadas de trabajo como el resto de regletas de calidad.
 
 >_"En mi caso, por ejemplo, tengo una regleta wifi 4 tomas y 4 USB, y **la tengo puesta en el acuario para controlar la luz, el calentador, el alimentador y la bomba de filtrado**. En el caso del calentador y de la bomba que están 24 horas funcionando, el alimentador y la luz están con timer programado, de esa manera se que esta mantenido aúnque yo no esté en casa por unos días, además está integrado en Home Assistant con lo que que me avisa vía Telegram si algo se apaga inesperadamente."_.
 
