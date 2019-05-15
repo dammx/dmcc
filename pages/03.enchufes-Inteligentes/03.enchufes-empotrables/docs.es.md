@@ -26,7 +26,7 @@ visible: true
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
-!! Para la elección adecuada de las tomas de corriente, **tendrás que  tener en cuenta el consumo de los electrodomésticos que vayas a conectar**, existen tomas de hasta 10A y tomas de 15A y 16A.
+!!! Para la elección adecuada de las tomas de corriente, **tendrás que  tener en cuenta el consumo de los electrodomésticos que vayas a conectar**, existen tomas de hasta 10A y tomas de 15A y 16A.
 
 + Toma de corriente de protección con 2 conectores USB tipo A. Conexiones con cable de hasta 2,5 mm².
 + Protección con protección infantil integrada.
