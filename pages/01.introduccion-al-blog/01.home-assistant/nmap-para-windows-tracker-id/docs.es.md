@@ -1,5 +1,6 @@
 ---
 title: 'nMap para windows (Tracker ID)'
+media_order: devices.png
 metadata:
     'key(nmap,windows)': 'Valor(domotizar,casa,windows,wifi,wi-fi,inteligente,nmap,home,python,assistant,tracker,rastrear,dispositivo'
 taxonomy:
@@ -36,15 +37,32 @@ Nmap ("Network Mapper") es una herramienta de código abierto para la exploraci�
 qué sistemas operativos (y versiones de sistema operativo) están ejecutando, qué tipo de filtros de paquetes / cortafuegos están en uso, y docenas de otras características. Si bien Nmap se usa comúnmente para auditorías de seguridad, muchos administradores de sistemas y redes lo encuentran útil para tareas rutinarias como el inventario de redes, la administración de programas de actualización de servicios,
 y monitoreando el tiempo de actividad del host o del servicio.
 
-La salida de Nmap es una lista de objetivos escaneados, con información complementaria sobre cada uno, dependiendo de las opciones utilizadas. La clave entre esa información es la "tabla de puertos interesantes". Esa tabla muestra el número de puerto y el protocolo, el nombre del servicio y el estado. El estado es abierto, filtrado, cerrado,
-o sin filtrar. Abrir significa que una aplicación en la máquina de destino está escuchando las conexiones / paquetes en ese puerto. Filtrado significa que un firewall, filtro u otro obstáculo de la red está bloqueando el puerto, por lo que Nmap no puede saber si está abierto o cerrado. Los puertos cerrados no tienen aplicación escuchando en ellos,
-aunque podrían abrirse en cualquier momento. Los puertos se clasifican como no filtrados cuando responden a las sondas de Nmap, pero Nmap no puede determinar si están abiertas o cerradas. Nmap informa de las combinaciones de estado abierto | filtrado y cerrado | filtrado cuando no puede determinar cuál de los dos estados describe un puerto.
-La tabla de puertos también puede incluir detalles de la versión del software cuando se ha solicitado la detección de la versión. Cuando se solicita una exploración de protocolo IP (-sO), Nmap proporciona información sobre protocolos IP compatibles en lugar de puertos de escucha.
+La salida de Nmap es una lista de objetivos escaneados, que se guardan en un fichero `known_devices.yaml` dentro de la carpeta de la configuracion de `.homeassistant`, los cuales podras editar y nombrar.
+![](devices.png)
 
-Además de la interesante tabla de puertos, Nmap puede proporcionar más información sobre los destinos, incluidos los nombres de DNS inversos,
-adivinanzas del sistema operativo, tipos de dispositivos y direcciones MAC.
+```
+b0_e1_7e_2a_6a_ca:
+  hide_if_away: false
+  icon:
+  mac: B0:E1:7E:2A:6A:CA
+  name: Eric                    # <- Nombre del dispositivo o del ususario
+  picture:  /local/Eric1.jpg    # <- imagen del dispositivo o del usuario
+  track: true
+  
+```
+La imagen debes tenerla en una carpeta, dentro de `.homeassistant`, y llamarla `www`, si no la tienes debes crearla.
 
-En el Ejemplo 15.1 se muestra una exploración típica de Nmap. Los únicos argumentos de Nmap utilizados en este ejemplo son -A, para habilitar la detección de versiones y sistemas operativos, escaneo de scripts y traceroute; -T4 para una ejecución más rápida; y luego el nombre de host.
+
+Para la configuración de "device tracker" debes añadir esto en tu `configuration.yaml`:
+
+```
+device_tracker:
+  - platform: nmap_tracker
+    hosts: 192.168.1.0/24
+```    
+    
+
+
 
 
 
