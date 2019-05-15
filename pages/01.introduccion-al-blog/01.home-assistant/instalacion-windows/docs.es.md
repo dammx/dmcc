@@ -27,6 +27,8 @@ ___
 
 **Empezaremos por instalar Python3 en Windows:**<br/>lo podremos hacer desde este enlace: [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
 
+---
+
 **Instalación Home Assistant en Windows:**<br/> Abriremos una consola de comandos `cmd` y escribiremos lo siguiente:
 
 ```
@@ -35,6 +37,8 @@ ___
 ```
 
 ![](2019-05-15_11-38-45.gif)
+
+---
 
 **Arranque Home Assistant:**
 
@@ -47,6 +51,7 @@ Al final de la instalación, ya podremos entrar en **Home Assistant** a través 
 
 Nos pedirá que creemos un usuario con contraseña y estaremos dentro de la configuración de Home Assistant.
 
+---
 
 
 
