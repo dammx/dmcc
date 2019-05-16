@@ -58,7 +58,7 @@ Puedes ver la integración en la siguiente pestaña.<br />
 [ui-tab title="Integración..."]
 
 **Para Integrarlo en Home Assitant**<br />
-+ Vamos a usar la llamada “Telegram Polling” para poder mandar mensajes a nuestro usuario en Telegram. Para ello, abriremos el `configuration.yaml` y añadiremos lo siguiente:<br />
++ Vamos a usar la llamada `Telegram Polling` para poder mandar mensajes a nuestro usuario en Telegram. Para ello, abriremos el `configuration.yaml` y añadiremos lo siguiente:<br />
 
 ```text
 
@@ -69,7 +69,7 @@ telegram_bot:
     - 77685961    
 
 ```
-+ Crear el notificador, `configuration.yaml`:
++ Para crear el notificador, `configuration.yaml`:
 
 ```text
 
