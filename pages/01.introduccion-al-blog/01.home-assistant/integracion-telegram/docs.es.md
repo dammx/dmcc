@@ -46,7 +46,7 @@ Si ya tenéis _Telegram_, podéis seguir **la guía de integración**, pero, par
 
 [/ui-tab]
 
-[ui-tab title="Crear Bot..."]
+[ui-tab title="Crear Bot ..."]
 
 + **Como crear un bot de Telegram**:<br />
 Buscamos el usuario _BotFather_, que és, el usuario que generará el bot:<br />
@@ -69,14 +69,16 @@ En el, pondremos `/start` y posteriormente el comando `/getid` y os contestará 
 ![](Telegram8.jpg)
 Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para comunicarse con nosotros desde _Telegram_:<br />
 ![](Telegram9.jpg)
-!! **¡¡Puedes ver la integración en _Home Assistant_ en la pestaña _<integración>_ [Integración ...](#integracion) de arriba!!** . <br />
+!! **¡¡Puedes ver la integración en _Home Assistant_ en la pestaña _<integración>_ [Integración](#integracion) de arriba!!** . <br />
 [![](up1_azul1.png)](# "Volver al Inicio")
 
 
 
 
 [/ui-tab]
-[ui-tab title="Integración..."]
+[ui-tab title="Integración ..."]
+
+## Integración <a id="integracion"></a>
 
 **Para Integrarlo en Home Assitant**<br />
 + Vamos a usar la llamada `Telegram Polling` para poder mandar mensajes a nuestro usuario en Telegram. Para ello, abriremos el `configuration.yaml` y añadiremos lo siguiente:<br />
