@@ -6,6 +6,17 @@ metadata:
 taxonomy:
     category:
         - docs
+    tag:
+        - domotizar
+        - casa
+        - google
+        - home
+        - assistant
+        - telegram
+        - bot
+        - botfhader
+        - mensaje
+        - domotica
 sitemap:
     changefreq: hourly
     priority: 0.5
