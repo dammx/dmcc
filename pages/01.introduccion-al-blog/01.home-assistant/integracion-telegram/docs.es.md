@@ -24,7 +24,6 @@ sitemap:
 visible: true
 ---
 
-[![](Up.png "Ir arriba")](#)
 ![win10](image://os-compat.png)
 
 [ui-tabs position="top-left" active="0" theme="lite"]
@@ -39,6 +38,7 @@ Todos **éstos cambios de estado se pueden automatizar con un mensaje** vía la 
 Si ya tenéis _Telegram_, podéis seguir **la guía de integración**, pero, para aquellos que no, os recomiendo que busquéis en vuestra tienda de aplicaciones, como _[Play Store](http://bit.ly/2VDrYay)_ o _[App Store](https://apple.co/30kq8u1)_, para descargarlo y ponerlo en marcha, al igual que se hace en _Whatsapp_. **Una vez que tengáis _Telegram_ en funcionamiento, podemos seguir para crear nuestro bot**, el cual, será el que nos informará y más adelante podrá recibir órdenes para poder hacer cosas en casa desde _Telegram_.
 
 ---
+[![](Up.png "Ir arriba")](#)
 
 [/ui-tab]
 
@@ -65,7 +65,7 @@ En el, pondremos `/start` y posteriormente el comando `/getid` y os contestará 
 ![](Telegram8.jpg)
 Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para comunicarse con nosotros desde _Telegram_:<br />
 ![](Telegram9.jpg)
-!! **Puedes ver la integración en _Home Assistant_ en la siguiente pestaña.**<br />
+!! **Puedes ver la integración en _Home Assistant_ en la siguiente pestaña.**   [![](Up.png "Ir arriba")](#)
 
 
 
