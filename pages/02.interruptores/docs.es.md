@@ -106,6 +106,8 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 
 ---
 
+[![](up1_azul1.png)](# "Volver al Inicio")
+
 [/ui-tab]
 
 [ui-tab title="Integración ..."]
