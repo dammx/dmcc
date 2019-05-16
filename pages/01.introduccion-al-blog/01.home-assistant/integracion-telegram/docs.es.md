@@ -1,6 +1,6 @@
 ---
 title: 'Integración Telegram'
-media_order: 'hate.png,Telegram1.jpg,Telegram2.jpg,Telegram3.jpg,Telegram5.jpg,Telegram4.jpg,Telegram6.jpg,Telegram7.jpg,Telegram8.jpg,Telegram9.jpg,Up.png,2_babyblue.png,flecha-imagen-animada-0407.gif'
+media_order: 'hate.png,Telegram1.jpg,Telegram2.jpg,Telegram3.jpg,Telegram5.jpg,Telegram4.jpg,Telegram6.jpg,Telegram7.jpg,Telegram8.jpg,Telegram9.jpg,Up.png,2_babyblue.png,flecha-imagen-animada-0407.gif,up1_azul1.png'
 metadata:
     Key(Telegram_home_assistant): 'Valor(domotizar,casa,google,home,assistant,telegram,bot,botfhader,mensaje,domotica)'
 taxonomy:
@@ -42,7 +42,7 @@ Todos **éstos cambios de estado se pueden automatizar con un mensaje** vía la 
 Si ya tenéis _Telegram_, podéis seguir **la guía de integración**, pero, para aquellos que no, os recomiendo que busquéis en vuestra tienda de aplicaciones, como _[Play Store](http://bit.ly/2VDrYay)_ o _[App Store](https://apple.co/30kq8u1)_, para descargarlo y ponerlo en marcha, al igual que se hace en _Whatsapp_. **Una vez que tengáis _Telegram_ en funcionamiento, podemos seguir para crear nuestro bot**, el cual, será el que nos informará y más adelante podrá recibir órdenes para poder hacer cosas en casa desde _Telegram_.
 
 ---
-[![](flecha-imagen-animada-0407.gif)](# "Volver al Inicio")
+[![](up1_azul1.png)](# "Volver al Inicio")
 
 [/ui-tab]
 
