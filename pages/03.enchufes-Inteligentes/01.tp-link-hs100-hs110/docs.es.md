@@ -1,6 +1,6 @@
 ---
 title: 'TP-Link HS100 y HS110'
-media_order: 'Screenshot_1.png,tp-link-hs-100.png,tp-link-hs-110.png,integracion_google_home.gif'
+media_order: 'Screenshot_1.png,tp-link-hs-100.png,tp-link-hs-110.png,integracion_google_home.gif,up1_azul1.png'
 metadata:
     key(enchufes_wifi): 'Valor(domotizar,casa,enchufes,programar,tp-link,inteligentes,programar,home,assistant,hs100,hs110,regletas,android,iphone,aliexpress,amazon)'
 taxonomy:
@@ -68,6 +68,8 @@ Para controlar ambos hay que descargar la aplicación Kasa para [iOS](https://ap
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
 ---
+
+[![](up1_azul1.png)](# "Volver al Inicio")
 
 [/ui-tab]
 
