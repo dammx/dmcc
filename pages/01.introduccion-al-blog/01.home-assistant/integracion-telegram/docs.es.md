@@ -17,6 +17,7 @@ taxonomy:
         - botfhader
         - mensaje
         - domotica
+        - automatizar
 sitemap:
     changefreq: hourly
     priority: 0.5
