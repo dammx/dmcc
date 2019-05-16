@@ -66,7 +66,7 @@ En el, pondremos `/start` y posteriormente el comando `/getid` y os contestará 
 Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para comunicarse con nosotros desde _Telegram_:<br />
 ![](Telegram9.jpg)
 !! Puedes ver la integración en _Home Assistant_ en la **pestaña integración de arriba** . <br />
-[![down-rigth](Up.png "Ir arriba")](#)
+[![](flecha-imagen-animada-0407.gif)](# "Subir arriba")
 
 
 
@@ -97,7 +97,7 @@ notify:
 
 ```
 ---
-
+[![](flecha-imagen-animada-0407.gif)](# "Subir arriba")
 [/ui-tab]
 
 [/ui-tabs]
