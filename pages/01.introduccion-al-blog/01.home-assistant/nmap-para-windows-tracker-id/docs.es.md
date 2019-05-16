@@ -33,7 +33,7 @@ visible: true
 _Nmap_ "Network Mapper" es una herramienta de código abierto para la exploración de redes y la auditorías de seguridad. Fue diseñado para escanear rápidamente redes grandes, aunque funciona bien contra _hosts_ individuales. _Nmap_ utiliza paquetes de IP sin procesar en formas novedosas para determinar qué _hosts_ están disponibles en la red, qué servicios (nombre y versión de la aplicación) ofrecen esos hosts,
 qué sistemas operativos (y que versiones de sistema operativo) se están ejecutando, qué tipo de filtros de paquetes / cortafuegos están en uso, y docenas de otras características. Si bien _Nmap_ se usa comúnmente para auditorías de seguridad, muchos administradores de sistemas y redes lo encuentran útil para tareas rutinarias como el inventario de redes, la administración de programas de actualización de servicios y/o monitorear el tiempo de actividad del _host_ o del servicio.
 
-Para editar el archivo `configuration.yaml` recomendamos que utilices el editor [_Notepad++_](https://notepad-plus-plus.org/download/)
+Para editar el archivo `configuration.yaml` recomendamos que utilices el editor [_Notepad++_](https://notepad-plus-plus.org/repository/7.x/7.6.6/npp.7.6.6.Installer.exe)
 
 Para la configuración de **"nmap device tracker"** debes añadir ésto en tu `configuration.yaml`:
 
