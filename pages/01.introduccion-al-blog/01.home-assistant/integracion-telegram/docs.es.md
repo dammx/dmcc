@@ -69,7 +69,7 @@ En el, pondremos `/start` y posteriormente el comando `/getid` y os contestará 
 ![](Telegram8.jpg)
 Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para comunicarse con nosotros desde _Telegram_:<br />
 ![](Telegram9.jpg)
-!! **¡¡Puedes ver la integración en _Home Assistant_ en la pestaña _<integración>_ [Integración](#integracion) de arriba!!** . <br />
+!! **¡¡Puedes ver la integración en _Home Assistant_ en la pestaña _<integración>_ [Integración](#int-1) de arriba!!** . <br />
 [![](up1_azul1.png)](# "Volver al Inicio")
 
 
@@ -78,7 +78,7 @@ Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para c
 [/ui-tab]
 [ui-tab title="Integración ..."]
 
-## Integración <a id="integracion"></a>
+## Integración <a id="int-1"></a>
 
 **Para Integrarlo en Home Assitant**<br />
 + Vamos a usar la llamada `Telegram Polling` para poder mandar mensajes a nuestro usuario en Telegram. Para ello, abriremos el `configuration.yaml` y añadiremos lo siguiente:<br />
