@@ -1,6 +1,6 @@
 ---
 title: 'Integración Telegram'
-media_order: 'hate.png,Telegram1.jpg,Telegram2.jpg,Telegram3.jpg,Telegram5.jpg,Telegram4.jpg,Telegram6.jpg,Telegram7.jpg,Telegram8.jpg'
+media_order: 'hate.png,Telegram1.jpg,Telegram2.jpg,Telegram3.jpg,Telegram5.jpg,Telegram4.jpg,Telegram6.jpg,Telegram7.jpg,Telegram8.jpg,Telegram9.jpg,Up.png'
 metadata:
     Key(Telegram_home_assistant): 'Valor(domotizar,casa,google,home,assistant,telegram,bot,botfhader,mensaje,domotica)'
 taxonomy:
