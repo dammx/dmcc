@@ -46,19 +46,19 @@ Si ya tenéis _Telegram_, podéis seguir **la guía de integración**, pero, par
 + **Como crear un bot de Telegram**:<br />
 Buscamos el usuario _BotFather_, que és, el usuario que generará el bot:<br />
 ![](Telegram1.jpg)
-Ponemos /start y podemos empezar a ver la lista de comandos que necesitaremos, aunque, si queremos ver la lista completa, después de /start, podemos poner / y nos aparecerá la lista completa de los comandos que queremos:<br />
+Ponemos `/start` y podemos empezar a ver la lista de comandos que necesitaremos, aunque, si queremos ver la lista completa, después de `/start`, podemos poner `/` y nos aparecerá la lista completa de los comandos que queremos:<br />
 ![](Telegram2.jpg)
-Escribimos /newbot para que empecemos la creación:<br />
+Escribimos `/newbot` para que empecemos la creación:<br />
 ![](Telegram3.jpg)
-Para el nombre, escribimos lo que queramos, ya que es el nombre mostrado, no el nombre de usuario, en mi caso he puesto Domótica:<br />
+Para el nombre, escribimos lo que queramos, ya que es el nombre mostrado, no el nombre de usuario, en mi caso he puesto _Domótica_:<br />
 ![](Telegram4.jpg)
-Posteriormente nos pide el nombre de usuario, y, en este lugar si que Telegram obliga a que acabe en la palabtra “bot”, sea en mayúsculas o minúsculas, en mi caso he puesto Domotizarmicasa_bot:<br />
+Posteriormente nos pide el nombre de usuario, y, en este lugar si que _Telegram_ obliga a que acabe en la palabtra _“bot”_, sea en mayúsculas o minúsculas, en mi caso he puesto _Domotizarmicasa_bot_:<br />
 ![](Telegram5.jpg)
-Ya tenemos nuestro bot y, como veis, botfather nos da una clave (token) para poder hacer uso del bot por web. Si os gusta este tema, os recomiendo buscar información sobre los bots porque tienen mucho potencial.<br />
+Ya tenemos nuestro bot y, como veis, _botfather_ nos da una **clave (token)** para poder hacer uso del bot por web. Si os gusta este tema, os recomiendo buscar información sobre los bots porque tienen mucho potencial.<br />
 ![](Telegram6.jpg)
 
 + **Obtener nuestro ID de chat para integrar nuestro bot en Home Assistant**<br />
-Para poder integrar en nuestra instalación necesitamos tan solo un dato, nuestro ID de conversación para que nuestro bot sepa a quien hablar, para eso, buscamos al bot IDBot:<br />
+Para poder integrar en nuestra instalación necesitamos tan solo un dato, nuestro ID de conversación para que nuestro bot sepa a quien hablar, para eso, buscamos al bot _IDBot_:<br />
 ![](Telegram7.jpg)
 En el, pondremos `/start` y posteriormente el comando `/getid` y os contestará un número:<br />
 ![](Telegram8.jpg)
