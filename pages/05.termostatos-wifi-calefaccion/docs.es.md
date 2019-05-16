@@ -92,6 +92,8 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 
 ---
 
+[![](up1_azul1.png)](# "Volver al Inicio")
+
 [/ui-tab]
 
 [ui-tab title="Integración ..."]
