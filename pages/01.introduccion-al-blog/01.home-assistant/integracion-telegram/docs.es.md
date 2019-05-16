@@ -38,7 +38,7 @@ Todos **éstos cambios de estado se pueden automatizar con un mensaje** vía la 
 Si ya tenéis _Telegram_, podéis seguir **la guía de integración**, pero, para aquellos que no, os recomiendo que busquéis en vuestra tienda de aplicaciones, como _[Play Store](http://bit.ly/2VDrYay)_ o _[App Store](https://apple.co/30kq8u1)_, para descargarlo y ponerlo en marcha, al igual que se hace en _Whatsapp_. **Una vez que tengáis _Telegram_ en funcionamiento, podemos seguir para crear nuestro bot**, el cual, será el que nos informará y más adelante podrá recibir órdenes para poder hacer cosas en casa desde _Telegram_.
 
 ---
-[![](flecha-imagen-animada-0407.gif)](”#” "”Volver")
+[![](flecha-imagen-animada-0407.gif)](# "Volver al Inicio")
 
 [/ui-tab]
 
