@@ -62,7 +62,7 @@ Para poder integrar en nuestra instalación necesitamos tan solo un dato, nuestr
 ![](Telegram7.jpg)
 En el, pondremos `/start` y posteriormente el comando `/getid` y os contestará un número:<br />
 ![](Telegram8.jpg)
-Con ese número apuntado, ya podemos configurar nuestro Home Assistant para comunicarse con nosotros desde Telegram:<br />
+Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para comunicarse con nosotros desde _Telegram_:<br />
 ![](Telegram9.jpg)
 Puedes ver la integración en la siguiente pestaña.<br />
 
