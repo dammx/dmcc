@@ -97,7 +97,7 @@ notify:
 
 ```
 ---
-[![](flecha-imagen-animada-0407.gif)](# "Subir arriba")
+[![](flecha-imagen-animada-0407.gif)](# "Volver al Inicio")
 [/ui-tab]
 
 [/ui-tabs]
