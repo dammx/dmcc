@@ -13,7 +13,7 @@ visible: true
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
-> !! Cuando nos proponemos tener una casa inteligente, nos damos cuenta que necesitamos estar informados de todos los cambios que pertenezcan a los dispositivos de la casa, si se ha quedado la puerta de garaje abierta al irnos, si se  ha disparado la alarma cuando no estamos en casa , o , si se ha encendido el termostato por error.
+> !!! _Cuando nos proponemos tener una casa inteligente, nos damos cuenta que necesitamos estar informados de todos los cambios que pertenezcan a los dispositivos de la casa, si se ha quedado la puerta de garaje abierta al irnos, si se  ha disparado la alarma cuando no estamos en casa , o , si se ha encendido el termostato por error._
 
 ![](hate.png)
 Todos éstos cambios de estado se pueden automatizar con un mensaje vía la Aplicación _Telegram_, un sistema de mensajería que, para aquellos que no lo conozcáis, es un estilo a Whatsapp, solo que, en mi opinión, es mucho mejor en todos los aspectos, entre ellos, con la existencia de los “bots”, es decir, robots con los que podemos interactuar y, en nuestro caso, haremos que sea “la voz” de nuestra casa. para ello necesitamos realizar unos pasos sencillos y podremos integrar este servicio en nuestro sistema domótico 
