@@ -44,7 +44,7 @@ Si ya tenéis _Telegram_, podéis seguir **la guía de integración**, pero, par
 [ui-tab title="Crear Bot..."]
 
 **Como crear un bot de Telegram**:<br />
-Buscamos el usuario BotFather, que es, el el usuario que generará el bot:<br />
+Buscamos el usuario _BotFather_, que és, el usuario que generará el bot:<br />
 ![](Telegram1.jpg)
 Ponemos /start y podemos empezar a ver la lista de comandos que necesitaremos, aunque, si queremos ver la lista completa, después de /start, podemos poner / y nos aparecerá la lista completa de los comandos que queremos:<br />
 ![](Telegram2.jpg)
