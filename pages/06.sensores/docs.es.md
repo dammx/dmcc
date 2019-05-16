@@ -7,4 +7,4 @@ taxonomy:
 visible: true
 ---
 
-Your page content goes here.
+[![](url de tu imagen "Ir arriba")](#)
