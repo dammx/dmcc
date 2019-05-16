@@ -43,7 +43,7 @@ Si ya tenéis _Telegram_, podéis seguir **la guía de integración**, pero, par
 
 [ui-tab title="Crear Bot..."]
 
-**Como crear un bot de Telegram**:<br />
++ **Como crear un bot de Telegram**:<br />
 Buscamos el usuario _BotFather_, que és, el usuario que generará el bot:<br />
 ![](Telegram1.jpg)
 Ponemos /start y podemos empezar a ver la lista de comandos que necesitaremos, aunque, si queremos ver la lista completa, después de /start, podemos poner / y nos aparecerá la lista completa de los comandos que queremos:<br />
@@ -57,10 +57,10 @@ Posteriormente nos pide el nombre de usuario, y, en este lugar si que Telegram o
 Ya tenemos nuestro bot y, como veis, botfather nos da una clave (token) para poder hacer uso del bot por web. Si os gusta este tema, os recomiendo buscar información sobre los bots porque tienen mucho potencial.<br />
 ![](Telegram6.jpg)
 
-**Obtener nuestro ID de chat para integrar nuestro bot en Home Assistant**<br />
++ **Obtener nuestro ID de chat para integrar nuestro bot en Home Assistant**<br />
 Para poder integrar en nuestra instalación necesitamos tan solo un dato, nuestro ID de conversación para que nuestro bot sepa a quien hablar, para eso, buscamos al bot IDBot:<br />
 ![](Telegram7.jpg)
-En el, pondremos /start y posteriormente el comando /getid y os contestará un número:<br />
+En el, pondremos `/start` y posteriormente el comando `/getid` y os contestará un número:<br />
 ![](Telegram8.jpg)
 Con ese número apuntado, ya podemos configurar nuestro Home Assistant para comunicarse con nosotros desde Telegram:<br />
 ![](Telegram9.jpg)
