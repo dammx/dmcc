@@ -68,6 +68,8 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 
 ---
 
+[![](up1_azul1.png)](# "Volver al Inicio")
+
 [/ui-tab]
 
 [ui-tab title="Integración ..."]
