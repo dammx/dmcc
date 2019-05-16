@@ -54,7 +54,7 @@ Para el nombre, escribimos lo que queramos, ya que es el nombre mostrado, no el 
 ![](Telegram4.jpg)
 Posteriormente nos pide el nombre de usuario, y, en este lugar si que _Telegram_ obliga a que acabe en la palabtra _“bot”_, sea en mayúsculas o minúsculas, en mi caso he puesto _Domotizarmicasa_bot_:<br />
 ![](Telegram5.jpg)
-Ya tenemos nuestro bot y, como veis, _botfather_ nos da una **clave (token)** para poder hacer uso del bot por web. Si os gusta este tema, os recomiendo buscar información sobre los bots porque tienen mucho potencial.<br />
+Ya tenemos nuestro bot y, como veis, _botfather_ nos da una **clave (token)** para poder hacer uso del bot por web.<br />
 ![](Telegram6.jpg)
 
 + **Obtener nuestro ID de chat para integrar nuestro bot en Home Assistant**<br />
