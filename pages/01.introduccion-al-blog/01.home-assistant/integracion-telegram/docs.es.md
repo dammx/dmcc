@@ -24,6 +24,7 @@ sitemap:
 visible: true
 ---
 
+[![](Up.png "Ir arriba")](#)
 ![win10](image://os-compat.png)
 
 [ui-tabs position="top-left" active="0" theme="lite"]
@@ -66,7 +67,7 @@ Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para c
 ![](Telegram9.jpg)
 !! **Puedes ver la integración en _Home Assistant_ en la siguiente pestaña.**<br />
 
-[![](Up.png "Ir arriba")](#)
+
 
 
 [/ui-tab]
