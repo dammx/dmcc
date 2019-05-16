@@ -1,6 +1,6 @@
 ---
 title: 'Integración Telegram'
-media_order: hate.png
+media_order: 'hate.png,Telegram1.jpg,Telegram2.jpg,Telegram3.jpg,Telegram5.jpg,Telegram4.jpg,Telegram6.jpg,Telegram7.jpg,Telegram8.jpg,Telegram9.jpg'
 published: true
 taxonomy:
     category:
@@ -29,24 +29,27 @@ Si ya tenéis Telegram, podéis seguir la guía de integración, pero, para aque
 **Como crear un bot de Telegram**:
 
 Buscamos el usuario BotFather, que es, el el usuario que generará el bot
-
+![](Telegram1.jpg)
 Ponemos /start y podemos empezar a ver la lista de comandos que necesitaremos, aunque, si queremos ver la lista completa, después de /start, podemos poner / y nos aparecerá la lista completa de los comandos que queremos
-
+![](Telegram2.jpg)
 Escribimos /newbot para que empecemos la creación
-
-Para el nombre, escribimos lo que queramos, ya que es el nombre mostrado, no el nombre de usuario, en mi caso he puesto 
-
-Posteriormente nos pide el nombre de usuario, y, en este lugar si que Telegram obliga a que acabe en la palabtra “bot”, sea en mayúsculas o minúsculas, en mi caso he puesto
-
+![](Telegram3.jpg)
+Para el nombre, escribimos lo que queramos, ya que es el nombre mostrado, no el nombre de usuario, en mi caso he puesto Domótica
+![](Telegram4.jpg)
+Posteriormente nos pide el nombre de usuario, y, en este lugar si que Telegram obliga a que acabe en la palabtra “bot”, sea en mayúsculas o minúsculas, en mi caso he puesto Domotizarmicasa_bot.
+![](Telegram5.jpg)
 Ya tenemos nuestro bot y, como veis, botfather nos da una clave (token) para poder hacer uso del bot por web. Si os gusta este tema, os recomiendo buscar información sobre los bots porque tienen mucho potencial.
+![](Telegram6.jpg)
 
 **Obtener nuestro ID de chat para integrar nuestro bot en Home Assistant**
 
 Para poder integrar en nuestra instalación necesitamos tan solo un dato, nuestro ID de conversación para que nuestro bot sepa a quien hablar, para eso, buscamos al bot IDBot:
-
+![](Telegram7.jpg)
 En el, pondremos /start y posteriormente el comando /getid y os contestará un número:
-
-Con ese número apuntado, ya podemos configurar nuestro Home Assistant para comunicarse con nosotros desde Telegram. Puedes ver la integración en la siguiente pestaña
+![](Telegram8.jpg)
+Con ese número apuntado, ya podemos configurar nuestro Home Assistant para comunicarse con nosotros desde Telegram.
+![](Telegram9.jpg)
+Puedes ver la integración en la siguiente pestaña
 
 
 
