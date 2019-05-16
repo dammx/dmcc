@@ -1,5 +1,6 @@
 ---
 title: Sensores
+media_order: Up.png
 published: false
 taxonomy:
     category:
@@ -7,4 +8,4 @@ taxonomy:
 visible: true
 ---
 
-[![](url de tu imagen "Ir arriba")](#)
+[![](Up.png "Ir arriba")](#)
