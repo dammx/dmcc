@@ -24,6 +24,7 @@ sitemap:
 visible: true
 ---
 
+[![](Up.png "Ir arriba")](#)
 ![win10](image://os-compat.png)
 
 [ui-tabs position="top-left" active="0" theme="lite"]
