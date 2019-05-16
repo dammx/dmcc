@@ -1,7 +1,7 @@
 ---
 title: 'Integración Telegram'
 media_order: hate.png
-published: false
+published: true
 taxonomy:
     category:
         - docs
