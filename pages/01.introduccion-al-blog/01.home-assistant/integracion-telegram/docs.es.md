@@ -72,10 +72,11 @@ Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para c
 !! **¡¡Puedes ver la integración en _Home Assistant_ en la pestaña _Integración ..._ [test](#int-1) de arriba!!** . <br />
 [![](up1_azul1.png)](# "Volver al Inicio")
 
-
-
+---
 
 [/ui-tab]
+
+
 [ui-tab title="Integración ..." id="int-1"]
 
 **Para Integrarlo en Home Assitant**<br />
@@ -91,15 +92,14 @@ telegram_bot:
 
 ```
 + Para crear el notificador, `configuration.yaml`:
-
 ```text
 
 notify:
   - name: telegram
     platform: telegram
-    chat_id: 77685961 
-
+    chat_id: 77685961
 ```
+
 ---
 
 [/ui-tab]
