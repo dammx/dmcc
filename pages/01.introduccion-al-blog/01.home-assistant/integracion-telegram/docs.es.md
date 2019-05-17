@@ -81,7 +81,7 @@ Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para c
 [ui-tab title="Integración ..." id="int1"]
 
 **Para Integrarlo en Home Assitant**<br />
-+ Vamos a usar la llamada `Telegram Polling`para poder mandar mensajes a nuestro usuario en Telegram. Para ello, abriremos el `configuration.yaml` y añadiremos lo siguiente:<br />
++ Vamos a usar la llamada `Telegram Polling` para poder mandar mensajes a nuestro usuario en Telegram. Para ello, abriremos el `configuration.yaml` y añadiremos lo siguiente:<br />
 
 ```text
 telegram_bot:
