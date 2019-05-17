@@ -35,13 +35,12 @@ visible: true
 ![](hate.png)
 
 
-Todos **estos cambios de estado se pueden automatizar con un mensaje** vía la Aplicación **_Telegram_**, un sistema de mensajería que, para aquellos que no lo conozcáis, es un estilo a _Whatsapp_, solo que, en mi opinión, es mucho mejor en todos los aspectos, entre ellos, por la existencia de los _bots_ es decir, robots con los que podemos interactuar y, en nuestro caso, **haremos que sea “la voz” de nuestra casa**. para ello necesitamos realizar unos pasos sencillos y podremos integrar éste servicio en nuestro sistema domótico. 
+Todos **estos cambios de estado se pueden automatizar con un mensaje** vía la Aplicación **_Telegram_**, un sistema de mensajería que, para aquellos que no lo conozcáis, es un estilo a _Whatsapp_, solo que, en mi opinión, es mucho mejor en todos los aspectos, entre ellos, por la existencia de los _bots_ es decir, robots con los que podemos interactuar y, en nuestro caso, **haremos que sea “la voz” de nuestra casa**. para ello necesitamos realizar unos pasos sencillos y podremos integrar éste servicio en nuestro sistema domótico.
 
-
-
-Si ya tenéis _Telegram_, podéis seguir **la guía de integración**, pero, para aquellos que no, os recomiendo que busquéis en vuestra tienda de aplicaciones, como _[Play Store](http://bit.ly/2VDrYay)_ o _[App Store](https://apple.co/30kq8u1)_, para descargarlo y ponerlo en marcha, al igual que se hace en _Whatsapp_. **Una vez que tengáis _Telegram_ en funcionamiento, podemos seguir para crear nuestro bot**, el cual, será el que nos informará y más adelante podrá recibir órdenes para poder hacer cosas en casa desde _Telegram_ de forma remota.
+Si ya tenéis _Telegram_, podéis seguir **la guía de integración**, pero, para aquellos que no, os recomiendo que busquéis en vuestra tienda de aplicaciones, como _[Play Store](http://bit.ly/2VDrYay)_ o _[App Store](https://apple.co/30kq8u1)_, para descargarlo y ponerlo en marcha, al igual que se hace en _Whatsapp_. **Una vez que tengáis _Telegram_ en funcionamiento, podemos seguir para crear nuestro bot**, el cual, será el que nos informará y más adelante podrá recibir órdenes para poder hacer cosas en casa desde _Telegram_ y de forma remota.
 
 ---
+
 [![](up1_azul1.png)](# "Volver al Inicio")
 
 [/ui-tab]
@@ -60,20 +59,20 @@ Ponemos `/start` y podemos empezar a ver la lista de comandos que necesitaremos,
 Escribimos `/newbot` para que empecemos la creación:
 
 ![](Telegram3.jpg)
-Para el nombre, escribimos lo que queramos, ya que es el nombre mostrado, no el nombre de usuario, en mi caso he puesto _Domótica_:
+Para el nombre, escribimos lo que queramos, ya que es el nombre mostrado, no el nombre de usuario, en este caso he puesto _Domótica_:
 
 ![](Telegram4.jpg)
 
-Posteriormente nos pide el nombre de usuario, y, en este lugar si que _Telegram_ obliga a que acabe en la palabra _bot_, sea en mayúsculas o minúsculas, en mi caso he puesto, para este ejemplo: _Domotizarmicasa\_bot_ :
+Posteriormente nos pide el nombre de usuario, y, en este lugar si que _Telegram_ obliga a que acabe en _bot_, sea en mayúsculas o minúsculas, en mi caso, para este ejemplo, he puesto _Domotizarmicasa\_bot_ :
 
 ![](Telegram5.jpg)
 
-Ya tenemos nuestro bot y, como veis, _botfather_ nos da una **clave (token)** para poder hacer uso del bot por web.
+Ya tenemos nuestro bot y, como véis, _botfather_ nos da una **clave (token)** para poder hacer uso del bot por web.
 
 ![](Telegram6.jpg)
 
-+ **Obtener nuestro ID de chat para integrar nuestro bot en Home Assistant**
-Para poder integrar en nuestra instalación necesitamos tan solo un dato, nuestro ID de conversación para que nuestro bot sepa a quien hablar, para eso, buscamos al bot _IDBot_:
++ **Obtener nuestro _ID_ de chat para integrar nuestro _bot_ en Home Assistant**
+Para poder integrar en nuestra instalación necesitamos tan solo un dato, nuestro ID de conversación para que nuestro bot sepa a quien hablar, para eso, buscamos el bot _IDBot_:
 
 ![](Telegram7.jpg)
 
@@ -98,14 +97,14 @@ Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para c
 
 **Para Integrarlo en Home Assitant**
 
-+ Vamos a usar la llamada `Telegram Polling` para poder mandar mensajes a nuestro usuario en Telegram. Para ello, abriremos el `configuration.yaml` y añadiremos lo siguiente:<br />
++ Vamos a usar la llamada `Telegram Polling` para poder mandar mensajes a nuestro usuario en Telegram. Para ello, abriremos el `configuration.yaml` y añadiremos lo siguiente:
 
 ```text
 telegram_bot:
   platform: polling
-  api_key: 719825869:AAGA9CRytgCMkF3FGX0oPE_cDOdUAuxG9g0Q
+  api_key: 719825869:AAGA9CRytgCMkF3FGX0oPE_cDOdUAuxG9gXX
   allowed_chat_ids:
-    - 77685961
+    - 77685XX9
 ```
 
 + Para crear el notificador, `configuration.yaml`:
@@ -114,7 +113,7 @@ telegram_bot:
 notify:
   - name: telegram
     platform: telegram
-    chat_id: 77685961
+    chat_id: 77685XX9
 ```
 
 ---
