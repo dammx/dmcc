@@ -64,7 +64,7 @@ Para el nombre, escribimos lo que queramos, ya que es el nombre mostrado, no el 
 
 ![](Telegram4.jpg)
 
-Posteriormente nos pide el nombre de usuario, y, en este lugar si que _Telegram_ obliga a que acabe en la palabra _bot_, sea en mayúsculas o minúsculas, en mi caso he puesto, para este ejemplo: _Domotizarmicasa___bot_ :
+Posteriormente nos pide el nombre de usuario, y, en este lugar si que _Telegram_ obliga a que acabe en la palabra _bot_, sea en mayúsculas o minúsculas, en mi caso he puesto, para este ejemplo: _Domotizarmicasa\_bot_ :
 
 ![](Telegram5.jpg)
 
