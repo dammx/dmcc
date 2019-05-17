@@ -83,17 +83,16 @@ Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para c
 + Vamos a usar la llamada `Telegram Polling` para poder mandar mensajes a nuestro usuario en Telegram. Para ello, abriremos el `configuration.yaml` y añadiremos lo siguiente:<br />
 
 ```text
-
 telegram_bot:
   platform: polling
   api_key: 719825869:AAGA9CRytgCMkF3FGX0oPE_cDOdUAuxG9g0Q
   allowed_chat_ids:
-    - 77685961    
-
+    - 77685961
 ```
-+ Para crear el notificador, `configuration.yaml`:
-```text
 
++ Para crear el notificador, `configuration.yaml`:
+
+```text
 notify:
   - name: telegram
     platform: telegram
