@@ -104,7 +104,7 @@ telegram_bot:
   platform: polling
   api_key: 719825869:AAGA9CRytgCMkF3FGX0oPE_cDOdUAuxG9gXX
   allowed_chat_ids:
-    - 77685XX9
+    - [mark class=red]77685XX9[/mark]
 ```
 
 + Para crear el notificador, `configuration.yaml`:
