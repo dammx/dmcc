@@ -107,6 +107,8 @@ telegram_bot:
     - 77685{c:red}XX{/c}9
 ```
 
+- 77685{c:red}XX{/c}9
+
 + Para crear el notificador, `configuration.yaml`:
 
 ```text
