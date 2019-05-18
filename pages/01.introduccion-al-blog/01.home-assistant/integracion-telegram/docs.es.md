@@ -104,10 +104,8 @@ telegram_bot:
   platform: polling
   api_key: 719825869:AAGA9CRytgCMkF3FGX0oPE_cDOdUAuxG9gXX
   allowed_chat_ids:
-    - 77685{c:red}XX{/c}9
+    - 77685XX9
 ```
-
-- 77685{c:red}XX{/c}9
 
 + Para crear el notificador, `configuration.yaml`:
 
@@ -115,7 +113,7 @@ telegram_bot:
 notify:
   - name: telegram
     platform: telegram
-    chat_id: 77685{c:red}XX{/c}9
+    chat_id: 77685XX9
 ```
 
 ---
