@@ -102,7 +102,7 @@ Con ése número apuntado, ya podemos configurar nuestro _Home Assistant_ para c
 ```text
 telegram_bot:
   platform: polling
-  api_key: 719825869:AAGA9CRytgCMkF3FGX0oPE_cDOdUAuxG9gXX
+  api_key: 719825869:AAGA9CRytgCMkF3FGX0oPE_cDOdUAuxG9g[mark]XX[/mark]
   allowed_chat_ids:
     - 77685[mark]XX[/mark]9
 ```
@@ -113,7 +113,7 @@ telegram_bot:
 notify:
   - name: telegram
     platform: telegram
-    chat_id: 77685XX9
+    chat_id: 77685[mark]XX[/mark]9
 ```
 
 ---
