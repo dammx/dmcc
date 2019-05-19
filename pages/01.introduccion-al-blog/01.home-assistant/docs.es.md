@@ -57,5 +57,3 @@ Su interfaz esta basada en _Material Design_ y cuenta con varias característica
 Podemos decir en resumen que su interfaz es simple, clara y moderna, perfectamente adaptable a cualquier dispositivo.
 
 ---
-
-[ha-interface]: user:/pages/01.introduccion-al-blog/01.home-assistant/Interface.png?lightbox=1024&cropResize=200,200
