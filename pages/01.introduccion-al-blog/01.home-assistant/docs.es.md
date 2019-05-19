@@ -29,7 +29,7 @@ visible: true
 ---
 
 **Home Assistant** es una plataforma de domótica de código abierto que se ejecuta en _Python3_. También te da la posibilidad de rastrear y controlar todos los dispositivos del hogar y automatizar su control.
-![](Interface.png)
+![ha-interface](Interface.png)
 **Home Assistant** se suele montar en un dispositivo como un **_Raspberry Pi_**, **_Orange Pi Zero_** o **Windows** **(la mejor opción de entrada para poder aprender y no tener que invertir en un nuevo dispositivo)**
 Lo que hacemos con este software es centralizar el control de todos estos aparatos para no tener que controlarlos de forma independiente.
 
@@ -55,3 +55,7 @@ Gracias a esta característica puedes crear variables, aplicar transformaciones 
 Su interfaz esta basada en _Material Design_ y cuenta con varias características interesantes como el soporte a _WebSockets_ que permite al sistema reaccionar en tiempo real. Esto permite mostrar los valores de los sensores en cada momento sin necesidad de recargar la página.
 
 Podemos decir en resumen que su interfaz es simple, clara y moderna, perfectamente adaptable a cualquier dispositivo.
+
+---
+
+[ha-interface]: user:/pages/01.introduccion-al-blog/01.home-assistant/Interface.png?lightbox=1024&cropResize=200,200
