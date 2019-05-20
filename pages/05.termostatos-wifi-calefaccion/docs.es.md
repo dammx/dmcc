@@ -38,7 +38,7 @@ visible: true
 
 Pero instalar un termostato WiFi en casa no solo es buena idea por el ahorro energético, sino también por confort. La regulación automática de la temperatura, el control a distancia desde tu propio móvil de forma remota desde allí donde estés, y la posibilidad de monitorizar el consumo, son prestaciones que los termostatos inteligentes ofrecen y los termostatos normales no!.
 
-!!! <i class="fa fa-info-circle"></i> Los termostatos WiFi son también una herramienta más para domotizar tu hogar y hacerlo inteligente.
+!!! Los termostatos WiFi son también una herramienta más para domotizar tu hogar y hacerlo inteligente.
 
 Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta gama que funcionan perfectamente, pero son bastante caros! Afortunadamente, disponemos de modelos mas asequibles que también realizan su función perfectamente como: _Fluoreon_, _Beok_ y _Decdeal_ y también están disponibles en _Amazon_.
 
