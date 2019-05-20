@@ -33,15 +33,6 @@ visible: true
 
 ![win10](image://os-compat.png)
 
----
-<button type="button" class="btn btn-warning">AliExpress</i><br />± 21 días!</button>
-
-<a href="#" class="button">Big Button</a>
-
-[Big Button](#?classes=button)
-
----
-
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
