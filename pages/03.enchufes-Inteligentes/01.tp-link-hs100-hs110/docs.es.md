@@ -33,7 +33,7 @@ visible: true
 
 ![win10](image://os-compat.png)
 
-[Comprar en <i class="fa fa-amazon"></i>](https://amzn.to/2HjWRab?classes=button,big)
+[Comprar en <i class="fa fa-amazon"></i>mazon](https://amzn.to/2HjWRab?classes=button,big)
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
