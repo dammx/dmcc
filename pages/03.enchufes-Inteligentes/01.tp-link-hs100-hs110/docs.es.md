@@ -36,6 +36,8 @@ visible: true
 ---
 <button type="button" class="btn btn-warning">AliExpress</i><br />± 21 días!</button>
 
+<a href="#" class="button big">Big Button</a>
+
 ---
 
 [ui-tabs position="top-left" active="0" theme="lite"]
