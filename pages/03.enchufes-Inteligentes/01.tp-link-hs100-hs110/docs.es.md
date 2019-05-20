@@ -38,6 +38,8 @@ visible: true
 
 <a href="#" class="button">Big Button</a>
 
+[Big Button](#?classes=button,big)
+
 ---
 
 [ui-tabs position="top-left" active="0" theme="lite"]
