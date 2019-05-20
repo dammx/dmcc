@@ -39,6 +39,10 @@ visible: true
 
 <button type="button" class="btn btn-warning">Ver en <i class="fa fa-amazon">liExpress</i></button>
 
+<button type="button" class="btn btn-primary">Ver en <br /><i class="fa fa-amazon"></i>mazon!</button>
+
+<button type="button" class="btn btn-warning">Ver en <br /> <i class="fa fa-amazon">liExpress</i></button>
+
 ---
 
 [ui-tabs position="top-left" active="0" theme="lite"]
