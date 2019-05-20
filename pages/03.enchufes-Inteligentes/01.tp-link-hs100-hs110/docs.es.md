@@ -43,8 +43,8 @@ visible: true
 
 <button type="button" class="btn btn-warning">Ver en <br /> <i class="fa fa-amazon">liExpress</i></button>
 
-<button type="button" class="btn btn-primary">En ± 10 días<br /><i class="fa fa-amazon"></i>mazon!</button>
-<button type="button" class="btn btn-warning">En ± 22 días<br /> <i class="fa fa-amazon">liExpress</i></button>
+<button type="button" class="btn btn-primary"><i class="fa fa-amazon"></i>mazon!<br />En ±07 días</button>
+<button type="button" class="btn btn-warning"><i class="fa fa-amazon">liExpress</i><br />En ±21 días</button>
 
 ---
 
