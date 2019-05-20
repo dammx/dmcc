@@ -38,7 +38,7 @@ visible: true
 
 <a href="#" class="button">Big Button</a>
 
-[Big Button](#?classes=button,big)
+[Big Button](#?classes=button)
 
 ---
 
