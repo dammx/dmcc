@@ -33,6 +33,14 @@ visible: true
 
 ![win10](image://os-compat.png)
 
+---
+[![buy-mzn!][buy-mzn]](https://amzn.to/2Lj7sHB)
+
+
+[![https://dabuttonfactory.com/button.png?t=%3Ci+class%3D%22fa+fa-amazon%22%3E%3C%2Fi%3E+here&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763](#)]
+
+---
+
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
