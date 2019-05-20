@@ -33,7 +33,7 @@ visible: true
 
 ![win10](image://os-compat.png)
 
-[Ver en <i class="fa fa-amazon"></i>mazon](https://amzn.to/2HjWRab?id=important-button)
+[Ver en <i class="fa fa-amazon"></i>mazon](https://amzn.to/2HjWRab?id=important)
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
