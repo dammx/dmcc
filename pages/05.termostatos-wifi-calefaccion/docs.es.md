@@ -34,11 +34,11 @@ visible: true
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
-> <i class="fa fa-info-circle"></i> Comprar un termostato WiFi es **una de las mejores cosas que puedes hacer** para ahorrar en la factura de la luz, en el caso que tengas calefacción en casa. Lejos de ser una pijada para geeks y techies, los termostatos inteligentes han demostrado ser, como mínimo,  **un 24% más eficientes que los termostatos analógicos**. Y tal y como está el precio de la luz, no es cosa menor.
+> Comprar un termostato WiFi es **una de las mejores cosas que puedes hacer** para ahorrar en la factura de la luz, en el caso que tengas calefacción en casa. Lejos de ser una pijada para geeks y techies, los termostatos inteligentes han demostrado ser, como mínimo,  **un 24% más eficientes que los termostatos analógicos**. Y tal y como está el precio de la luz, no es cosa menor.
 
 Pero instalar un termostato WiFi en casa no solo es buena idea por el ahorro energético, sino también por confort. La regulación automática de la temperatura, el control a distancia desde tu propio móvil de forma remota desde allí donde estés, y la posibilidad de monitorizar el consumo, son prestaciones que los termostatos inteligentes ofrecen y los termostatos normales no!.
 
-!!! Los termostatos WiFi son también una herramienta más para domotizar tu hogar y hacerlo inteligente.
+!!! <i class="fa fa-info-circle"></i> Los termostatos WiFi son también una herramienta más para domotizar tu hogar y hacerlo inteligente.
 
 Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta gama que funcionan perfectamente, pero son bastante caros! Afortunadamente, disponemos de modelos mas asequibles que también realizan su función perfectamente como: _Fluoreon_, _Beok_ y _Decdeal_ y también están disponibles en _Amazon_.
 
