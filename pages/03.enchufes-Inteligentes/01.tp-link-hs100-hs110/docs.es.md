@@ -33,15 +33,6 @@ visible: true
 
 ![win10](image://os-compat.png)
 
-
----
-
-[<i class="fa fa-amazon fa-2x"> [size=20]Amazon![/size]</i>](https://amzn.to/2HjWRab?classes=button)
-[<i class="fa fa-shopping-cart fa-2x"> [size=16]**Ali**Express![/size]</i>](https://amzn.to/2HjWRab?classes=button)
-
----
-
-
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
