@@ -37,7 +37,14 @@ visible: true
 <div>
 <a href="https://amzn.to/2Lj7sHB" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:87px;height:35px;"><i class="fa fa-amazon">mazon</i></button></a>
 <a href="https://amzn.to/2Lj7sHB" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:111px;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a>
-    
+</div>
+
+<div>
+<a href="https://amzn.to/2Lj7sHB" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:200px;height:35px;"><i class="fa fa-amazon">mazon</i></button></a>
+</div>
+
+<div>
+<a href="https://amzn.to/2Lj7sHB" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:200px;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a>
 </div>
 
 ---
