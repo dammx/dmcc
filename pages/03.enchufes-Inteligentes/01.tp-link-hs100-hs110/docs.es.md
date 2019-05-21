@@ -33,19 +33,6 @@ visible: true
 
 ![win10](image://os-compat.png)
 
----
-
-
-![fa icon=fa-amazon extras=fa-3x,pull-left /] The full monty! - [See FontAwesome Examples](https://fortawesome.github.io/Font-Awesome/examples/)
-
-[<i class="fa fa-amazon fa-3x pull-left"></i>](https://fortawesome.github.io/Font-Awesome/examples/)
-
----
-
-<a class="btn btn-warning" href="https://amzn.to/2HjWRab"><i class="fa fa-amazon fa-3x pull-left"></i>Ver Amazon!</a>
-
----
-
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
