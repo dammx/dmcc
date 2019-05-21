@@ -34,6 +34,8 @@ visible: true
 ![win10](image://os-compat.png)
 
 ---
+"markdown.styles": [ "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" ]
+
 
 <button type="button" class="btn btn-warning">Warning</button>
 
