@@ -33,6 +33,12 @@ visible: true
 
 ![win10](image://os-compat.png)
 
+---
+
+[<i class="fa fa-info-circle fa-3x"></i> Ver Amazon!<br />±14 días!](https://amzn.to/2HjWRab?classes=button)
+
+---
+
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
