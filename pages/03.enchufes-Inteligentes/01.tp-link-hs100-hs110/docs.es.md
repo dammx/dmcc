@@ -35,9 +35,9 @@ visible: true
 
 ---
 
-[<i class="fa fa-amazon fa-2x pull-left"> Amazon!<br />±14 días!</i>](https://amzn.to/2HjWRab?classes=button)
+[<i class="fa fa-amazon fa-4x pull-left"> Amazon!<br />±14 días!</i>](https://amzn.to/2HjWRab?classes=button)
 
-[<i class="fa fa-shopping-cart fa-2x pull-left"> AliExpress!<br />±14 días!</i>](https://amzn.to/2HjWRab?classes=button)
+[<i class="fa fa-shopping-cart fa-4x pull-left"> AliExpress!<br />±14 días!</i>](https://amzn.to/2HjWRab?classes=button)
 
 ---
 
