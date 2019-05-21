@@ -35,7 +35,7 @@ visible: true
 
 ---
 
-[<i class="fa fa-amazon fa-4x"> Amazon!</i>](https://amzn.to/2HjWRab?classes=button)
+[<i class="fa fa-amazon fa-4x"> Amazon.es!</i>](https://amzn.to/2HjWRab?classes=button)
 
 [<i class="fa fa-shopping-cart fa-3x"> AliExpress!</i>](https://amzn.to/2HjWRab?classes=button)
 
