@@ -33,32 +33,6 @@ visible: true
 
 ![win10](image://os-compat.png)
 
----
-
-##### cuando deben publicarse los dos!
-<div>
-<a href="https://amzn.to/2Lj7sHB" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:87px;height:35px;"><i class="fa fa-amazon">mazon</i></button></a>
-<a href="https://amzn.to/2Lj7sHB" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:111px;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a>
-</div>
-
----
-
-##### cuando debe publicarse Amazon, solo!
-
-<div>
-<a href="https://amzn.to/2Lj7sHB" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:200px;height:35px;"><i class="fa fa-amazon">mazon</i></button></a>
-</div>
-
----
-
-##### cuando debe publicarse AliExpress, solo!
-
-<div>
-<a href="https://amzn.to/2Lj7sHB" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:200px;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a>
-</div>
-
----
-
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
