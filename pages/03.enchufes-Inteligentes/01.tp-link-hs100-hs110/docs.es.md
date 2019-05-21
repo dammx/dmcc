@@ -35,9 +35,9 @@ visible: true
 
 ---
 
-<a class="btn btn btn-primary" href="#"> <i class="fa fa-amazon fa-2x pull-left"></i> Ver Amazon<br>±14 days!</a>
+<a class="btn btn btn-warning" href="#"> <i class="fas fa-shopping-cart fa-2x pull-left"></i> Ver AliExpress!</a>
 
-<a class="btn btn btn-warning" href="#"> <i class="fa fa-shopping-cart fa-2x pull-left"></i> Ver AliExpress!<br>±21 days!</a>
+<a class="btn btn btn-primary" href="#"> <i class="fa fa-amazon fa-2x pull-right"></i> Ver Amazon!</a>
 
 ---
 
