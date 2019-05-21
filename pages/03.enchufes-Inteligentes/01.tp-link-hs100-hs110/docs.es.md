@@ -34,11 +34,10 @@ visible: true
 ![win10](image://os-compat.png)
 
 ---
+
 <button type="button" style="color:#fff;background-color:#1694CA;width:200px;height:50px;"><i class="fa fa-amazon fa-lg">mazon!</i></button><br />
 
 <button type="button" style="color:#fff;background-color:#e8a100;width:200px;height:50px;"><i class="fa fa-shopping-cart fa-lg"> AliExpress!</i></button>
-
-<i class="fa fa-amazon fa-lg"></i>
 
 ---
 
