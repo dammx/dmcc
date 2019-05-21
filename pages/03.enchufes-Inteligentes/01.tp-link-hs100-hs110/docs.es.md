@@ -37,7 +37,6 @@ visible: true
 <button type="button" style="color:#fff;background-color:#1694CA;width:100px;height:50px;">button blue</button>
 <button type="button" style="color:#fff;background-color:#f4a100;width:100px;height:50px;">button orange</button>
 
-
 ---
 
 [ui-tabs position="top-left" active="0" theme="lite"]
