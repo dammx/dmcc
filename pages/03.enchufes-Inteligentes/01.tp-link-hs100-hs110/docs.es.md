@@ -33,6 +33,15 @@ visible: true
 
 ![win10](image://os-compat.png)
 
+---
+<div>
+    
+<p><a href="https://amzn.to/2Lj7sHB" title="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:orange;width:200px;height:100px;">button orange</button></a></p>
+    
+</div>
+
+---
+
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
