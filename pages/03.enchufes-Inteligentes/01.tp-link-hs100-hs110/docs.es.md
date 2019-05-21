@@ -34,6 +34,7 @@ visible: true
 ![win10](image://os-compat.png)
 
 ---
+
 <div>
 <button type="button" style="color:#fff;background-color:#1694CA;width:150px;height:50px;"><i class="fa fa-amazon fa-lg">mazon!</i></button><br />
 
