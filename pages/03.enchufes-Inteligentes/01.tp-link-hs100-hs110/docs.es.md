@@ -41,16 +41,6 @@ visible: true
 <button type="button" style="color:#fff;background-color:#e8a100;width:200px;height:50px;"><i class="fa fa-shopping-cart fa-lg"> AliExpress!</i></button>    
 </div>
 
-<div><button type="button" style="color: #fff; background-color: #1694ca; width: 200px; height: 50px;"><i class="fa fa-amazon fa-lg">mazon!><a href="https://amzn.to/2HjWRab" title="amazon-link" target="_blank"></a></i></button>
-<br /><br />
-<button type="button" style="color: #fff; background-color: #e8a100; width: 200px; height: 50px;"><i class="fa fa-shopping-cart fa-lg"> AliExpress!</i></button></div>
-
-
-
-
-
-    
-    
 ---
 
 [ui-tabs position="top-left" active="0" theme="lite"]
