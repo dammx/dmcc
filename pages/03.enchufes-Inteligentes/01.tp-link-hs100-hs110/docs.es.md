@@ -33,6 +33,13 @@ visible: true
 
 ![win10](image://os-compat.png)
 
+---
+
+[fa icon=fa-amazon extras=fa-2x,pull-right /]
+
+
+---
+
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
