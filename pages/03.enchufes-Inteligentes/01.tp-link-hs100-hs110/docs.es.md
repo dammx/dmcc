@@ -34,8 +34,10 @@ visible: true
 ![win10](image://os-compat.png)
 
 ---
-<button type="button" style="color:#fff;background-color:#1694CA;width:100px;height:50px;">button blue</button>
+<button type="button" style="color:#fff;background-color:#1694CA;width:100px;height:50px;"><i class="fa fa-amazon fa-lg"> Amazon!</i></button>
 <button type="button" style="color:#fff;background-color:#f4a100;width:100px;height:50px;">button orange</button>
+
+<i class="fa fa-amazon fa-lg"></i>
 
 ---
 
