@@ -39,7 +39,7 @@ visible: true
 
 <a class="btn btn btn-primary" href="#"> <i class="fa fa-amazon fa-2x pull-left"></i> Ver Amazon!</a>
 
-![<i class="fa fa-amazon fa-2x pull-right"></i>](https://amzn.to/2HjWRab)
+![:fa-amazon:](https://amzn.to/2HjWRab)
 
 :fa-amazon:
 
