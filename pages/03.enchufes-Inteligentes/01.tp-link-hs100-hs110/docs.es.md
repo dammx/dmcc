@@ -37,7 +37,7 @@ visible: true
 
 [<i class="fa fa-amazon fa-4x pull-left"> Amazon!</i>](https://amzn.to/2HjWRab?classes=button)
 
-[<i class="fa fa-shopping-cart fa-4x pull-left"> AliExpress!</i>](https://amzn.to/2HjWRab?classes=button)
+[<i class="fa fa-shopping-cart fa-3x pull-left"> AliExpress!</i>](https://amzn.to/2HjWRab?classes=button)
 
 ---
 
