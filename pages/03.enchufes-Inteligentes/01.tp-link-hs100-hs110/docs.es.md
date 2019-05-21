@@ -42,7 +42,7 @@ visible: true
 
 ---
 
-<a class="btn btn btn-warning" href="https://amzn.to/2HjWRab"><i class="fa fa-amazon fa-3x pull-left"></i>Ver Amazon!</a>
+<a class="btn btn-warning" href="https://amzn.to/2HjWRab"><i class="fa fa-amazon fa-3x pull-left"></i>Ver Amazon!</a>
 
 ---
 
