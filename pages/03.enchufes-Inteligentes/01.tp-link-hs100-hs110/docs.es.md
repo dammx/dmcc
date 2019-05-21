@@ -33,6 +33,12 @@ visible: true
 
 ![win10](image://os-compat.png)
 
+---
+
+<button type="button" class="btn btn-warning">Warning</button>
+
+---
+
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
