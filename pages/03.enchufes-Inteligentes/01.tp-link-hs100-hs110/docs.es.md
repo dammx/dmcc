@@ -33,6 +33,13 @@ visible: true
 
 ![win10](image://os-compat.png)
 
+---
+<button type="button" style="background-color:orange,width:200;height:100">button orange</button>
+<button type="button" style="background-color:blue,width:200;height:100">button blue</button>
+
+
+---
+
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
