@@ -35,7 +35,7 @@ visible: true
 
 ---
 <button type="button" style="background-color="orange"; width="200"; height="100"";>button orange</button>
-<button type="button" style="color:#fff;background-color:#1694CA;width:200px;height:50px;">button blue</button>
+<button type="button" style="color:#fff;background-color:#1694CA;width:100px;height:50px;">button blue</button>
 
 
 ---
