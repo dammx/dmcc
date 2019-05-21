@@ -35,7 +35,8 @@ visible: true
 
 ---
 <button type="button" style="color:#fff;background-color:#1694CA;width:200px;height:50px;"><i class="fa fa-amazon fa-lg">mazon!</i></button>
-<button type="button" style="color:#fff;background-color:#f4a100;width:100px;height:50px;">button orange</button>
+
+<button type="button" style="color:#fff;background-color:#e8a100;width:200px;height:50px;"><i class="fa fa-shopping-cart fa-lg">AliExpress!</i></button>
 
 <i class="fa fa-amazon fa-lg"></i>
 
