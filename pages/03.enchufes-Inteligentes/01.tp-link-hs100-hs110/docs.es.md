@@ -36,7 +36,7 @@ visible: true
 ---
 <div>
     
-<p><a href="https://amzn.to/2Lj7sHB" title="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:orange;width:100px;height:25px;"><i class="fa fa-amazon">mazon!</i></button></a></p>
+<p><a href="https://amzn.to/2Lj7sHB" title="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:orange;width:100px;height:35px;"><i class="fa fa-amazon">mazon!</i></button></a></p>
     
 </div>
 
