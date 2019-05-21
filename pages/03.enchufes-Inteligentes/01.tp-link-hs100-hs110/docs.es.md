@@ -35,9 +35,9 @@ visible: true
 
 ---
 
-[<i class="fa fa-amazon fa-3x"></i> Ver Amazon!<br />±14 días!](https://amzn.to/2HjWRab?classes=button,inline)
+[<i class="fa fa-amazon fa-3x"></i> Amazon! ±14 días!](https://amzn.to/2HjWRab?classes=button,inline)
 
-[<i class="fa fa-amazon fa-3x"></i> Ver Amazon!<br />±14 días!](https://amzn.to/2HjWRab){class=button,inline}
+[<i class="fa fa-amazon fa-3x"></i> Ver Amazon!<br />±14 días!](https://amzn.to/2HjWRab)
 
 ---
 
