@@ -36,7 +36,7 @@ visible: true
 ---
 
 
-[fa icon=fa-amazon extras=fa-2x,pull-left /]
+[![buy-mzn!][fa icon=fa-amazon extras=fa-2x,pull-left /] The full monty!]](https://amzn.to/2HjWRab)
 
 
 
