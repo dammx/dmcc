@@ -36,7 +36,7 @@ visible: true
 ---
 
 
-[fa icon=fa-amazon extras=fa-2x,pull-right /]
+[fa icon=fa-amazon extras=fa-2x,pull-left /]
 
 
 
