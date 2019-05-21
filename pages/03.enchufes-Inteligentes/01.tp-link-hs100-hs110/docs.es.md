@@ -41,6 +41,8 @@ visible: true
 
 ![<i class="fa fa-amazon fa-2x pull-right"></i>](https://amzn.to/2HjWRab)
 
+:fa-amazon:
+
 ---
 
 [ui-tabs position="top-left" active="0" theme="lite"]
