@@ -37,7 +37,7 @@ visible: true
 
 [<i class="fa fa-amazon fa-3x"></i> Amazon! ±14 días!](https://amzn.to/2HjWRab?classes=button,inline)
 
-[fa icon=fa-circle-o-notch](https://amzn.to/2HjWRab?classes=button")
+[<i class="fa fa-amazon fa-3x"> Amazon! ±14 días!</i>](https://amzn.to/2HjWRab?classes=button")
 
 ---
 
