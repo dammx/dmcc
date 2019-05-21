@@ -35,16 +35,6 @@ visible: true
 
 ---
 
-<a class="btn btn btn-warning" href="#"> <i class="fa fa-shopping-cart fa-2x pull-left"></i> Ver AliExpress!</a>
-
-<a class="btn btn btn-primary" href="#"> <i class="fa fa-amazon fa-2x pull-left"></i> Ver Amazon!</a>
-
-![:fa-amazon:](https://amzn.to/2HjWRab)
-
-:fa-amazon:
-
----
-
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
@@ -78,8 +68,6 @@ Para controlar ambos hay que descargar la aplicación Kasa para [iOS](https://ap
 
 <!--- OCULTO: ![buy-aliex!][buy-aliex] --->
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
-
-[buy-2mzn]: <i class="fa fa-amazon fa-2x pull-right"></i> Ver Amazon!
 
 ---
 
