@@ -35,7 +35,7 @@ visible: true
 
 ---
 
-<a class="btn btn btn-primary" href="#"> <i class="fa fa-amazon fa-2x pull-right"></i> Ver Amazon<br>±14 days!</a>
+<a class="btn btn btn-primary" href="#"> <i class="fa fa-amazon fa-2x pull-left"></i> Ver Amazon<br>±14 days!</a>
 
 ---
 
