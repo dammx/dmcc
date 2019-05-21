@@ -36,7 +36,7 @@ visible: true
 
 ---
 
-[<i class="fa fa-amazon"> [size=18]Amazon![/size]</i>](https://amzn.to/2HjWRab?classes=button)
+[<i class="fa fa-amazon"> [size=20]Amazon![/size]</i>](https://amzn.to/2HjWRab?classes=button)
 [<i class="fa fa-shopping-cart"> [size=16]AliExpress![/size]</i>](https://amzn.to/2HjWRab?classes=button)
 
 ---
