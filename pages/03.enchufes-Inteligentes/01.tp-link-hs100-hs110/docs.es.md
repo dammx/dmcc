@@ -36,7 +36,7 @@ visible: true
 ---
 
 
-![fa icon=fa-amazon extras=fa-2x,pull-left /](https://amzn.to/2HjWRab)
+[fa icon=fa-amazon extras=fa-2x,pull-left /](https://amzn.to/2HjWRab)
 
 
 
