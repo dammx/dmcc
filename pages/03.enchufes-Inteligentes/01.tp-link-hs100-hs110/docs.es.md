@@ -37,7 +37,7 @@ visible: true
 
 [<i class="fa fa-amazon fa-3x"></i> Amazon! ±14 días!](https://amzn.to/2HjWRab?classes=button,inline)
 
-[fa icon=fa-circle-o-notch extras=fa-spin,fa-3x,fa-fw,margin-bottom /] The full monty! - (https://amzn.to/2HjWRab)
+[fa icon=fa-circle-o-notch extras=fa-spin,fa-3x,fa-fw,margin-bottom href="https://amzn.to/2HjWRab?classes=button,inline" /]
 
 ---
 
