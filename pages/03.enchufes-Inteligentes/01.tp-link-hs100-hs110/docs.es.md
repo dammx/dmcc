@@ -36,9 +36,9 @@ visible: true
 ---
 
 
-[fa icon=fa-amazon extras=fa-3x,pull-left /] The full monty! - [See FontAwesome Examples](https://fortawesome.github.io/Font-Awesome/examples/)
+![fa icon=fa-amazon extras=fa-3x,pull-left /] The full monty! - [See FontAwesome Examples](https://fortawesome.github.io/Font-Awesome/examples/)
 
-
+![fa icon=fa-amazon extras=fa-3x,pull-left / Ver Amazon!](https://fortawesome.github.io/Font-Awesome/examples/)
 
 ---
 
