@@ -33,14 +33,6 @@ visible: true
 
 ![win10](image://os-compat.png)
 
----
-"markdown.styles": [ "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" ]
-
-
-<button type="button" class="btn btn-warning">Warning</button>
-
----
-
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
