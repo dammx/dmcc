@@ -38,7 +38,10 @@ visible: true
 
 ![fa icon=fa-amazon extras=fa-3x,pull-left /] The full monty! - [See FontAwesome Examples](https://fortawesome.github.io/Font-Awesome/examples/)
 
-[<i class="fa fa-amazon fa-3x"></i>](https://fortawesome.github.io/Font-Awesome/examples/)
+[<i class="fa fa-amazon fa-3x pull-left"></i>](https://fortawesome.github.io/Font-Awesome/examples/)
+
+
+<a class="btn btn btn-primary" href="https://amzn.to/2HjWRab"><i class="fa fa-amazon fa-3x pull-left"></i>Ver Amazon!</a>
 
 ---
 
