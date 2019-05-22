@@ -75,7 +75,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 [ui-accordion-item title="Conmutador Shelly 1 | Amazon » 22,99€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Conmutador Shelly 1...**](https://amzn.to/2Lunn5V)</p><p>Transformar un hogar o una oficina en inteligente que no<br />requiere de complejas instalaciones.<br />Interruptor de relé Wi-Fi **_Shelly1_**, que con sus compactas<br /> dimensiones 41x36x17 mm el instalador podrá acoplarlo<br />detrás de cualquier contacto de alimentación, interruptor<br />de luz estándar o directamente en una caja de DIN en la caja de<br /> electricidad.</p> | <div> ![200x200][amzn-shelly1] <a href="https://amzn.to/2Lunn5V" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
+| <p>[**Conmutador Shelly 1...**](https://amzn.to/2Lunn5V)</p><p>Transformar un hogar o una oficina en inteligente que no<br />requiere de complejas instalaciones.<br />Interruptor de relé Wi-Fi **_Shelly1_**, que con sus compactas<br /> dimensiones 41x36x17 mm el instalador podrá acoplarlo<br />detrás de cualquier contacto de alimentación, interruptor<br />de luz estándar o directamente en una caja de DIN en la caja<br />de electricidad.</p> | <div> ![200x200][amzn-shelly1] <a href="https://amzn.to/2Lunn5V" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Interruptor Cortina o Persianas WiFi  | Amazon » 20,99€ "]
