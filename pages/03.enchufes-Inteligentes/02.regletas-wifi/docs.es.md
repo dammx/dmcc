@@ -71,7 +71,7 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 [ui-accordion-item title="Lightweight Smart Power 4 Strips | Aliexpress » 27,54€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Smart Wifi Plug Power Strip Protector contra<br /> sobretensiones. Múltiples<br /> tomas de corriente, 4 puertos USB <br /> Control de voz para Alexa<br /> y Google Home...**](http://s.click.aliexpress.com/e/cj0gMOCs)</p><p>Soporte para altavoz inteligente:<br />  Amazon alexa, Google Home, IFTTT.<br />  Control remoto del teléfono móvil: <br /> cuando el teléfono móvil y la toma de<br />  corriente están conectados <br /> a Internet, la toma móvil puede controlarse <br /> remotamente mediante la aplicación móvil.<br />  Cambio manual: el estado de <br /> conexión / desconexión. Función de tiempo.<br /> Actualización en línea:<br /> cuando salga una nueva versión de firmware,<br />  puede actualizarla en línea en la aplicación<br />  y disfrutar de más funciones.<br /> Intercambio inteligente: <br /> comparte tu dispositivo con más amigos<br /> y con su familia.</p> | ![200x200][amzn-Lightweight][![buy-aliex!][buy-aliex]](http://s.click.aliexpress.com/e/cj0gMOCs)</p> |
+| <p>[**Smart Wifi Plug Power Strip Protector contra<br /> sobretensiones. Múltiples<br /> tomas de corriente, 4 puertos USB <br /> Control de voz para Alexa<br /> y Google Home...**](http://s.click.aliexpress.com/e/cj0gMOCs)</p><p>Soporte para altavoz inteligente:<br />  Amazon alexa, Google Home, IFTTT.<br />  Control remoto del teléfono móvil: <br /> cuando el teléfono móvil y la toma de<br />  corriente están conectados <br /> a Internet, la toma móvil puede controlarse <br /> remotamente mediante la aplicación móvil.<br />  Cambio manual: el estado de <br /> conexión / desconexión. Función de tiempo.<br /> Actualización en línea:<br /> cuando salga una nueva versión de firmware,<br />  puede actualizarla en línea en la aplicación<br />  y disfrutar de más funciones.<br /> Intercambio inteligente: <br /> comparte tu dispositivo con más amigos<br /> y con su familia.</p> | ![200x200] <div> [amzn-Lightweight] <a href="http://s.click.aliexpress.com/e/cj0gMOCs" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:55%;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a> </div> |
 [/ui-accordion-item]
 
 [/ui-accordion]
@@ -81,8 +81,6 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 [amzn-iraza]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=200,200
 [amzn-Konesky]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/Konesky.png?lightbox=1024&cropResize=200,200
 [amzn-Lightweight]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/ligthweight.png?lightbox=1024&cropResize=200,200
-[buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
-[buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
 ---
 
