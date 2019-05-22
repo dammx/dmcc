@@ -63,8 +63,6 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 
 [amzn-BL-RMPRO]: user:/pages/04.broadlink-rm-pro/rm_pro.png?lightbox=1024&cropResize=200,200
 [amzn-BL-RMMINI3]: user://pages/04.broadlink-rm-pro/rm_mini_3.png?lightbox=1024&cropResize=200,200
-[buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
-[buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
 ---
 
