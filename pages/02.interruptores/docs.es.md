@@ -81,7 +81,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 [ui-accordion-item title="Interruptor Cortina o Persianas WiFi  | Amazon » 20,99€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Interruptor Cortina o Persianas WiFi...**](https://amzn.to/2JqiQ1O)</p><p>El interruptor de cortina Wifi puede funcionar con cortinas<br /> inteligentes, puertas eléctricas, puertas de garaje inteligen-<br />tes y otros aparatos. El método de instalación se puede<br />instalar en tan solo unos minutos como el interruptor ciego<br />tradicional (Este interruptor táctil wifi necesita conectarse<br /> con un cable neutro).<br />Aplicación **_eWelink_**</p> | <div> ![200x200][amzn-persiana] <a href="https://amzn.to/2JqiQ1O" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
+| <p>[**Interruptor Cortina o Persianas WiFi...**](https://amzn.to/2JqiQ1O)</p><p>El interruptor de cortina Wifi puede funcionar con cortinas<br /> inteligentes, puertas eléctricas, puertas de garaje inteligen-<br />tes y otros aparatos. El método de instalación se puede<br />instalar en tan solo unos minutos como el interruptor ciego<br />tradicional (Este interruptor táctil wifi necesita conectarse<br /> con un cable neutro). Aplicación **_eWelink_**</p> | <div> ![200x200][amzn-persiana] <a href="https://amzn.to/2JqiQ1O" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Interruptor similar a Sonoff Bl/Ng | Aliexpress » 9,18€ - 12,87€ "]
