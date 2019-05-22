@@ -73,7 +73,7 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 [ui-accordion-item title="Decdeal 3A Termostato Calefacción Agua | Amazon » 39,99€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Decdeal 3A Termostato Programable de Calefacción por<br />agua, Control de Voz ...**](https://amzn.to/2DU5iIe)</p><p>Este termostato de calefacción está diseñado como un<br />controlador de temperatura del calentamiento del agua<br />de la caldera. Es adecuado para el control de la temperatura en edificios de<br />oficinas, hospitales, escuelas y lugares de entretenimiento.</p> | <div> ![200x200][amzn-Decdeal] <a href="https://amzn.to/2DU5iIe" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+| <p>[**Decdeal 3A Termostato Programable de Calefacción por<br />agua, Control de Voz ...**](https://amzn.to/2DU5iIe)</p><p>Este termostato de calefacción está diseñado como un<br />controlador de temperatura del calentamiento del agua<br />de la caldera.<br />- Es adecuado para el control de la temperatura en edificios de oficinas, hospitales, escuelas y lugares de entretenimiento.</p> | <div> ![200x200][amzn-Decdeal] <a href="https://amzn.to/2DU5iIe" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
 [/ui-accordion-item]
 
 
