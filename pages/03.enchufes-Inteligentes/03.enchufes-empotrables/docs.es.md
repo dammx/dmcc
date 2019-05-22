@@ -66,8 +66,6 @@ La toma suele estar protegida electrónicamente contra **cortocircuitos**, **sob
 [amzn-Kaifire]: user:/pages/03.enchufes-Inteligentes/03.enchufes-empotrables/Kaifire.png?lightbox=1024&cropResize=200,200
 [amzn-Jindia]: user://pages/03.enchufes-Inteligentes/03.enchufes-empotrables/Jindia.png?lightbox=1024&cropResize=200,200
 [amzn-shukowifi]: user://pages/03.enchufes-Inteligentes/03.enchufes-empotrables/shukowifi.png?lightbox=1024&cropResize=200,200
-[buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
-[buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
 <!--- OCULTO: ![buy-aliex!][buy-aliex] --->
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
