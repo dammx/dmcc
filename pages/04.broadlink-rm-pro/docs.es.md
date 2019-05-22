@@ -54,7 +54,7 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 [ui-accordion-item title="Broadlink RM Mini3 | Amazon » 19.99€ - Aliexpress » 17,13€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Broadlink RM Mini3...**](https://amzn.to/2WtK7DW)</p><p>-Wi-Fi Universal Remote integra todos<br /> tus dispositivos controlados IR-<br />En comparación con RMPRO,<br />no dispone la función de RF 433 Mhz.<br /> Con la aplicación IHC en tu<br />teléfono inteligente puedes controlar<br />todos los dispositivos,<br /> usa un cable USB para conectar con la<br />energía.<br /> Fácil configuración.</p> | ![200x200][amzn-BL-RMMINI3] [![buy-mzn!][buy-mzn]](https://amzn.to/2WtK7DW)</p>[![buy-aliex][buy-aliex]](http://bit.ly/2V1LpVr)</p> |
+| <p>[**Broadlink RM Mini3...**](https://amzn.to/2WtK7DW)</p><p>-Wi-Fi Universal Remote integra todos<br /> tus dispositivos controlados IR-<br />En comparación con RMPRO,<br />no dispone la función de RF 433 Mhz.<br /> Con la aplicación IHC en tu<br />teléfono inteligente puedes controlar<br />todos los dispositivos,<br /> usa un cable USB para conectar con la<br />energía.<br /> Fácil configuración.</p> | <div> ![200x200][amzn-BL-RMMINI3] <a href="https://amzn.to/2WtK7DW" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:43%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> <a href="http://bit.ly/2V1LpVr" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:55%;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a> </div> |
 [/ui-accordion-item]
 
 [/ui-accordion]
