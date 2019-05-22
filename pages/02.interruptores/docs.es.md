@@ -87,7 +87,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 [ui-accordion-item title="Interruptor similar a Sonoff Bl/Ng | Aliexpress » 9,18€ - 12,87€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Vhome Ewelink Touch Switch,2.4G...**](http://s.click.aliexpress.com/e/bw4GpfYy)</p><p>Interruptor similar a **_Sonoff_**  de 1 a 3 Gang...<br />3 colores diferentes: **Blanco**, **Negro** o **Crema**.<br />Aplicación **_eWelink_** y se puede integrar a _Google Home_<br />y a _Home Assistant_.</p> | <div> ![200x200][amzn-vhome] <a href="http://s.click.aliexpress.com/e/bw4GpfYy" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a> </div> |
+| <p>[**Vhome Ewelink Touch Switch,2.4G...**](http://s.click.aliexpress.com/e/bw4GpfYy)</p><p>Interruptor similar a **_Sonoff_**  de 1 a 3 Gang...<br />3 colores diferentes: **Blanco**, **Negro** o **Crema**.<br />Aplicación **_eWelink_** y se puede integrar a _Google Home_ y<br />a _Home Assistant_.</p> | <div> ![200x200][amzn-vhome] <a href="http://s.click.aliexpress.com/e/bw4GpfYy" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a> </div> |
 [/ui-accordion-item]
 
 [/ui-accordion]
