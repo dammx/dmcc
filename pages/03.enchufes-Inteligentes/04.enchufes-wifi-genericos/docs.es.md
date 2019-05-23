@@ -1,6 +1,6 @@
 ---
 title: 'Enchufes Wifi Genéricos'
-media_order: 'merisny.png,womdee.png,Yokunat.png,up1_azul1.png,slitinto.png'
+media_order: 'merisny.png,womdee.png,Yokunat.png,up1_azul1.png,slitinto.png,integracion_google_home.gif'
 taxonomy:
     category:
         - docs
