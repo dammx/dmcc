@@ -86,7 +86,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 
 [ui-tab title="Integración ..."]
 
-La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera **_Smart Life_**  o  **_Tuya_**,  en la configuración de añadir dispositivos de _Google Home_, aquí tenéis el enlace para descargarlo:
+La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera **_Smart Life_**  o  **_Tuya_**,  en la configuración de añadir dispositivos de _Google Home_, aquí tenéis los enlace para descargarlos:
  * [**Smart Life android**](http://bit.ly/2JnEUtN)
  * [**Smart Life Iphone**](https://apple.co/2DVyRsK)
  * [**Tuya Android**](http://bit.ly/2ZYql5T)
