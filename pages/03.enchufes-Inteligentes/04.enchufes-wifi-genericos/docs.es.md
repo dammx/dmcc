@@ -66,7 +66,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 [ui-accordion-item title="Yokunat WiFi Enchufe Inalámbrico 10A| Amazon » 13,19€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Yokunat WiFi Enchufe Inalámbrico 10A ...**](https://amzn.to/2EsbFmi)</p><p>- Función de sincronización inalámbrica inteligente compatible<br />con _Amazon Alexa_, _Google Home_, _Echo_ y _Echo Dot_ para varios<br />sistemas con control por voz.<br />- Puede escanear las instrucciones para controlar todos los dispo-<br />sitivos con su teléfono inteligente.<br />- **Intercambio inteligente**: Comparte tu dispositivo con amigos<br /> y/o familia.<br />-Utilizar las apps. gratuitas _ Smartlife y _Tuya_</p> | <div> ![200x200][amzn-yokunat] <a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+| <p>[**Yokunat WiFi Enchufe Inalámbrico 10A ...**](https://amzn.to/2EsbFmi)</p><p>- Función de sincronización inalámbrica inteligente compatible<br />con _Amazon Alexa_, _Google Home_, _Echo_ y _Echo Dot_ para varios<br />sistemas con control por voz.<br />- Puede escanear las instrucciones para controlar todos los dispo-<br />sitivos con su teléfono inteligente.<br />- **Intercambio inteligente**: Comparte tu dispositivo con amigos<br /> y/o familia. Utilizar las apps. gratuitas _ Smartlife y _Tuya_</p> | <div> ![200x200][amzn-yokunat] <a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
 [/ui-accordion-item]
     
 [/ui-accordion]
