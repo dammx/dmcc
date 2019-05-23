@@ -38,10 +38,10 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title="Iraza Enchufe Múltiple Inteligente | Amazon » 28,66€ "]
+[ui-accordion-item title="Merisny Enchufe Inteligente Wifi | Amazon » 10,99€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Iraza Enchufe Múltiple Inteligente...**](https://amzn.to/2J7yf7y)</p><p>Configuración simple y fácil de usar : Simplemente, siga los<br />pasos de instalación.<br />- Investigación y desarrollo independientes, fácil de operar.<br />- La conexión wifi es muy estable.<br />- Control de voz vía _Amazon Alexa_ y _Google Assistant._<br /> Puede activar o desactivar las 3 tomas por separado o jun-<br />tas y los 2 puertos USB a través de _Echo_, _Google Home_,<br />NEST y _Samsung Smart Things_ serán compatibles en breve.</p> | <div> ![200x200][amzn-iraza] <a href="https://amzn.to/2J7yf7y" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
+| <p>[**Iraza Enchufe Múltiple Inteligente...**](https://amzn.to/2YM5Rfb)</p><p>Configuración simple y fácil de usar : Merisny Enchufe Inteligente Wifi no solo admite control remoto y control vocal. pero también funciona con Google Home / Amazon Alexa / IFTTT para iPhone y Android, además, a diferencia de otros sockets de Wi-Fi, la corriente máxima del socket Merisny Wifi es 16A y puede admitir una potencia de dispositivo de hasta 3680W. Puede usar su aire acondicionado, refrigerador y otros aparatos de alta potencia sin preocupaciones. (Otros son 10A 2300W)</p> | <div> ![200x200][amzn-iraza] <a href="https://amzn.to/2YM5Rfb" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Konesky Smart Power Strips | Amazon » 29.99€"]
