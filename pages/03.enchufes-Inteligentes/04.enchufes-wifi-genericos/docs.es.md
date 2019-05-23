@@ -39,7 +39,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title="Merisny Enchufe Inteligente Wifi | Amazon » 10,99€ "]
+[ui-accordion-item title="Merisny Enchufe Inteligente Wifi 16A | Amazon » 10,99€ "]
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Merisny Enchufe Inteligente Wifi 16A...**](https://amzn.to/2YM5Rfb)</p><p>Merisny Enchufe Inteligente Wifi no solo admite<br /> control remoto y control vocal<br /> también funciona con Google Home / Amazon Alexa / IFTTT<br /> para iPhone y Android, además,<br /> a diferencia de otros sockets de Wi-Fi, <br />la corriente máxima del socket Merisny Wifi es 16A<br /> y puede admitir una potencia de dispositivo<br /> de hasta 3680W. Puede usar su aire acondicionado,<br /> refrigerador y otros aparatos de alta potencia <br />sin preocupaciones. (Otros son 10A 2300W)</p> | <div> ![200x200][amzn-merisny] <a href="https://amzn.to/2YM5Rfb" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
