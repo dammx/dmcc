@@ -92,7 +92,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
  * [**Tuya Android**](http://bit.ly/2ZYql5T)
  * [**Tuya iphone**](https://apple.co/2vIrNeD)
 
-!!! + Aúnque en el ejemplo usamos la app. _Kasa_, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente arriba indicada, según proceda.
+!!! + Aúnque en el ejemplo usamos la app. _Kasa_, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente según proceda.
 
 ![](integracion_google_home.gif)
 
