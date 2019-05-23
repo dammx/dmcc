@@ -1,6 +1,6 @@
 ---
 title: 'Enchufes Wifi Genéricos'
-media_order: merisny.png
+media_order: 'merisny.png,womdee.png'
 taxonomy:
     category:
         - docs
@@ -45,10 +45,10 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 | <p>[**Merisny Enchufe Inteligente Wifi 16A...**](https://amzn.to/2YM5Rfb)</p><p>Merisny Enchufe Inteligente Wifi no solo admite<br /> control remoto y control vocal<br /> también funciona con Google Home / Amazon Alexa / IFTTT<br /> para iPhone y Android, además,<br /> a diferencia de otros sockets de Wi-Fi, <br />la corriente máxima del socket Merisny Wifi es 16A<br /> y puede admitir una potencia de dispositivo<br /> de hasta 3680W. Puede usar su aire acondicionado,<br /> refrigerador y otros aparatos de alta potencia <br />sin preocupaciones. (Otros son 10A 2300W)</p> | <div> ![200x200][amzn-merisny] <a href="https://amzn.to/2YM5Rfb" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
 [/ui-accordion-item]
 
-[ui-accordion-item title="Konesky Smart Power Strips | Amazon » 29.99€"]
+[ui-accordion-item title="Womdee Mini Smart 10A | Amazon » 29.99€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Konesky Smart Power Strips Wifi<br /> Protector contra sobretensiones con <br />4 salidas 4 puertos USB...**](https://amzn.to/2Valrih)</p><p>La regleta de alimentación inalámbrica Timmer es compatible<br />con los puertos USB, ahorra espacio y dinero, no necesita<br />comprar muchos enchufes ni banco de energía, la regleta<br /> multifuncional le permite cargar muchos dispositivos<br />al mismo tiempo. El control de voz de la toma de corriente<br />inteligente WIFI, puede controlar sus aplicaciones a través<br />de los dispositivos  _Alexa_, _Google Home_ e _IFTTT_. Conveniente<br />y fácil de usar.</p> | <div> ![200x200][amzn-Konesky] <a href="https://amzn.to/2Valrih" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
+| <p>[**Womdee Mini Smart Outlet <br />  Funciona con Amazon Alexa, Echo, Google Home, IFTTT...**](https://amzn.to/2VXZ1GB)</p><p>Control remoto: Utilizar la aplicación gratuita Smartlife/tuya en tu smartphone para controlar inmediatamente el dispositivo conectado al enchufe inteligente y ver remotamente el dispositivo. El enchufe inteligente puede activar automáticamente el dispositivo electrónico o desactivar según sea necesario, tales como ajuste de la luz cuando te vas a casa.Compartir enchufes inteligentes para todos los miembros de la familia en un minuto. No te preocupes, todo el mundo puede controlarlos fácilmente</p> | <div> ![200x200][amzn-Konesky] <a href="https://amzn.to/2VXZ1GB" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
 [/ui-accordion-item]
 
 [ui-accordion-item title="Lightweight Smart Power 4 Strips | Aliexpress » 27,54€ "]
@@ -62,7 +62,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-merisny]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/merisny.png?lightbox=1024&cropResize=200,200
-[amzn-Konesky]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/Konesky.png?lightbox=1024&cropResize=200,200
+[amzn-womdee]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/womdee.png?lightbox=1024&cropResize=200,200
 [amzn-Lightweight]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/ligthweight.png?lightbox=1024&cropResize=200,200
 
 ---
