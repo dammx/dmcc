@@ -16,7 +16,7 @@ visible: true
 
 !!! Los Enchufes Inteligentes son fáciles de configurar y hacen que sea incluso más sencillo gestionar sus dispositivos electrónicos domésticos en cualquier lugar en el mundo con un toque en su Smartphone. Aleje a maleantes configurando sus luces para encenderse y apagarse en un horario específico para que parezca que esté en casa cuando en realidad no lo está.
 
-Características:
+**Características:**
 
 Con un toque en su Smartphone, puede fácilmente apagar las luces y otros dispositivos en el salón sin salir de la cama, o programar a su antojo todas las luces para que se apaguen a media noche.
 Inspirado en un estilo moderno, el diseño de los Enchufes Inteligentes es tan simple como elegante, para combinarse sin problemas con la decoración existente.
