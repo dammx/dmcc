@@ -31,6 +31,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 - Control remoto desde el smartphone en cualquier lugar y en cualquier momento
 - Función de temporizador.
 - Ahorro de energia y protección del medio ambiente.
+- Opciones de 10A (2300W) O 16A (3600W)
 
 
 ---
