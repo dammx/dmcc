@@ -54,7 +54,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 [ui-accordion-item title="Lightweight Smart Power 4 Strips | Aliexpress » 27,54€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Yokunat WiFi Zócalo Ilalámbrico Control de voz para Alexa y Google Home**](https://amzn.to/2EsbFmi)</p><p>Función de sincronización inalámbrica inteligente<br /> Compatible con Amazon Alexa, Google Home, Echo y Echo Dot<br /> para Varios Sistemas con control por voz,<br /> puede escanear las instrucciones para controlar<br /> todos los dispositivos con su teléfono inteligente.<br />- **Intercambio inteligente**: Comparte tu dispositivo con<br />amigos y/o familia.</p> | <div> ![200x200][amzn-Yokunat] <a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
+| <p>[**Yokunat WiFi Zócalo Ilalámbrico<br /> Control de voz para Alexa y Google Home**](https://amzn.to/2EsbFmi)</p><p>Función de sincronización inalámbrica inteligente<br /> Compatible con Amazon Alexa, Google Home, Echo y Echo Dot<br /> para Varios Sistemas con control por voz,<br /> puede escanear las instrucciones para controlar<br /> todos los dispositivos con su teléfono inteligente.<br />- **Intercambio inteligente**: Comparte tu dispositivo con<br />amigos y/o familia.</p> | <div> ![200x200][amzn-Yokunat] <a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
 [/ui-accordion-item]
 
 [/ui-accordion]
