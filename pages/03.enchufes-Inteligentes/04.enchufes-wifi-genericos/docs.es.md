@@ -17,28 +17,28 @@ visible: true
 
 **ENCHUFE INTELIGENTE WIFI**
 
-!!! Los Enchufes Inteligentes son fáciles de configurar y hacen que sea incluso más sencillo gestionar sus dispositivos electrónicos domésticos en cualquier lugar en el mundo con un toque en su Smartphone. Aleje a maleantes configurando sus luces para encenderse y apagarse en un horario específico para que parezca que esté en casa cuando en realidad no lo está.
+!!! Los Enchufes Inteligentes son fáciles de configurar y hacen que sea incluso más sencillo gestionar sus dispositivos electrónicos domésticos en cualquier lugar en el mundo con un toque en su _smartphone_. Aleje a maleantes configurando sus luces para encenderse y apagarse en un horario específico para que parezca que está en casa cuando en realidad no lo está.
 
 **Características:**
 
-Con un toque en su Smartphone, puede fácilmente apagar las luces y otros dispositivos en el salón sin salir de la cama, o programar a su antojo todas las luces para que se apaguen a media noche.
+Con un toque en su _smartphone_, puede fácilmente apagar las luces y otros dispositivos en el salón sin salir de la cama, o programar a su antojo todas las luces para que se apaguen a media noche.
 
 Inspirado en un estilo moderno, el diseño de los Enchufes Inteligentes es tan simple como elegante, para combinarse sin problemas con la decoración existente.
 
 Controle dispositivos conectados al Enchufe Inteligente en cualquier sitio en el que tenga internet utilizando en su smartphone.
 
-Programe el Enchufe Inteligente para encender y apagar automáticamente la alimentación de los dispositivos electrónicos, como por ejemplo establecer que las luces se enciendan al atardecer o se apaguen al amanecer.
+Programe el Enchufe Inteligente para encender y apagar automáticamente la alimentación de los dispositivos electrónicos, como por ejemplo, establecer que las luces se enciendan al atardecer o se apaguen al amanecer.
 
-- Compatible con ALEXA y GOOGLE HOME
-- Se puede controlar por APP SmartLife/Tuya
-- Protección por sobrecarga
-- Protección de iluminacion
-- Protección obturador de seguridad infantil
-- OTA soportado
-- Control remoto desde el smartphone en cualquier lugar y en cualquier momento
+- Compatible con _ALEXA_ y _GOOGLE HOME_
+- Se puede controlar por _app._ _SmartLife_ o _Tuya_.
+- Protección por sobrecarga.
+- Protección de iluminación.
+- Protección obturador de seguridad infantil.
+- _OTA_ soportado.
+- Control remoto desde el smartphone en cualquier lugar y en cualquier momento.
 - Función de temporizador.
 - Ahorro de energia y protección del medio ambiente.
-- Opciones de 10A (2300W) O 16A (3600W)
+- Opciones de 10A (2300W) O 16A (3600W).
 
 
 ---
