@@ -1,5 +1,6 @@
 ---
 title: 'Enchufes Wifi Genéricos'
+media_order: merisny.png
 taxonomy:
     category:
         - docs
@@ -60,7 +61,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-iraza]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=200,200
+[amzn-merisny]: user:///pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/merisny.png?lightbox=1024&cropResize=200,200
 [amzn-Konesky]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/Konesky.png?lightbox=1024&cropResize=200,200
 [amzn-Lightweight]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/ligthweight.png?lightbox=1024&cropResize=200,200
 
