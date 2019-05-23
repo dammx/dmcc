@@ -48,6 +48,12 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 | <p>[**Merisny Enchufe Inteligente Wifi 16A...**](https://amzn.to/2YM5Rfb)</p><p>Merisny Enchufe Inteligente Wifi no solo admite<br /> control remoto y control vocal<br /> también funciona con Google Home / Amazon Alexa / IFTTT<br /> para iPhone y Android, además,<br /> a diferencia de otros sockets de Wi-Fi, <br />la corriente máxima del socket Merisny Wifi es 16A<br /> y puede admitir una potencia de dispositivo<br /> de hasta 3680W. Puede usar su aire acondicionado,<br /> refrigerador y otros aparatos de alta potencia <br />sin preocupaciones. <br /> (Otros son 10A 2300W)<br />-Utilizar la aplicación gratuita _**Smartlife/tuya**_</p> | <div> ![200x200][amzn-merisny] <a href="https://amzn.to/2YM5Rfb" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
 [/ui-accordion-item]
 
+[ui-accordion-item title="Slitinto Inalámbrico Smart 16A| Amazon » 14,99€"]
+|  |  |
+|:-------------|:-------------:|
+| <p>[**Slitinto Inalámbrico Smart Mini Zócalo<br /> Control Remoto, 16A**](https://amzn.to/2QhIabH)</p><p>Slitinto están especializados en dispositivos<br /> para el hogar inteligente. Los enchufes wifi inteligentes<br /> de Slitinto le permiten crear horarios personalizados<br /> y control remoto para sus aparatos. <br />Los enchufes también facilitan la vida de los discapacitados y<br /> los ancianos.<br /> Que todos empiecen a disfrutar de una vida inteligente.<br />-Utilizar la aplicación gratuita _**Smartlife/tuya**_</p> | <div> ![200x200][amzn-slitinto] <a href="https://amzn.to/2QhIabH" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
+[/ui-accordion-item]     
+    
 [ui-accordion-item title="Womdee Mini Smart 10A | Amazon » 10,99€"]
 |  |  |
 |:-------------|:-------------:|
@@ -60,12 +66,6 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 | <p>[**Yokunat WiFi Enchufe Inalámbrico 10A <br /> Control de voz para Alexa y Google Home**](https://amzn.to/2EsbFmi)</p><p>Función de sincronización inalámbrica inteligente<br /> Compatible con Amazon Alexa, Google Home,<br /> Echo y Echo Dot para Varios Sistemas con control por voz.<br /> Puede escanear las instrucciones para controlar<br /> todos los dispositivos con su teléfono inteligente.<br />- **Intercambio inteligente**: Comparte tu dispositivo con amigos<br /> y/o familia.<br />-Utilizar la aplicación gratuita _**Smartlife/tuya**_</p> | <div> ![200x200][amzn-yokunat] <a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
 [/ui-accordion-item]
     
-[ui-accordion-item title="Slitinto Inalámbrico Smart 16A| Amazon » 14,99€"]
-|  |  |
-|:-------------|:-------------:|
-| <p>[**Slitinto Inalámbrico Smart Mini Zócalo<br /> Control Remoto, 16A**](https://amzn.to/2QhIabH)</p><p>Slitinto están especializados en dispositivos<br /> para el hogar inteligente. Los enchufes wifi inteligentes<br /> de Slitinto le permiten crear horarios personalizados<br /> y control remoto para sus aparatos. <br />Los enchufes también facilitan la vida de los discapacitados y<br /> los ancianos.<br /> Que todos empiecen a disfrutar de una vida inteligente.<br />-Utilizar la aplicación gratuita _**Smartlife/tuya**_</p> | <div> ![200x200][amzn-slitinto] <a href="https://amzn.to/2QhIabH" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
-[/ui-accordion-item]  
-
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
