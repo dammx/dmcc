@@ -63,7 +63,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 [ui-accordion-item title="SLITINTO Inalámbrico Smart 16A| Amazon » 14,99€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**SLITINTO Inalámbrico Smart Mini Zócalo con Control Remoto, Establecer Horario,Monitor Energía, No necesitas de Hub,16A**](https://amzn.to/2QhIabH)</p><p>Slitinto están especializados en dispositivos para el hogar inteligente. Los enchufes wifi inteligentes de Slitinto le permiten crear horarios personalizados y control remoto para sus aparatos. Los enchufes también facilitan la vida de los discapacitados y los ancianos. Que todos empiecen a disfrutar de una vida inteligente.<br />-Utilizar la aplicación gratuita _**Smartlife/tuya**_</p> | <div> ![200x200][amzn-slitinto] <a href="https://amzn.to/2QhIabH" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
+| <p>[**SLITINTO Inalámbrico Smart Mini Zócalo con Control Remoto, 16A**](https://amzn.to/2QhIabH)</p><p>Slitinto están especializados en dispositivos para el hogar inteligente. Los enchufes wifi inteligentes de Slitinto le permiten crear horarios personalizados y control remoto para sus aparatos. Los enchufes también facilitan la vida de los discapacitados y los ancianos. Que todos empiecen a disfrutar de una vida inteligente.<br />-Utilizar la aplicación gratuita _**Smartlife/tuya**_</p> | <div> ![200x200][amzn-slitinto] <a href="https://amzn.to/2QhIabH" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
 [/ui-accordion-item]  
 
 [/ui-accordion]
