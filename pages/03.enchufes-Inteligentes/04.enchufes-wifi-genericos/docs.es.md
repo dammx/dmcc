@@ -1,6 +1,6 @@
 ---
 title: 'Enchufes Wifi Genéricos'
-media_order: 'merisny.png,womdee.png,Yokunat.png,up1_azul1.png'
+media_order: 'merisny.png,womdee.png,Yokunat.png,up1_azul1.png,slitinto.png'
 taxonomy:
     category:
         - docs
@@ -57,8 +57,14 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 [ui-accordion-item title="Yokunat WiFi Enchufe Inalámbrico 10A| Amazon » 13,19€"]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Yokunat WiFi Enchufe Inalámbrico 10A <br /> Control de voz para Alexa y Google Home**](https://amzn.to/2EsbFmi)</p><p>Función de sincronización inalámbrica inteligente<br /> Compatible con Amazon Alexa, Google Home,<br /> Echo y Echo Dot para Varios Sistemas con control por voz.<br /> Puede escanear las instrucciones para controlar<br /> todos los dispositivos con su teléfono inteligente.<br />- **Intercambio inteligente**: Comparte tu dispositivo con amigos<br /> y/o familia.<br />-Utilizar la aplicación gratuita _**Smartlife/tuya**_</p> | <div> ![200x200][amzn-Yokunat] <a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
+| <p>[**Yokunat WiFi Enchufe Inalámbrico 10A <br /> Control de voz para Alexa y Google Home**](https://amzn.to/2EsbFmi)</p><p>Función de sincronización inalámbrica inteligente<br /> Compatible con Amazon Alexa, Google Home,<br /> Echo y Echo Dot para Varios Sistemas con control por voz.<br /> Puede escanear las instrucciones para controlar<br /> todos los dispositivos con su teléfono inteligente.<br />- **Intercambio inteligente**: Comparte tu dispositivo con amigos<br /> y/o familia.<br />-Utilizar la aplicación gratuita _**Smartlife/tuya**_</p> | <div> ![200x200][amzn-yokunat] <a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
 [/ui-accordion-item]
+    
+[ui-accordion-item title="SLITINTO Inalámbrico Smart 16A| Amazon » 14,99€"]
+|  |  |
+|:-------------|:-------------:|
+| <p>[**SLITINTO Inalámbrico Smart Mini Zócalo con Control Remoto, Establecer Horario,Monitor Energía, No necesitas de Hub,16A**](https://amzn.to/2QhIabH)</p><p>Slitinto están especializados en dispositivos para el hogar inteligente. Los enchufes wifi inteligentes de Slitinto le permiten crear horarios personalizados y control remoto para sus aparatos. Los enchufes también facilitan la vida de los discapacitados y los ancianos. Que todos empiecen a disfrutar de una vida inteligente.<br />-Utilizar la aplicación gratuita _**Smartlife/tuya**_</p> | <div> ![200x200][amzn-slitinto] <a href="https://amzn.to/2QhIabH" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
+[/ui-accordion-item]  
 
 [/ui-accordion]
 
@@ -66,7 +72,8 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 
 [amzn-merisny]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/merisny.png?lightbox=1024&cropResize=200,200
 [amzn-womdee]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/womdee.png?lightbox=1024&cropResize=200,200
-[amzn-Yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=200,200
+[amzn-yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=200,200
+[amzn-slitinto]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/slitinto.png?lightbox=1024&cropResize=200,200    
 
 ---
 
