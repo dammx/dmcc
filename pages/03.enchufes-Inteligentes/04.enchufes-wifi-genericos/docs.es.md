@@ -4,6 +4,9 @@ media_order: 'merisny.png,womdee.png,Yokunat.png,up1_azul1.png'
 taxonomy:
     category:
         - docs
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 visible: true
 ---
 
