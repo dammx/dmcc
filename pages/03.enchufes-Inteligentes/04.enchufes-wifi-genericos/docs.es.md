@@ -22,8 +22,11 @@ visible: true
 **Características:**
 
 Con un toque en su Smartphone, puede fácilmente apagar las luces y otros dispositivos en el salón sin salir de la cama, o programar a su antojo todas las luces para que se apaguen a media noche.
+
 Inspirado en un estilo moderno, el diseño de los Enchufes Inteligentes es tan simple como elegante, para combinarse sin problemas con la decoración existente.
-Controle dispositivos conectados al Enchufe Inteligente en cualquier sitio en el que tenga internet utilizando en su smartphone
+
+Controle dispositivos conectados al Enchufe Inteligente en cualquier sitio en el que tenga internet utilizando en su smartphone.
+
 Programe el Enchufe Inteligente para encender y apagar automáticamente la alimentación de los dispositivos electrónicos, como por ejemplo establecer que las luces se enciendan al atardecer o se apaguen al amanecer.
 
 - Compatible con ALEXA y GOOGLE HOME
