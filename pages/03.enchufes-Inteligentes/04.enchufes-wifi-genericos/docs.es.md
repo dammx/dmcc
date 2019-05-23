@@ -11,7 +11,7 @@ visible: true
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
 
-**ADAPTADOR WIFI ENCHUFE INTELIGENTE**
+**ENCHUFE INTELIGENTE WIFI**
 
 !!! Los Enchufes Inteligentes son fáciles de configurar y hacen que sea incluso más sencillo gestionar sus dispositivos electrónicos domésticos en cualquier lugar en el mundo con un toque en su Smartphone. Aleje a maleantes configurando sus luces para encenderse y apagarse en un horario específico para que parezca que esté en casa cuando en realidad no lo está.
 
