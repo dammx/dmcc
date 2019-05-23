@@ -1,6 +1,6 @@
 ---
 title: 'Enchufes Wifi Genéricos'
-media_order: 'merisny.png,womdee.png'
+media_order: 'merisny.png,womdee.png,Yokunat.png'
 taxonomy:
     category:
         - docs
@@ -54,7 +54,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 [ui-accordion-item title="Lightweight Smart Power 4 Strips | Aliexpress » 27,54€ "]
 |  |  |
 |:-------------|:-------------:|
-| <p>[**Smart Wifi Plug Power Strip Protector contra sobreten-<br />siones. Múltiples tomas de corriente,<br />4 puertos USB Control de voz para Alexa y Google Home**](http://s.click.aliexpress.com/e/cj0gMOCs)</p><p>Soporte para altavoz inteligente: _Amazon Alexa_, _Google<br />Home_, _IFTTT_.  Control remoto del teléfono móvil cuando<br />el teléfono móvil y la toma de corriente están conectados<br />a Internet, la toma móvil puede controlarse remotamente<br />mediante la aplicación móvil.<br />- **Cambio manual** del estado de conexión / desconexión.<br />- **Función de tiempo**.<br />- **Actualización en línea** cuando salga una nueva versión<br />del firmware, podrá actualizarse en línea directamente<br />en la aplicación y disfrutar de más funciones.<br />- **Intercambio inteligente**: Comparte tu dispositivo con<br />amigos y/o familia.</p> |  <div> ![200x200][amzn-Lightweight] <a href="http://s.click.aliexpress.com/e/cj0gMOCs" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a> </div> |
+| <p>[**Yokunat WiFi Zócalo Ilalámbrico Control de voz para Alexa y Google Home**](https://amzn.to/2EsbFmi)</p><p>Función de sincronización inalámbrica inteligente Compatible con Amazon Alexa, Google Home, Echo y Echo Dot para Varios Sistemas con control por voz, puede escanear las instrucciones para controlar todos los dispositivos con su teléfono inteligente.<br />- **Intercambio inteligente**: Comparte tu dispositivo con<br />amigos y/o familia.</p> | <div> ![200x200][amzn-Yokunat] <a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
 [/ui-accordion-item]
 
 [/ui-accordion]
@@ -63,7 +63,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 
 [amzn-merisny]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/merisny.png?lightbox=1024&cropResize=200,200
 [amzn-womdee]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/womdee.png?lightbox=1024&cropResize=200,200
-[amzn-Lightweight]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/ligthweight.png?lightbox=1024&cropResize=200,200
+[amzn-Yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=200,200
 
 ---
 
