@@ -86,6 +86,3 @@ visible: true
 [amzn-iraza3]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=500,500
 [amzn-iraza4]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=600,600
 [amzn-iraza5]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=600,600
-
-
----
