@@ -22,7 +22,7 @@ visible: true
 
 ---
 
-#### **Con parrafo (justificado) e imagen forzada a 500px + customCSS 500 (width)**:
+#### **Con parrafo (justificado) e imagen forzada 500px + customCSS a 500 (width)**:
 
 |  |  |
 |:------|:-----------------------:|
