@@ -1,6 +1,5 @@
 ---
 title: test
-published: true
 taxonomy:
     category:
         - docs
