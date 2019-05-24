@@ -58,7 +58,7 @@ visible: true
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Iraza Enchufe Múltiple Inteligente...**](https://amzn.to/2J7yf7y)</p><p>Configuración simple y fácil de usar : Simplemente, siga los pasos de instalación. Investigación y desarrollo independientes, fácil de operar. La conexión wifi es muy estable.</p><p>Control de voz vía _Amazon Alexa_ y _Google Assistant. Puede activar o desactivar las 3 tomas por separado o juntas y los 2 puertos USB a través de _Echo_, _Google Home_, NEST y _Samsung Smart Things_ serán compatibles en breve.</p> | <div> ![img-600crop2][amzn-iraza5] <a href="https://amzn.to/2J7yf7y" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+| <p>&nbsp;</p> <p>[**Iraza Enchufe Múltiple Inteligente...**](https://amzn.to/2J7yf7y)</p><p>Configuración simple y fácil de usar : Simplemente, siga los pasos de instalación. Investigación y desarrollo independientes, fácil de operar. La conexión wifi es muy estable.</p><p>Control de voz vía _Amazon Alexa_ y _Google Assistant. Puede activar o desactivar las 3 tomas por separado o juntas y los 2 puertos USB a través de _Echo_, _Google Home_, NEST y _Samsung Smart Things_ serán compatibles en breve.</p> <p>&nbsp;</p> | <div> ![img-600crop2][amzn-iraza5] <a href="https://amzn.to/2J7yf7y" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
 
 ---
 
