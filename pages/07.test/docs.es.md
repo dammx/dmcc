@@ -63,7 +63,7 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-iraza]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=275,275
+[amzn-iraza]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=100%,100%
 [amzn-Konesky]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/Konesky.png?lightbox=1024&cropResize=200,200
 [amzn-Lightweight]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/ligthweight.png?lightbox=1024&cropResize=200,200
 
