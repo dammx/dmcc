@@ -54,7 +54,7 @@ visible: true
 
 #### **Con 2 (DOS) párrafos (texto justificado) + 2 (DOS) párrafos (texto oculto) +e imagen MAS forzada a 600px + customCSS a 600 (width)**:
 
-!! **NOTAR QUE LA IMAGEN aunque fijada a 600px con 2 párrafos NO AUMENTA DE TAMAÑO tanto como CON 3 PÁRRAFOS e IMAGEN a 500px.**
+!! **NOTAR QUE LA IMAGEN aunque fijada a 600px con 2 párrafos texto + 2 parrafos )texto oculto) NO AUMENTA DE TAMAÑO tanto como CON 3 PÁRRAFOS e IMAGEN a 500px.**
 
 |  |  |
 |:------|:-----------------------:|
