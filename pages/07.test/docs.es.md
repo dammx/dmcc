@@ -63,6 +63,8 @@ visible: true
 
 ---
 
+## LA MEJOR OPCION CON DOBLE BOTON:
+
 #### **Con 3 párrafos (justificados) e imagen forzada 500px + customCSS a 500 (width)**:
 
 |  |  |
