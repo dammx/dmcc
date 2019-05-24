@@ -63,9 +63,15 @@ visible: true
 
 ---
 
-## LA MEJOR OPCION CON DOBLE BOTON:
+## CONCLUSION: LA MEJOR OPCION CON SIMPLE Y DOBLE BOTON:
 
-#### **Con 3 párrafos (justificados) e imagen forzada 500px + customCSS a 500 (width)**:
+#### 1BOTON: **Con 3 párrafos (justificados) e imagen forzada 500px + customCSS a 500 (width)**:
+
+|  |  |
+|:------|:-----------------------:|
+| <p>[**Iraza Enchufe Múltiple Inteligente...**](https://amzn.to/2J7yf7y)</p><p>Configuración simple y fácil de usar : Simplemente, siga los pasos de instalación.</p><p>+ Investigación y desarrollo independientes, fácil de operar. La conexión wifi es muy estable. Control de voz vía _Amazon Alexa_ y _Google Assistant.</p><p>+ Puede activar o desactivar las 3 tomas por separado o juntas y los 2 puertos USB a través de _Echo_, _Google Home_, NEST y _Samsung Smart Things_ serán compatibles en breve.</p> | <div> ![img-500crop][amzn-iraza3] </div> <div> <a href="https://amzn.to/2J7yf7y" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+
+#### 2 BOTONES: **Con 3 párrafos (justificados) e imagen forzada 500px + customCSS a 500 (width)**:
 
 |  |  |
 |:------|:-----------------------:|
