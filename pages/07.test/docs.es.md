@@ -14,7 +14,7 @@ visible: true
 
 ---
 
-#### **Con 3 párrafo (justificados) en lugar de salto de línea forzado + imagen forzada 600(width)**:
+#### **Con 3 párrafos (justificados) en lugar de salto de línea forzado + imagen forzada 600(width)**:
 
 |  |  |
 |:------|:-----------------------:|
@@ -41,7 +41,7 @@ visible: true
 
 #### **Con 2 (DOS) párrafos (justificado) e imagen MAS forzada a 600px + customCSS a 600 (width)**:
 
-!! NOTAR QUE LA IMAGEN aunque fijada a 600px con 2 párrafos NO AUMENTA DE TAMAÑO tanto como CON 3 PÁRRAFOS e IMAGEN a 500px.
+!! **NOTAR QUE LA IMAGEN aunque fijada a 600px con 2 párrafos NO AUMENTA DE TAMAÑO tanto como CON 3 PÁRRAFOS e IMAGEN a 500px.**
 
 |  |  |
 |:------|:-----------------------:|
