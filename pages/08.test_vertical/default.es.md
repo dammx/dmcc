@@ -32,12 +32,12 @@ published: true
 ---
 
 <div align="center">
-<table style="width: 100%; min-width: 350px; max-width: 700px; max-height: 300px; border: 1px solid #dddddd;">
+<table style="width: 100%; min-width: 350px; max-width: 800px;  max-height: 300px; border: 1px solid #dddddd;">
 <tbody>
 <tr>
 <td>
 <div align="center">
-<table style="width: 98%; border: 1px solid #dddddd; align: center;">
+<table style="width: 98%; border: 1px solid #dddddd; align: center;  max-height: 300px;">
 <tbody>
 <tr>
 <td style="min-width: 250px; padding: 5px;">
