@@ -1,6 +1,6 @@
 ---
 title: test_vertical
-published: true
+published: false
 ---
 
 #### VERTICAL - UN PROVEEDOR
