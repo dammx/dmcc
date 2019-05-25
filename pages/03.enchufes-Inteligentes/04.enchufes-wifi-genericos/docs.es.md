@@ -54,9 +54,11 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 [/ui-accordion-item]
 
 [ui-accordion-item title="Slitinto Inalámbrico Smart 16A| Amazon » 14,99€"]
+
 |  |  |
-|:-------------|:-------------:|
-| <p>[**Slitinto Inalámbrico Smart Mini Zócalo Control Remoto 16A ...**](https://amzn.to/2QhIabH)</p><p>_Slitinto_ están especializados en dispositivos para el hogar inteli-<br />gente. Los enchufes Wi-Fi inteligentes de _Slitinto_ le permiten<br />crear horarios personalizados y control remoto para<br />sus aparatos. <br />- Los enchufes también facilitan la vida de los discapacitados y<br /> los ancianos.<br />- Que todos empiecen a disfrutar de una vida inteligente.<br />- Utilizar la aplicación gratuita _Smartlife_ o _Tuya_</p> | <div> ![200x200][amzn-slitinto] <a href="https://amzn.to/2QhIabH" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+|:------|:-----------------------:|
+| <p>[**Slitinto Inalámbrico Smart Mini Zócalo Control Remoto 16A ...**](https://amzn.to/2QhIabH)</p> <p>_Slitinto_ están especializados en dispositivos para el hogar inteligente. Los enchufes Wi-Fi inteligentes de _Slitinto_ le permiten crear horarios personalizados y control remoto para sus aparatos. </p><p>- Los enchufes también facilitan la vida de los discapacitados y los ancianos. Que todos empiecen a disfrutar de una vida inteligente.</p> <p>- Utilizar la aplicación gratuita _Smartlife_ o _Tuya_</p> | <div> ![img-500crop][amzn-slitinto] </div> <div> <a href="https://amzn.to/2QhIabH" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
 [/ui-accordion-item]     
     
 [ui-accordion-item title="Womdee Mini Smart 10A | Amazon » 10,99€"]
@@ -78,7 +80,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 [amzn-merisny]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/merisny.png?lightbox=1024&cropResize=500,500
 [amzn-womdee]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/womdee.png?lightbox=1024&cropResize=200,200
 [amzn-yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=200,200
-[amzn-slitinto]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/slitinto.png?lightbox=1024&cropResize=200,200    
+[amzn-slitinto]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/slitinto.png?lightbox=1024&cropResize=500,500
 
 ---
 
