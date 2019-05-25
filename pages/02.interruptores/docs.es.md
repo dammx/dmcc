@@ -49,9 +49,6 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 [ui-accordion independent=true open=none]
 
 [ui-accordion-item title="Sonoff Basic | Amazon » 5,81€ -  Aliexpress » 4,22€ "]
-|  |  |
-|:-------------|:-------------:|
-| <p>[**Sonoff Basic Interruptor Inteligente ...**](https://amzn.to/2Hbfsor)</p><p>Sonoff Basic es un interruptor inteligente WiFi que permite <br />encender y apagar remotamente un aparato eléctrico.</p> <p>Este dispositivo eléctrico transmite datos a través de su<br /> router WiFi, permitiendo a los usuarios controlar de forma<br /> remota todos los dispositivos conectados a través de la<br /> aplicación móvil **_eWeLink_**.</p> | <div> ![200x200][amzn-basic1] <a href="https://amzn.to/2Hbfsor" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:43%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> <a href="http://s.click.aliexpress.com/e/bHRK4xVm" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:55%;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a> </div> |
 
 |  |  |
 |:------|:-----------------------:|
@@ -102,7 +99,6 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 [amzn-touch2]: user://pages/02.interruptores/sonoff_touch2.png?lightbox=1024&cropResize=200,200
 [amzn-touch1]: user://pages/02.interruptores/touch1.png?lightbox=1024&cropResize=200,200
 [amzn-basic]: user://pages/02.interruptores/basic.png?lightbox=1024&cropResize=500,500
-[amzn-basic1]: user://pages/02.interruptores/basic.png?lightbox=1024&cropResize=200,200
 [amzn-touch3]: user://pages/02.interruptores/sonoff_touch3.png?lightbox=1024&cropResize=200,200
 [amzn-shelly1]: user://pages/02.interruptores/shelly11.png?lightbox=1024&cropResize=200,200
 [amzn-persiana]: user://pages/02.interruptores/Persiana.png?lightbox=1024&cropResize=200,200
