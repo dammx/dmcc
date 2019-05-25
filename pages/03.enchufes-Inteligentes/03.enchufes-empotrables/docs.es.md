@@ -61,7 +61,7 @@ La toma suele estar protegida electrónicamente contra **cortocircuitos**, **sob
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Toma Schuko Enchufe Pared 15A 2 puertos  USB, Blanco**](http://s.click.aliexpress.com/e/86Y7JIs)</p> <p>- **Acceso remoto**: Toma de corriente con protección infantil integrada 15A. Uso simultáneo de todos los puertos USB para la carga sin complicaciones de todos los dispositivos móviles que tienen una interfaz USB, como por ejemplo iPhones, iPads y teléfonos inteligentes.</p> <p>- La carga máxima de los dos puertos USB es de 2.4A.</p> | <div> ![img-500crop][amzn-shukowifi] </div> <div> <a href="http://s.click.aliexpress.com/e/86Y7JIs" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
+| <p>[**Toma Schuko Enchufe Pared 15A 2 puertos  USB, Blanco**](http://s.click.aliexpress.com/e/86Y7JIs)</p> <p>-  Acceso remoto y toma de corriente con protección infantil integrada 15A. </p> <p>Uso simultáneo de todos los puertos USB para la carga sin complicaciones de todos los dispositivos móviles que tienen una interfaz USB, como por ejemplo iPhones, iPads y teléfonos inteligentes.</p> <p>- La carga máxima de los dos puertos USB es de 2.4A.</p> | <div> ![img-500crop][amzn-shukowifi] </div> <div> <a href="http://s.click.aliexpress.com/e/86Y7JIs" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
 
 [/ui-accordion-item]
 
