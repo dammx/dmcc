@@ -57,7 +57,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Slitinto Inalámbrico Smart Mini Zócalo Control Remoto 16A ...**](https://amzn.to/2QhIabH)</p> <p>_Slitinto_ están especializados en dispositivos para el hogar inteligente. Los enchufes Wi-Fi inteligentes de _Slitinto_ le permiten crear horarios personalizados y control remoto para sus aparatos. </p><p>- Los enchufes también facilitan la vida de los discapacitados y los ancianos. Que todos empiecen a disfrutar de una vida inteligente.</p> <p>- Utilizar la aplicación gratuita _Smartlife_ o _Tuya_</p> | <div> ![img-500crop][amzn-slitinto] </div> <div> <a href="https://amzn.to/2QhIabH" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Slitinto Inalámbrico Smart 16A ...**](https://amzn.to/2QhIabH)</p> <p>_Slitinto_ están especializados en dispositivos para el hogar inteligente. Los enchufes Wi-Fi inteligentes de _Slitinto_ le permiten crear horarios personalizados y control remoto para sus aparatos. </p><p>- Los enchufes también facilitan la vida de los discapacitados y los ancianos. Que todos empiecen a disfrutar de una vida inteligente.</p> <p>- Utilizar la aplicación gratuita _Smartlife_ o _Tuya_</p> | <div> ![img-500crop][amzn-slitinto] </div> <div> <a href="https://amzn.to/2QhIabH" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]     
     
