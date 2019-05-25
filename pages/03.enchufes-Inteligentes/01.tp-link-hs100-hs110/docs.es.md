@@ -65,7 +65,7 @@ Para controlar ambos hay que descargar la aplicación Kasa para [iOS](https://ap
 
 <!--- REFERENCIA A IMAGENES AL PIE DEL ARTÍCULO --->
 
-[amzn-TPL-HS100]: user:/pages/03.enchufes-Inteligentes/01.tp-link-hs100-hs110/tp-link-hs-100.png?lightbox=1024&cropResize=200,200
+[amzn-TPL-HS100]: user:/pages/03.enchufes-Inteligentes/01.tp-link-hs100-hs110/tp-link-hs-100.png?lightbox=1024&cropResize=500,500
 [amzn-TPL-HS110]: user://pages/03.enchufes-Inteligentes/01.tp-link-hs100-hs110/tp-link-hs-110.png?lightbox=1024&cropResize=200,200
 
 ---
