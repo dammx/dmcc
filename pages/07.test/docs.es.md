@@ -86,7 +86,7 @@ visible: true
 
 |  |
 |:------:|
-| <div> ![img-500crop][amzn-yokunat] </div> |
+| <div> ![img-300crop][amzn-yokunat] </div> |
 | [**Yokunat WiFi Enchufe Inalámbrico 10A ...**](https://amzn.to/2EsbFmi)</p><p>Función de sincronización inalámbrica inteligente compatible con _Amazon Alexa_, _Google Home_, _Echo_ y _Echo Dot_ para varios sistemas con control por voz.</p> <p>Puede escanear las instrucciones para controlar todos los dispositivos con su teléfono inteligente.</p> <p>Intercambio inteligente: Comparte tu dispositivo con amigos y/o familia. Utilizar las apps. gratuitas _Smartlife_ o _Tuya_.</p> |
 |  <a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
@@ -99,4 +99,4 @@ visible: true
 [amzn-iraza3]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=500,500
 [amzn-iraza4]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=600,600
 [amzn-iraza5]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=600,600
-[amzn-yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=500,500
+[amzn-yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=300,300
