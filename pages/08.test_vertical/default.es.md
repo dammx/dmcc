@@ -57,9 +57,8 @@ published: true
 <tr>
 <td>
 <div><a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank" rel="noopener"><button type="button" style="color: #fff; background-color: #1694ca; width: 100%; height: 35px;">Comprar en <i class="fa fa-amazon fa-lg">mazon</i></button> </a></div>
-<button type="button" style="color: #transparent; background-color: transparent; opacity: 0; width: 100%; height: 5px;">
-<div>&nbsp;</div>
-</button><a href="#" alt="AlieExpress-link" target="_blank"><button type="button" style="color: #fff; background-color: #e8a100; width: 100%; height: 35px;">Comprar en <i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a></td>
+<div><a href="#" alt="AlieExpress-link" target="_blank"><button type="button" style="color: #fff; background-color: #e8a100; width: 100%; height: 35px;">Comprar en <i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a></div>
+</td>
 </tr>
 </tbody>
 </table>
