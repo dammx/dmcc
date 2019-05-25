@@ -118,7 +118,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 [amzn-touch3]: user://pages/02.interruptores/sonoff_touch3.png?lightbox=1024&cropResize=500,500
 [amzn-shelly1]: user://pages/02.interruptores/shelly11.png?lightbox=1024&cropResize=500,500
 [amzn-persiana]: user://pages/02.interruptores/Persiana.png?lightbox=1024&cropResize=500,500
-[amzn-vhome]: user://pages/02.interruptores/vhome.png?lightbox=1024&cropResize=400,400
+[amzn-vhome]: user://pages/02.interruptores/vhome.png?lightbox=1024&cropResize=300,300
 
 ---
 
