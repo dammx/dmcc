@@ -48,14 +48,16 @@ Para controlar ambos hay que descargar la aplicación Kasa para [iOS](https://ap
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**TP-Link HS100 - Enchufe inteligente para controlar sus dispositivos desde cualquier lugar ...**](https://amzn.to/2Lj7sHB)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe Inteligente donde tengas Internet, utilizando la app gratuita **Kasa** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que automáticamente encienda o apague la alimentación de los electrodomésticos según sea necesario: **Encender la luz al anochecer o apagarla al amanecer** ...</p><p>Puede activar o desactivar las 3 tomas por separado o juntas y los 2 puertos USB a través de _Echo_, _Google Home_, NEST y _Samsung Smart Things_ serán compatibles en breve.</p> | <div> ![img-500crop][amzn-TPL-HS100] </div> <div> <a href="https://amzn.to/2Lj7sHB" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**TP-Link HS100 - Enchufe inteligente para controlar sus dispositivos desde cualquier lugar ...**](https://amzn.to/2Lj7sHB)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe Inteligente donde tengas Internet, utilizando la app gratuita **Kasa** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe Inteligente para que automáticamente encienda o apague la alimentación de los electrodomésticos según sea necesario: **Encender la luz al anochecer o apagarla al amanecer** ...</p> | <div> ![img-500crop][amzn-TPL-HS100] </div> <div> <a href="https://amzn.to/2Lj7sHB" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
 [ui-accordion-item title="TP-Link HS110 | Amazon » 27.99€"]
+
 |  |  |
-|:-------------|:-------------:|
-| <p>[**TP-Link HS110 - Enchufe inteligente para controlar<br /> sus dispositivos desde cualquier lugar...**](https://amzn.to/2HjWRab)</p><p>- **Monitorización de energía**: Analiza el consumo de potencia<br />a tiempo real e histórico de un dispositivo<br />- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>Inteligente donde tengas Internet, utilizando la app gratuita<br/>**Kasa** en tu smartphone.<br />**Programación:** Programa el Enchufe Inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario: **Encender la luz al <br/>anochecer o apagarla al amanecer** ...</p> | <div> ![200x200][amzn-TPL-HS110] <a href="https://amzn.to/2HjWRab" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+|:------|:-----------------------:|
+| <p>[**TP-Link HS110 - Enchufe inteligente para controlar sus dispositivos desde cualquier lugar...**](https://amzn.to/2HjWRab)</p><p>- **Monitorización de energía**: Analiza el consumo de potencia a tiempo real e histórico de un dispositivo.</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe Inteligente donde tengas Internet, utilizando la app gratuita **Kasa** en tu smartphone.</p><p>**Programación:** Programa el Enchufe Inteligente para que automáticamente encienda o apague la alimentación de los electrodomésticos según sea necesario: **Encender la luz al anochecer o apagarla al amanecer** ...</p> | <div> ![img-500crop][amzn-TPL-HS110] </div> <div> <a href="https://amzn.to/2HjWRab" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
 [/ui-accordion-item]
 
 [/ui-accordion]
