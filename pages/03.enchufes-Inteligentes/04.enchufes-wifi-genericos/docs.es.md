@@ -62,9 +62,11 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 [/ui-accordion-item]     
     
 [ui-accordion-item title="Womdee Mini Smart 10A | Amazon » 10,99€"]
+
 |  |  |
-|:-------------|:-------------:|
-| <p>[**Womdee Mini Smart Outlet 10A ...**](https://amzn.to/2VXZ1GB)</p><p>-**Funciona con**: _Amazon Alexa_, _Echo_, _Google Home_ e _IFTTT_<br />**Control remoto**: Utilizar la aplicación gratuita _Smartlife_<br />o _Tuya_ en tu _smartphone_ para controlar inmediatamente<br />el dispositivo conectado al enchufe inteligente y ver<br />remotamente el dispositivo.<br />- El enchufe inteligente puede activar automáticamente<br />el dispositivo electrónico o desactivarlo según sea necesario,<br /> tales como el ajuste de la luz cuando te vas a casa.<br />- Compartir enchufes inteligentes para todos los miembros de<br /> la familia en un minuto.</p> | <div> ![200x200][amzn-womdee] <a href="https://amzn.to/2VXZ1GB" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+|:------|:-----------------------:|
+| <p>[**Womdee Mini Smart Outlet 10A ...**](https://amzn.to/2VXZ1GB)</p><p>-**Funciona con**: _Amazon Alexa_, _Echo_, _Google Home_ e _IFTTT_</p><p>**Control remoto**: Utilizar la aplicación gratuita _Smartlife_, o _Tuya_ en tu _smartphone_ para controlar inmediatamente el dispositivo conectado al enchufe inteligente y ver remotamente el dispositivo.</p><p>- El enchufe inteligente puede activar automáticamente el dispositivo electrónico o desactivarlo según sea necesario,  tales como el ajuste de la luz cuando te vas a casa.  Compartir enchufes inteligentes para todos los miembros de la familia en un minuto.</p> | <div> ![img-500crop][amzn-womdee] </div> <div> <a href="https://amzn.to/2VXZ1GB" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
 [/ui-accordion-item]
 
 [ui-accordion-item title="Yokunat WiFi Enchufe Inalámbrico 10A| Amazon » 13,19€"]
@@ -78,7 +80,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-merisny]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/merisny.png?lightbox=1024&cropResize=500,500
-[amzn-womdee]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/womdee.png?lightbox=1024&cropResize=200,200
+[amzn-womdee]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/womdee.png?lightbox=1024&cropResize=500,500
 [amzn-yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=200,200
 [amzn-slitinto]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/slitinto.png?lightbox=1024&cropResize=500,500
 
