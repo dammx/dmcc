@@ -54,6 +54,11 @@ La toma suele estar protegida electrónicamente contra **cortocircuitos**, **sob
 |:-------------|:-------------:|
 | <p>[**Jindia 2.4A Schuko Enchufe para la pared 2 puertos de carga<br/>USB, Blanco/Gris...**](https://amzn.to/2LIBu7T)</p><p>- **Acceso remoto**: Toma de contacto utilizando la app. gratuita<br/>**SmartLife** con protección infantil integrada.<br/>- Uso simultáneo de todos los puertos, USB para la carga sin<br/>complicaciones de todos los dispositivos móviles que tienen<br />una interfaz USB, como por ejemplo _iPhones_,_iPads_, _tablets_<br />y teléfonos inteligentes.<br/>- La carga máxima de los dos puertos USB es de 2.4A.</p> | <div> ![200x200][amzn-Jindia] <a href="https://amzn.to/2LIBu7T" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
 
+|  |  |
+|:------|:-----------------------:|
+| <p>[**Jindia 2.4A Schuko Enchufe 2 puertos USB, Blanco
+, Gris ...**](https://amzn.to/2LIBu7T)</p><p>- **Acceso remoto**: Toma de contacto utilizando la app. gratuita_SmartLife_ con protección infantil integrada.</p><p>- Uso simultáneo de todos los puertos, USB para la carga sin complicaciones de todos los dispositivos móviles que tienen una interfaz USB, como por ejemplo _iPhones_,_iPads_, _tablets_ y teléfonos inteligentes.</p><p>- La carga máxima de los dos puertos USB es de 2.4A.</p> | <div> ![img-500crop][amzn-Jindia] </div> <div> <a href="https://amzn.to/2LIBu7T" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
 [/ui-accordion-item]
 
 [ui-accordion-item title="Toma corriente 15A UE 2 puertos USB | Aliexpress » 18,71€"]
@@ -66,7 +71,7 @@ La toma suele estar protegida electrónicamente contra **cortocircuitos**, **sob
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-Kaifire]: user:/pages/03.enchufes-Inteligentes/03.enchufes-empotrables/Kaifire.png?lightbox=1024&cropResize=500,500
-[amzn-Jindia]: user://pages/03.enchufes-Inteligentes/03.enchufes-empotrables/Jindia.png?lightbox=1024&cropResize=200,200
+[amzn-Jindia]: user://pages/03.enchufes-Inteligentes/03.enchufes-empotrables/Jindia.png?lightbox=1024&cropResize=500,500
 [amzn-shukowifi]: user://pages/03.enchufes-Inteligentes/03.enchufes-empotrables/shukowifi.png?lightbox=1024&cropResize=200,200
 
 ---
