@@ -45,6 +45,11 @@ La toma suele estar protegida electrónicamente contra **cortocircuitos**, **sob
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Kaifire USB Enchufe Pared 2.4A Schuko, toma de Corriente<br />Estándar con 2 USB Conectores ...**](https://amzn.to/2HqTtKl)</p><p>- **Acceso remoto**: Controla dispositivos conectados al Enchufe<br/>inteligente donde tengas Internet, utilizando la app gratuita<br/> **SmartLife** en tu smartphone.<br/>- **Programación:** Programa el Enchufe inteligente para que<br/>automáticamente encienda o apague la alimentación de los<br/> electrodomésticos según sea necesario.</p> | <div> ![200x200][amzn-Kaifire] <a href="https://amzn.to/2HqTtKl" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+
+|  |  |
+|:------|:-----------------------:|
+| <p>[**Kaifire USB Enchufe Pared 2.4A Schuko, 2 puertos USB ...**](https://amzn.to/2HqTtKl)</p><p>- **Acceso remoto**: Controla dispositivos conectados al enchufe inteligente donde tengas Internet, utilizando la app gratuita **SmartLife** en tu smartphone.</p><p>- **Programación:** Programa el Enchufe inteligente para que automáticamente encienda o apague la alimentación de los electrodomésticos según sea necesario.</p> | <div> ![img-500crop][amzn-Kaifire] </div> <div> <a href="https://amzn.to/2HqTtKl" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
 [/ui-accordion-item]
 
 [ui-accordion-item title="Jindia 2.4A Schuko Enchufe Pared | Amazon » 13,49€"]
@@ -63,7 +68,7 @@ La toma suele estar protegida electrónicamente contra **cortocircuitos**, **sob
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-Kaifire]: user:/pages/03.enchufes-Inteligentes/03.enchufes-empotrables/Kaifire.png?lightbox=1024&cropResize=200,200
+[amzn-Kaifire]: user:/pages/03.enchufes-Inteligentes/03.enchufes-empotrables/Kaifire.png?lightbox=1024&cropResize=500,500
 [amzn-Jindia]: user://pages/03.enchufes-Inteligentes/03.enchufes-empotrables/Jindia.png?lightbox=1024&cropResize=200,200
 [amzn-shukowifi]: user://pages/03.enchufes-Inteligentes/03.enchufes-empotrables/shukowifi.png?lightbox=1024&cropResize=200,200
 
