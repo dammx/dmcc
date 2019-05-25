@@ -104,7 +104,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Vhome Ewelink Touch Switch,2.4G ...**](http://s.click.aliexpress.com/e/bw4GpfYy)</p><p>Interruptor similar a **_Sonoff_**  de 1 a 3 Gang. 3 colores diferentes: **Blanco**, **Negro** o **Crema**.</p> <p>- Aplicación **_eWelink_** y se puede integrar a _Google Home_ y a _Home Assistant_.</p> <p>- Panel táctil, EU Standard, Control WiFi y también compatible con _Amazon Alexa_.</p> | <div> ![img-500crop][amzn-vhome] </div> <div> <a href="http://s.click.aliexpress.com/e/bw4GpfYy" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
+| <p>[**Vhome Ewelink Touch Switch,2.4G ...**](http://s.click.aliexpress.com/e/bw4GpfYy)</p><p>Interruptor similar a **_Sonoff_**  de 1 a 3 Gang. 3 colores diferentes: **Blanco**, **Negro** o **Crema**.</p> <p>- Aplicación **_eWelink_** y se puede integrar a _Google Home_ y a _Home Assistant_.</p> <p>- Panel táctil, EU Standard, Control WiFi y también compatible con _Amazon Alexa_.</p> | <div> ![img-300crop][amzn-vhome] </div> <div> <a href="http://s.click.aliexpress.com/e/bw4GpfYy" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
 
 [/ui-accordion-item]
     
