@@ -84,6 +84,11 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Conmutador Shelly 1...**](https://amzn.to/2Lunn5V)</p><p>Transformar un hogar o una oficina en inteligente que no<br />requiere de complejas instalaciones.<br />Interruptor de relé Wi-Fi **_Shelly1_**, que con sus compactas<br /> dimensiones 41x36x17 mm el instalador podrá acoplarlo<br />detrás de cualquier contacto de alimentación, interruptor<br />de luz estándar o directamente en una caja de DIN en la<br />caja de electricidad.</p> | <div> ![200x200][amzn-shelly1] <a href="https://amzn.to/2Lunn5V" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
+
+|  |  |
+|:------|:-----------------------:|
+| <p>[**Conmutador Shelly 1...**](https://amzn.to/2Lunn5V)</p><p>Transformar un hogar o una oficina en inteligente que no<br />requiere de complejas instalaciones.</p><p>Interruptor de relé Wi-Fi **_Shelly1_**, que con sus compactas  dimensiones 41x36x17 mm el instalador podrá acoplarlo detrás de cualquier contacto de alimentación, interruptor de luz estándar o directamente en una caja de DIN en la caja de electricidad.</p> | <div> ![img-500crop][amzn-shelly1] </div> <div> <a href="https://amzn.to/2Lunn5V" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
 [/ui-accordion-item]
 
 [ui-accordion-item title="Interruptor Cortina o Persianas WiFi  | Amazon » 20,99€ "]
@@ -106,7 +111,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 [amzn-touch1]: user://pages/02.interruptores/touch1.png?lightbox=1024&cropResize=500,500
 [amzn-basic]: user://pages/02.interruptores/basic.png?lightbox=1024&cropResize=500,500
 [amzn-touch3]: user://pages/02.interruptores/sonoff_touch3.png?lightbox=1024&cropResize=500,500
-[amzn-shelly1]: user://pages/02.interruptores/shelly11.png?lightbox=1024&cropResize=200,200
+[amzn-shelly1]: user://pages/02.interruptores/shelly11.png?lightbox=1024&cropResize=500,500
 [amzn-persiana]: user://pages/02.interruptores/Persiana.png?lightbox=1024&cropResize=200,200
 [amzn-vhome]: user://pages/02.interruptores/vhome.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
