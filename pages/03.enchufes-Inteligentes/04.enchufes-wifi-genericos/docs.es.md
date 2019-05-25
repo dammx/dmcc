@@ -70,9 +70,11 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 [/ui-accordion-item]
 
 [ui-accordion-item title="Yokunat WiFi Enchufe Inalámbrico 10A| Amazon » 13,19€"]
+
 |  |  |
-|:-------------|:-------------:|
-| <p>[**Yokunat WiFi Enchufe Inalámbrico 10A ...**](https://amzn.to/2EsbFmi)</p><p>- Función de sincronización inalámbrica inteligente compatible<br />con _Amazon Alexa_, _Google Home_, _Echo_ y _Echo Dot_ para varios<br />sistemas con control por voz.<br />- Puede escanear las instrucciones para controlar todos los<br />dispositivos con su teléfono inteligente.<br />- **Intercambio inteligente**: Comparte tu dispositivo con amigos<br /> y/o familia. Utilizar las apps. gratuitas _Smartlife_ o _Tuya_.</p> | <div> ![200x200][amzn-yokunat] <a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+|:------|:-----------------------:|
+| <p>[**Yokunat WiFi Enchufe Inalámbrico 10A ...**](https://amzn.to/2EsbFmi)</p><p>- Función de sincronización inalámbrica inteligente compatible con _Amazon Alexa_, _Google Home_, _Echo_ y _Echo Dot_ para varios sistemas con control por voz.</p> <p>- Puede escanear las instrucciones para controlar todos los dispositivos con su teléfono inteligente.</p> <p>- **Intercambio inteligente**: Comparte tu dispositivo con amigos y/o familia. Utilizar las apps. gratuitas _Smartlife_ o _Tuya_.</p> | <div> ![img-500crop][amzn-yokunat] </div> <div> <a href="https://amzn.to/2EsbFmi" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
 [/ui-accordion-item]
     
 [/ui-accordion]
@@ -81,7 +83,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 
 [amzn-merisny]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/merisny.png?lightbox=1024&cropResize=500,500
 [amzn-womdee]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/womdee.png?lightbox=1024&cropResize=500,500
-[amzn-yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=200,200
+[amzn-yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=500,500
 [amzn-slitinto]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/slitinto.png?lightbox=1024&cropResize=500,500
 
 ---
