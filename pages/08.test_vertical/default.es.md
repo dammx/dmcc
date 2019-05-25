@@ -34,5 +34,3 @@ published: true
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTICULO --->
 
 [amzn-yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=300,300
-
----
