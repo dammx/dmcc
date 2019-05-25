@@ -49,6 +49,11 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Merisny Enchufe Inteligente Wifi 16A ...**](https://amzn.to/2YM5Rfb)</p><p>Merisny Enchufe Inteligente Wifi no solo admite control remoto<br />y control vocal ...<br />- Funciona con _Google Home_, _Amazon Alexa_, _IFTTT_ para<br />_iPhone_ y _Android_ y a diferencia de otros sockets de Wi-Fi, <br />la **corriente máxima del socket Merisny Wifi es 16A** y<br />puede admitir una potencia de dispositivo de hasta **3680W**.<br />- Puede usar su aire acondicionado, refrigerador y otros<br />aparatos de alta potencia sin preocupaciones (Otras<br />alternativas suelen estar limitadas a 10A -> 2300W max.).<br />-Compatible con las apps. _Smartlife_ y _Tuya_</p> | <div> ![200x200][amzn-merisny] <a href="https://amzn.to/2YM5Rfb" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+
+|  |  |
+|:------|:-----------------------:|
+| <p>[**Merisny Enchufe Inteligente Wifi 16A ...**](https://amzn.to/2YM5Rfb)</p><p>Merisny Enchufe Inteligente Wifi no solo admite control remoto y control vocal ...</p><p>Funciona con _Google Home_, _Amazon Alexa_, _IFTTT_ para _iPhone_ y _Android_ y a diferencia de otros sockets de Wi-Fi, la **corriente máxima del socket Merisny Wifi es 16A** y puede admitir una potencia de dispositivo de hasta **3680W**.</p><p>- Puede usar su aire acondicionado, refrigerador y otros aparatos de alta potencia sin preocupaciones (Otras alternativas suelen estar limitadas a 10A -> 2300W max.). Compatible con las apps. _Smartlife_ y _Tuya_</p> | <div> ![img-500crop][amzn-merisny] </div> <div> <a href="https://amzn.to/2YM5Rfb" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
 [/ui-accordion-item]
 
 [ui-accordion-item title="Slitinto Inalámbrico Smart 16A| Amazon » 14,99€"]
@@ -73,7 +78,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-merisny]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/merisny.png?lightbox=1024&cropResize=200,200
+[amzn-merisny]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/merisny.png?lightbox=1024&cropResize=500,500
 [amzn-womdee]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/womdee.png?lightbox=1024&cropResize=200,200
 [amzn-yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=200,200
 [amzn-slitinto]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/slitinto.png?lightbox=1024&cropResize=200,200    
