@@ -87,7 +87,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Conmutador Shelly 1...**](https://amzn.to/2Lunn5V)</p><p>Transformar un hogar o una oficina en inteligente que no requiere de complejas instalaciones.</p><p>Interruptor de relé Wi-Fi **_Shelly1_**, que con sus compactas  dimensiones 41x36x17 mm el instalador podrá acoplarlo detrás de cualquier contacto de alimentación, interruptor de luz estándar o directamente en una caja de DIN en la caja de electricidad.</p> | <div> ![img-500crop][amzn-shelly1] </div> <div> <a href="https://amzn.to/2Lunn5V" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Conmutador Shelly 1...**](https://amzn.to/2Lunn5V)</p><p>Transformar un hogar o una oficina en inteligente que no requiere de complejas instalaciones.</p><p>- Interruptor de relé Wi-Fi **_Shelly1_**, que con sus compactas  dimensiones 41x36x17 mm el instalador podrá acoplarlo detrás de cualquier contacto de alimentación.</p><p>- Interruptor de luz estándar o directamente en una caja de DIN en la caja de electricidad.</p> | <div> ![img-500crop][amzn-shelly1] </div> <div> <a href="https://amzn.to/2Lunn5V" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
