@@ -93,7 +93,7 @@ visible: true
 
 [**Yokunat WiFi Enchufe Inalámbrico 10A ...**](https://amzn.to/2EsbFmi)
 
-<div> ![img-500crop][amzn-yokunat] </div>
+![img-500crop][amzn-yokunat]
 
 |  |  |
 |:------|
