@@ -92,7 +92,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Interruptor Cortina o Persianas WiFi...**](https://amzn.to/2JqiQ1O)</p><p>El interruptor de cortina Wifi puede funcionar con cortinas inteligentes, puertas eléctricas, puertas de garaje inteligentes y otros aparatos. </p><p>- Se instala en tan solo unos minutos como un interruptor ciego tradicional. **Este interruptor táctil WiFi requiere conectarse con _cable neutro_**.</p><p>**Aplicación**: _eWelink_.</p> | <div> ![img-500crop][amzn-persiana] </div> <div> <a href="https://amzn.to/2JqiQ1O" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Interruptor Cortina o Persianas WiFi...**](https://amzn.to/2JqiQ1O)</p><p>El interruptor de cortina Wifi puede funcionar con cortinas inteligentes, puertas eléctricas, puertas de garaje inteligentes y otros aparatos. </p><p>- Se instala en tan solo unos minutos como un interruptor ciego tradicional. **Este interruptor táctil WiFi requiere conectarse con _cable neutro_**.</p><p>**Aplicación**: _eWelink_.</p> | <div> ![img-400crop][amzn-persiana] </div> <div> <a href="https://amzn.to/2JqiQ1O" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
@@ -113,7 +113,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 [amzn-basic]: user://pages/02.interruptores/basic.png?lightbox=1024&cropResize=500,500
 [amzn-touch3]: user://pages/02.interruptores/sonoff_touch3.png?lightbox=1024&cropResize=500,500
 [amzn-shelly1]: user://pages/02.interruptores/shelly11.png?lightbox=1024&cropResize=500,500
-[amzn-persiana]: user://pages/02.interruptores/Persiana.png?lightbox=1024&cropResize=500,500
+[amzn-persiana]: user://pages/02.interruptores/Persiana.png?lightbox=1024&cropResize=400,400
 [amzn-vhome]: user://pages/02.interruptores/vhome.png?lightbox=1024&cropResize=400,400
 
 ---
