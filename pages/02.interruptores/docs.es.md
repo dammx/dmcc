@@ -102,6 +102,10 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 | <p>[**Vhome Ewelink Touch Switch,2.4G...**](http://s.click.aliexpress.com/e/bw4GpfYy)</p><p>Interruptor similar a **_Sonoff_**  de 1 a 3 Gang ...<br />3 colores diferentes: **Blanco**, **Negro** o **Crema**.<br />Aplicación **_eWelink_** y se puede integrar a _Google Home_ y a<br />_Home Assistant_.</p> | <div> ![200x200][amzn-vhome] <a href="http://s.click.aliexpress.com/e/bw4GpfYy" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a> </div> |
 [/ui-accordion-item]
 
+|  |  |
+|:------|:-----------------------:|
+| <p>[**Vhome Ewelink Touch Switch,2.4G ...**](http://s.click.aliexpress.com/e/bw4GpfYy)</p><p>Interruptor similar a **_Sonoff_**  de 1 a 3 Gang ... 3 colores diferentes: **Blanco**, **Negro** o **Crema**.</p><p>- Aplicación **_eWelink_** y se puede integrar a _Google Home_ y a _Home Assistant_.</p> | <div> ![img-500crop][amzn-vhome] </div> <div> <a href="http://s.click.aliexpress.com/e/bw4GpfYy" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
+
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
@@ -112,7 +116,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 [amzn-touch3]: user://pages/02.interruptores/sonoff_touch3.png?lightbox=1024&cropResize=500,500
 [amzn-shelly1]: user://pages/02.interruptores/shelly11.png?lightbox=1024&cropResize=500,500
 [amzn-persiana]: user://pages/02.interruptores/Persiana.png?lightbox=1024&cropResize=500,500
-[amzn-vhome]: user://pages/02.interruptores/vhome.png?lightbox=1024&cropResize=200,200
+[amzn-vhome]: user://pages/02.interruptores/vhome.png?lightbox=1024&cropResize=500,500
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
 
