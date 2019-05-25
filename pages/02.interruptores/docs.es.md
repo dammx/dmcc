@@ -114,7 +114,7 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 [amzn-basic]: user://pages/02.interruptores/basic.png?lightbox=1024&cropResize=500,500
 [amzn-touch3]: user://pages/02.interruptores/sonoff_touch3.png?lightbox=1024&cropResize=500,500
 [amzn-shelly1]: user://pages/02.interruptores/shelly11.png?lightbox=1024&cropResize=500,500
-[amzn-persiana]: user://pages/02.interruptores/Persiana.png?lightbox=1024&cropResize=200,200
+[amzn-persiana]: user://pages/02.interruptores/Persiana.png?lightbox=1024&cropResize=500,500
 [amzn-vhome]: user://pages/02.interruptores/vhome.png?lightbox=1024&cropResize=200,200
 [buy-mzn]: https://dabuttonfactory.com/button.png?t=Comprar+en+AMAZON!&f=Roboto-Bold&ts=18&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=037ba2
 [buy-aliex]: https://dabuttonfactory.com/button.png?t=Comprar+en+ALIEXPRESS!&f=Roboto-Bold&ts=16&tc=fff&w=200&h=40&c=5&bgt=unicolored&bgc=ffae00
