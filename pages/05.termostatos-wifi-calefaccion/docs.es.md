@@ -90,7 +90,7 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 
 [amzn-netnamo]: user://pages/05.termostatos-wifi-calefaccion/netnamo.png?lightbox=1024&cropResize=500,500
 [amzn-Nest]: user://pages/05.termostatos-wifi-calefaccion/nest.png?lightbox=1024&cropResize=500,500
-[amzn-Beok]: user://pages/05.termostatos-wifi-calefaccion/Beok.png?lightbox=1024&cropResize=200,200
+[amzn-Beok]: user://pages/05.termostatos-wifi-calefaccion/Beok.png?lightbox=1024&cropResize=500,500
 [amzn-Floureon]: user://pages/05.termostatos-wifi-calefaccion/Floureon.png?lightbox=1024&cropResize=200,200
 [amzn-Decdeal]: user://pages/05.termostatos-wifi-calefaccion/decdeal.png?lightbox=1024&cropResize=200,200
 
