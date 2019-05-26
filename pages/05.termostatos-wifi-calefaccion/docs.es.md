@@ -74,6 +74,11 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Floureon Termostato Caldera de gas con Wifi ...**](https://amzn.to/2Vl5Z7Z)</p><p>Termostato hidráulico con pantalla con retroiluminación LCD,<br />Control con App. Compatible con _Google Home_, Color blanco<br />- El **termostato WiFi** es **la nueva forma inteligente de<br />controlar la temperatura en su hogar** y reducir fácilmente el costo<br />de calefacción de su caldera de gas **ahorrando dinero en sus<br />facturas de energía.**</p> | <div> ![200x200][amzn-Floureon] <a href="https://amzn.to/2Vl5Z7Z" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+
+|  |  |
+|:------|:-----------------------:|
+| <p>[**Floureon Termostato Caldera de gas con Wifi ...**](https://amzn.to/2Vl5Z7Z)</p><p>Termostato hidráulico con pantalla con retroiluminación LCD, Control con App. Compatible con _Google Home_, Color blanco.</p><p>- El **termostato WiFi** es **la nueva forma inteligente de controlar la temperatura en su hogar** y reducir fácilmente el costo de calefacción de su caldera de gas **ahorrando dinero en sus facturas de energía.</p> | <div> ![img-500crop][amzn-Floureon] </div> <div> <a href="https://amzn.to/2Vl5Z7Z" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
 [/ui-accordion-item]
 
 [ui-accordion-item title="Decdeal 3A Termostato Calefacción Agua | Amazon » 39,99€ "]
@@ -91,7 +96,7 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 [amzn-netnamo]: user://pages/05.termostatos-wifi-calefaccion/netnamo.png?lightbox=1024&cropResize=500,500
 [amzn-Nest]: user://pages/05.termostatos-wifi-calefaccion/nest.png?lightbox=1024&cropResize=500,500
 [amzn-Beok]: user://pages/05.termostatos-wifi-calefaccion/Beok.png?lightbox=1024&cropResize=500,500
-[amzn-Floureon]: user://pages/05.termostatos-wifi-calefaccion/Floureon.png?lightbox=1024&cropResize=200,200
+[amzn-Floureon]: user://pages/05.termostatos-wifi-calefaccion/Floureon.png?lightbox=1024&cropResize=500,500
 [amzn-Decdeal]: user://pages/05.termostatos-wifi-calefaccion/decdeal.png?lightbox=1024&cropResize=200,200
 
 ---
