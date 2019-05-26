@@ -4,6 +4,8 @@ published: false
 taxonomy:
     category:
         - docs
+external_links:
+    no_follow: true
 visible: true
 ---
 
