@@ -63,9 +63,11 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 [/ui-accordion-item]
 
 [ui-accordion-item title="Beok BOT-313 WiFi | Amazon » 38,99€ "]
+
 |  |  |
-|:-------------|:-------------:|
-| <p>[**Beok BOT-313 WiFi termostato se puede controlar por APP ...**](https://amzn.to/2Jicz8e)</p><p>El **termostato WiFi** es **la nueva forma inteligente de controlar<br />la temperatura en su hogar** y reducir fácilmente el costo de<br />calefacción de su caldera de gas.<br />- El termostato _BOT313WIFI_ le permite sentirse  cómodo sabiendo<br />que la temperatura de su hogar siempre será como le gusta.<br />- Es **fácil de instalar y usar**, Puede programarlo según su horario, <br />**ahorrando dinero en sus facturas de energía.**</p> | <div> ![200x200][amzn-Beok] <a href="https://amzn.to/2Jicz8e" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+|:------|:-----------------------:|
+| <p>[**Beok BOT-313 WiFi termostato se puede controlar por APP ...**](https://amzn.to/2Jicz8e)</p><p>El **termostato WiFi** es **la nueva forma inteligente de controlar la temperatura en su hogar** y reducir fácilmente el costo de calefacción de su caldera de gas.</p><p>- El termostato _BOT313WIFI_ le permite sentirse  cómodo sabiendo que la temperatura de su hogar siempre será como le gusta.</p><p>- Es **fácil de instalar y usar**, Puede programarlo según su horario, **ahorrando dinero en sus facturas de energía.**</p> | <div> ![img-500crop][amzn-amzn-Beok] </div> <div> <a href="https://amzn.to/2Jicz8e" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
 [/ui-accordion-item]
 
 [ui-accordion-item title="Floureon Termostato para de caldera de gas | Amazon » 69,99€ "]
