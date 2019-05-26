@@ -58,6 +58,10 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 |:-------------|:-------------:|
 | <p>[**Broadlink RM Mini3 ...**](https://amzn.to/2WtK7DW)</p><p>-Wi-Fi Universal Remote integra todos tus dispositivos contro-<br />lados IR. En comparación con _RM Pro_, no dispone de la función<br /> RF 433 Mhz. Con la aplicación IHC en tu teléfono inteligente<br />puedes controlar todos los dispositivos. Usa un cable USB para<br />conectar con la energía. Fácil configuración.</p> | <div> ![200x200][amzn-BL-RMMINI3] <a href="https://amzn.to/2WtK7DW" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:43%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> <a href="http://bit.ly/2V1LpVr" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:55%;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a> </div> |
     
+|  |  |
+|:------|:-----------------------:|
+| <p>[**Broadlink RM Mini3 ...**](https://amzn.to/2WtK7DW)</p><p>Wi-Fi Universal Remote integra todos tus dispositivos controlados IR. En comparación con _RM Pro_, no dispone de la función RF 433 Mhz.</p><p>Con la aplicación IHC en tu teléfono inteligente puedes controlar todos los dispositivos.</p><p>Usa un cable USB para conectar con la energía. Fácil configuración.</p> | <div> ![img-500crop][amzn-BL-RMMINI3] </div> <div> <a href="https://amzn.to/2WtK7DW" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> <button type="button" style="color:#transparent;background-color:transparent;opacity:0.9;width:96%;height:0px;"> <div> <a href="http://bit.ly/2V1LpVr" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |    
+    
 [/ui-accordion-item]
 
 [/ui-accordion]
