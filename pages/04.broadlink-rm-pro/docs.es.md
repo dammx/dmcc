@@ -49,6 +49,11 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 |  |  |
 |:-------------|:-------------:|
 | <p>[**BroadLink RM Pro+ WiFi Smart Home ...**](https://amzn.to/2Lskans)</p><p>- Automatización Todo en uno, Aprendizaje, Controlador<br />Remoto Universal<br />- Compatible para Dispositivos iOS/Android<br />- EU Standard</p> | <div> ![200x200][amzn-BL-RMPRO] <a href="https://amzn.to/2Lskans" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:43%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> <a href="http://bit.ly/2PQfo1q" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:55%;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a> </div> |
+
+|  |  |
+|:------|:-----------------------:|
+| <p>[**BroadLink RM Pro+ WiFi Smart Home ...**](https://amzn.to/2Lskans)</p><p>- Automatización Todo en uno, Aprendizaje, Controlador Remoto Universal.</p><p>- Compatible para Dispositivos iOS/Android.</p><p>- EU Standard.</p> | <div> ![img-500crop][amzn-BL-RMPRO] </div> <div> <a href="https://amzn.to/2Lskans" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> <button type="button" style="color:#transparent;background-color:transparent;opacity:0.9;width:96%;height:0px;"> <div> <a href="http://bit.ly/2PQfo1q" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
+
 [/ui-accordion-item]
 
 [ui-accordion-item title="Broadlink RM Mini3 | Amazon » 19.99€ - Aliexpress » 17,13€ "]
@@ -61,7 +66,7 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-BL-RMPRO]: user:/pages/04.broadlink-rm-pro/rm_pro.png?lightbox=1024&cropResize=200,200
+[amzn-BL-RMPRO]: user:/pages/04.broadlink-rm-pro/rm_pro.png?lightbox=1024&cropResize=500,500
 [amzn-BL-RMMINI3]: user://pages/04.broadlink-rm-pro/rm_mini_3.png?lightbox=1024&cropResize=200,200
 
 ---
