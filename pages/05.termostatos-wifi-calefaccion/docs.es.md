@@ -79,12 +79,12 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 [/ui-accordion-item]
 
 [ui-accordion-item title="Decdeal 3A Termostato Calefacción Agua | Amazon » 39,99€ "]
+
 |  |  |
-|:-------------|:-------------:|
-| <p>[**Decdeal 3A Termostato Programable de Calefacción por<br />agua, Control de Voz ...**](https://amzn.to/2DU5iIe)</p><p>Este termostato de calefacción está diseñado como un<br />controlador de temperatura del calentamiento del agua<br />de la caldera.<br />- Es adecuado para el control de la temperatura en edificios de<br /> oficinas, hospitales, escuelas y lugares de entretenimiento.</p> | <div> ![200x200][amzn-Decdeal] <a href="https://amzn.to/2DU5iIe" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+|:------|:-----------------------:|
+| <p>[**Decdeal 3A Termostato Programable de Calefacción por agua, Control de Voz ...**](https://amzn.to/2DU5iIe)</p><p>Este termostato de calefacción está diseñado como un controlador de temperatura del calentamiento del agua de la caldera.</p><p>- Es adecuado para el control de la temperatura en edificios de oficinas, hospitales, escuelas y lugares de entretenimiento.</p> | <div> ![img-500crop][amzn-Decdeal] </div> <div> <a href="https://amzn.to/2DU5iIe" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
 [/ui-accordion-item]
-
-
 
 [/ui-accordion]
 
@@ -94,7 +94,7 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 [amzn-Nest]: user://pages/05.termostatos-wifi-calefaccion/nest.png?lightbox=1024&cropResize=500,500
 [amzn-Beok]: user://pages/05.termostatos-wifi-calefaccion/Beok.png?lightbox=1024&cropResize=500,500
 [amzn-Floureon]: user://pages/05.termostatos-wifi-calefaccion/Floureon.png?lightbox=1024&cropResize=500,500
-[amzn-Decdeal]: user://pages/05.termostatos-wifi-calefaccion/decdeal.png?lightbox=1024&cropResize=200,200
+[amzn-Decdeal]: user://pages/05.termostatos-wifi-calefaccion/decdeal.png?lightbox=1024&cropResize=500,500
 
 ---
 
