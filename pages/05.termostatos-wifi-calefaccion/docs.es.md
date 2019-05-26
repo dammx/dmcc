@@ -50,6 +50,11 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Netatmo. Termostato Inteligente para caldera individual ...**](https://amzn.to/2H27FcP)</p><p>Termostato Inteligente Netatmo te permite **ahorrar una media de<br />37% de energÍa** para calentar tu casa. El ahorro se consigue<br />gracias a una programa de la calefacción adaptada a tu ritmo<br />de vida, al control fácil de la calefacción desde tu smartphone<br />y a los consejos personalizados de tu Balance de Ahorro Energético.</p> | <div> ![200x200][amzn-netnamo] <a href="https://amzn.to/2H27FcP" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
+    
+|  |  |
+|:------|:-----------------------:|
+| <p>[**Netatmo. Termostato Inteligente para caldera individual ...**](https://amzn.to/2H27FcP)</p><p>Termostato Inteligente Netatmo te permite **ahorrar una media de<br />37% de energÍa** para calentar tu casa.</p><p>El ahorro se consigue<br />gracias a una programa de la calefacción adaptada a tu ritmo<br />de vida, al control fácil de la calefacción desde tu smartphone<br />y a los consejos personalizados de tu Balance de Ahorro Energético.</p> | <div> ![img-500crop][amzn-netnamo] </div> <div> <a href="https://amzn.to/2H27FcP" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |    
+    
 [/ui-accordion-item]
 
 [ui-accordion-item title="Nest | Amazon » 249,00€ "]
