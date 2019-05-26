@@ -47,9 +47,6 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 [ui-accordion independent=true open=none]
 
 [ui-accordion-item title="Netatmo | Amazon » 164,95€ "]
-|  |  |
-|:-------------|:-------------:|
-| <p>[**Netatmo. Termostato Inteligente para caldera individual ...**](https://amzn.to/2H27FcP)</p><p>Termostato Inteligente Netatmo te permite **ahorrar una media de<br />37% de energÍa** para calentar tu casa. El ahorro se consigue<br />gracias a una programa de la calefacción adaptada a tu ritmo<br />de vida, al control fácil de la calefacción desde tu smartphone<br />y a los consejos personalizados de tu Balance de Ahorro Energético.</p> | <div> ![200x200][amzn-netnamo] <a href="https://amzn.to/2H27FcP" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> |
     
 |  |  |
 |:------|:-----------------------:|
@@ -61,6 +58,11 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Nest Learning  -  Termostato Inteligente de 3A, Negro ...**](https://amzn.to/2JsD7DA)</p><p>El **Nest Learning thermostat** de tercera generación es delgado,<br /> elegante y refinado. La Grande y clara pantalla y lectura a<br />distancia te permiten ver **temperatura, hora y predicción meteoro-<br />lógica**, incluso cuando te vayas de la otra parte de la habitación.<br />- Conoce el tiempo necesario para calentar tu casa y la preparará<br />para tú llegada.<br />- **Detecta si te vas y se apagará para ahorrar energía**.<br />- Ademas! Con la aplicación _Nest_, podrás cambiar la temperatura.</p> | <div> ![200x200][amzn-Nest] <a href="https://amzn.to/2JsD7DA" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> </div> |
+
+|  |  |
+|:------|:-----------------------:|
+| <p>[**Nest Learning  -  Termostato Inteligente de 3A, Negro ...**](https://amzn.to/2JsD7DA)</p><p>El **Nest Learning thermostat** de tercera generación es delgado, elegante y refinado.</p><p>La Grande y clara pantalla y lectura a distancia te permiten ver **temperatura, hora y predicción meteorológica**, incluso cuando te vayas de la otra parte de la habitación.</p><p>- Conoce el tiempo necesario para calentar tu casa y la preparará para tú llegada.</p> <p>- **Detecta si te vas y se apagará para ahorrar energía**. Ademas! Con la aplicación _Nest_, podrás cambiar la temperatura.</p> | <div> ![img-500crop][amzn-Nest] </div> <div> <a href="https://amzn.to/2JsD7DA" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div>
+
 [/ui-accordion-item]
 
 [ui-accordion-item title="Beok BOT-313 WiFi | Amazon » 38,99€ "]
@@ -88,7 +90,7 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-netnamo]: user://pages/05.termostatos-wifi-calefaccion/netnamo.png?lightbox=1024&cropResize=500,500
-[amzn-Nest]: user://pages/05.termostatos-wifi-calefaccion/nest.png?lightbox=1024&cropResize=200,200
+[amzn-Nest]: user://pages/05.termostatos-wifi-calefaccion/nest.png?lightbox=1024&cropResize=500,500
 [amzn-Beok]: user://pages/05.termostatos-wifi-calefaccion/Beok.png?lightbox=1024&cropResize=200,200
 [amzn-Floureon]: user://pages/05.termostatos-wifi-calefaccion/Floureon.png?lightbox=1024&cropResize=200,200
 [amzn-Decdeal]: user://pages/05.termostatos-wifi-calefaccion/decdeal.png?lightbox=1024&cropResize=200,200
