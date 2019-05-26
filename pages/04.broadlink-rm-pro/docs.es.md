@@ -69,7 +69,7 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-BL-RMPRO]: user:/pages/04.broadlink-rm-pro/rm_pro.png?lightbox=1024&cropResize=500,500
-[amzn-BL-RMMINI3]: user://pages/04.broadlink-rm-pro/rm_mini_3.png?lightbox=1024&cropResize=200,200
+[amzn-BL-RMMINI3]: user://pages/04.broadlink-rm-pro/rm_mini_3.png?lightbox=1024&cropResize=500,500
 
 ---
 
