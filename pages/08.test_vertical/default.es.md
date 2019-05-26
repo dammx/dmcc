@@ -1,6 +1,9 @@
 ---
 title: test_vertical
 published: false
+external_links:
+    process: true
+    no_follow: true
 ---
 
 #### VERTICAL - UN PROVEEDOR
