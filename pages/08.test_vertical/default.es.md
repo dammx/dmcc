@@ -1,5 +1,5 @@
 ---
-title: test_vertical
+title: TEST-VERTICAL-190525-0100
 published: false
 external_links:
     process: true
@@ -34,6 +34,8 @@ external_links:
     
 ---
 
+### VERTICAL 2 PROVEEDORES EN 'HTML'
+    
 <div align="center">
 <table style="width: 100%; min-width: 350px; max-width: 900px;  max-height: 300px; border: 1px solid #dddddd;">
 <tbody>
