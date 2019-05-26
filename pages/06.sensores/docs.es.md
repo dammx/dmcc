@@ -8,4 +8,4 @@ taxonomy:
 visible: true
 ---
 
-[![](Up.png "Ir arriba")](#)
+[Flash Deals (es)](http://s.click.aliexpress.com/e/bLqTKSxI)
