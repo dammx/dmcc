@@ -74,7 +74,7 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Floureon Termostato Caldera de gas con Wifi ...**](https://amzn.to/2Vl5Z7Z)</p><p>Termostato hidráulico con pantalla con retroiluminación LCD, Control con App. Compatible con _Google Home_, Color blanco.</p><p>- El **termostato WiFi** es **la nueva forma inteligente de controlar la temperatura en su hogar** y reducir fácilmente el costo de calefacción de su caldera de gas **ahorrando dinero en sus facturas de energía.</p> | <div> ![img-500crop][amzn-Floureon] </div> <div> <a href="https://amzn.to/2Vl5Z7Z" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Floureon Termostato Caldera de gas con Wifi ...**](https://amzn.to/2Vl5Z7Z)</p><p>Termostato hidráulico con pantalla con retroiluminación LCD, Control con App. Compatible con _Google Home_, Color blanco.</p><p>- El **termostato WiFi** es **la nueva forma inteligente de controlar la temperatura en su hogar** y reducir fácilmente el costo de calefacción de su caldera de gas **ahorrando dinero en sus facturas de energía.**</p> | <div> ![img-500crop][amzn-Floureon] </div> <div> <a href="https://amzn.to/2Vl5Z7Z" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
