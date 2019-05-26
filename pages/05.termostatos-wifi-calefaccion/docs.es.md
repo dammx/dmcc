@@ -53,7 +53,7 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
     
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Netatmo. Termostato Inteligente para caldera individual ...**](https://amzn.to/2H27FcP)</p><p>Termostato Inteligente Netatmo te permite **ahorrar una media de<br />37% de energÍa** para calentar tu casa.</p><p>El ahorro se consigue<br />gracias a una programa de la calefacción adaptada a tu ritmo<br />de vida, al control fácil de la calefacción desde tu smartphone<br />y a los consejos personalizados de tu Balance de Ahorro Energético.</p> | <div> ![img-500crop][amzn-netnamo] </div> <div> <a href="https://amzn.to/2H27FcP" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |    
+| <p>[**Netatmo. Termostato Inteligente para caldera individual ...**](https://amzn.to/2H27FcP)</p><p>Termostato Inteligente Netatmo te permite **ahorrar una media de 37% de energÍa** para calentar tu casa.</p><p>El ahorro se consigue gracias a una programa de la calefacción adaptada a tu ritmo de vida, al control fácil de la calefacción desde tu smartphone y a los consejos personalizados de tu Balance de Ahorro Energético.</p> | <div> ![img-500crop][amzn-netnamo] </div> <div> <a href="https://amzn.to/2H27FcP" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
     
 [/ui-accordion-item]
 
@@ -87,7 +87,7 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-netnamo]: user://pages/05.termostatos-wifi-calefaccion/netnamo.png?lightbox=1024&cropResize=200,200
+[amzn-netnamo]: user://pages/05.termostatos-wifi-calefaccion/netnamo.png?lightbox=1024&cropResize=500,500
 [amzn-Nest]: user://pages/05.termostatos-wifi-calefaccion/nest.png?lightbox=1024&cropResize=200,200
 [amzn-Beok]: user://pages/05.termostatos-wifi-calefaccion/Beok.png?lightbox=1024&cropResize=200,200
 [amzn-Floureon]: user://pages/05.termostatos-wifi-calefaccion/Floureon.png?lightbox=1024&cropResize=200,200
