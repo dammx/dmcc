@@ -8,10 +8,6 @@ taxonomy:
 visible: true
 ---
 
-[![](https://ae01.alicdn.com/kf/HTB179nQX9tYBeNjSspk762U8VXa8/ES_725_90.png)](http://s.click.aliexpress.com/e/c1Dm7sFI?bz=725*90)
-
-___
-
-[![](//ae01.alicdn.com/kf/HTB1.cexa5frK1RjSspbq6A4pFXaf/-font-b-WIFI-b-font-font-b-Smart-b-font-font-b-RCBO-b-font.jpg_220x220.jpg)<span style="display:block;">Interruptor general con soporte de 2 fases hasta 63A para poder controlar la toma general de la casa además de poder medir el consumo que pasa a través de él. Es integrable en Tuya por lo que debería ser integrable en Home Assistant.</span>](http://s.click.aliexpress.com/e/cMSxxGNw)
+[domotica](https://www.amazon.es/b?_encoding=UTF8&tag=domotizarmica-21&linkCode=ur2&linkId=fe88f1d431bdc224e5f18f007c8b816c&camp=3638&creative=24630&node=928455031)![](//ir-es.amazon-adsystem.com/e/ir?t=domotizarmica-21&l=ur2&o=30)de él. Es integrable en Tuya por lo que debería ser integrable en Home Assistant.</span>](http://s.click.aliexpress.com/e/cMSxxGNw)
 
 ___
