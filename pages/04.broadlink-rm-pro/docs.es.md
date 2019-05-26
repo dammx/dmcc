@@ -46,9 +46,6 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 [ui-accordion independent=true open=none]
 
 [ui-accordion-item title="Broadlink RM pro | Amazon » 39,89€ - Aliexpress » 34,35€ "]
-|  |  |
-|:-------------|:-------------:|
-| <p>[**BroadLink RM Pro+ WiFi Smart Home ...**](https://amzn.to/2Lskans)</p><p>- Automatización Todo en uno, Aprendizaje, Controlador<br />Remoto Universal<br />- Compatible para Dispositivos iOS/Android<br />- EU Standard</p> | <div> ![200x200][amzn-BL-RMPRO] <a href="https://amzn.to/2Lskans" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:43%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> <a href="http://bit.ly/2PQfo1q" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:55%;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a> </div> |
 
 |  |  |
 |:------|:-----------------------:|
@@ -60,6 +57,7 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 |  |  |
 |:-------------|:-------------:|
 | <p>[**Broadlink RM Mini3 ...**](https://amzn.to/2WtK7DW)</p><p>-Wi-Fi Universal Remote integra todos tus dispositivos contro-<br />lados IR. En comparación con _RM Pro_, no dispone de la función<br /> RF 433 Mhz. Con la aplicación IHC en tu teléfono inteligente<br />puedes controlar todos los dispositivos. Usa un cable USB para<br />conectar con la energía. Fácil configuración.</p> | <div> ![200x200][amzn-BL-RMMINI3] <a href="https://amzn.to/2WtK7DW" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:43%;height:35px;"><i class="fa fa-amazon">mazon</i></button></a> <a href="http://bit.ly/2V1LpVr" alt="AlieExpress-link" target="_blank"><button type="button" style="color:#fff;background-color:#e8a100;width:55%;height:35px;"><i class="fa fa-shopping-cart"> AliExpress</i></button></a> </div> |
+    
 [/ui-accordion-item]
 
 [/ui-accordion]
