@@ -82,7 +82,7 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Decdeal 3A Termostato Programable de Calefacción por agua, Control de Voz ...**](https://amzn.to/2DU5iIe)</p><p>Este termostato de calefacción está diseñado como un controlador de temperatura del calentamiento del agua de la caldera.</p><p> - Intervalos de 0.5°C de precisión, manteniendo la temperatura confortable dentro del nivel establecido.</p><p>- Es adecuado para el control de la temperatura en el hogar, edificios de oficinas, hospitales, escuelas y lugares de entretenimiento.</p> | <div> ![img-500crop][amzn-Decdeal] </div> <div> <a href="https://amzn.to/2DU5iIe" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Decdeal 3A Termostato Programable de Calefacción por agua, Control de Voz ...**](https://amzn.to/2DU5iIe)</p><p>Este termostato de calefacción está diseñado como un controlador de temperatura del calentamiento del agua de la caldera.</p><p> - Intervalos de 0.5°C de precisión, manteniendo la temperatura confortable dentro de los márgenes prestablecidos.</p><p>- Es adecuado para el control de la temperatura en el hogar, edificios de oficinas, hospitales, escuelas y lugares de entretenimiento.</p> | <div> ![img-500crop][amzn-Decdeal] </div> <div> <a href="https://amzn.to/2DU5iIe" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
