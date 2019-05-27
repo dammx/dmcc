@@ -10,7 +10,7 @@ external_links:
 
 ---
 
-#### 1BOTON 'AMAZON': **Con 4 párrafos (justificados) e imagen forzada 500px + customCSS a 500 (width)**:
+#### 1 BOTON 'AMAZON': **Con 4 párrafos (justificados) e imagen forzada 500px + customCSS a 500 (width)**:
 
 |  |  |
 |:------|:-----------------------:|
@@ -18,7 +18,7 @@ external_links:
 
 ---
 
-#### 1BOTON 'ALIEXPRESS': **Con 4 párrafos (justificados) e imagen forzada 500px + customCSS a 500 (width)**:
+#### 1 BOTON 'ALIEXPRESS': **Con 4 párrafos (justificados) e imagen forzada 500px + customCSS a 500 (width)**:
 
 |  |  |
 |:------|:-----------------------:|
