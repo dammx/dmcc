@@ -37,6 +37,7 @@ external_links:
 <!--- EJEMPLO DE REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-#]: user://pages/0#.MENU-ROOT/02.CATEGORY/imagen.png?lightbox=1024&cropResize=500,500
-[dummy-pick]: https://i.pickadummy.com/750x750?text=Default_750x750px\ResizeCrop_500x500px?lightbox=1024&cropResize=500,500    
+    
 
+   
 ---
