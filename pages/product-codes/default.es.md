@@ -1,6 +1,6 @@
 ---
 title: TEMPLATE-PRODUCT-CODES--190527-1401
-published: false
+published: true
 external_links:
     process: true
     no_follow: true
