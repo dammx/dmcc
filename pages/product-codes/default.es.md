@@ -1,5 +1,5 @@
 ---
-title: TEMPLATE-PRODUCT-CODES--190527-1401
+title: PRODUCT-CODE-TEMPLATES--190527-1401
 published: true
 external_links:
     process: true
