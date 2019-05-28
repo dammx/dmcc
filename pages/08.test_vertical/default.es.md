@@ -1,6 +1,6 @@
 ---
 title: TEST-VERTICAL-190525-0100
-published: false
+published: true
 external_links:
     process: true
     no_follow: true
