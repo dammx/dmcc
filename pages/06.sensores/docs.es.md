@@ -18,7 +18,7 @@ visible: true
 [ui-accordion independent=true open=none]
 [ui-accordion-item title="Sensor de puerta o ventana RF 433 Mhz| Aliexpress » 3,06€ "]
 
-|  |  |
+
 <a href="http://s.click.aliexpress.com/e/c67wZ348" target="_parent"><img src="//ae01.alicdn.com/kf/HTB1wpymafvsK1Rjy0Fiq6zwtXXaD/-font-b-Qolelarm-b-font-font-b-house-b-font-font-b-433MHz-b-font.jpg_220x220.jpg"/><span style="display:block;">Sensor de puerta o ventana con conectividad 433 Mhz. Podemos usarlo en HA si tenemos algún gateway de RF como el Sonoff Bridge. </span></a>      
 [/ui-accordion-item]
 
