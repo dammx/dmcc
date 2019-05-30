@@ -1,6 +1,6 @@
 ---
 title: 'Tiras de Led'
-media_order: tira_led_5m.png
+media_order: 'tira_led_5m.png,tira_led_15m.png'
 taxonomy:
     category:
         - docs
@@ -33,11 +33,11 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 [/ui-accordion-item]
 
-[ui-accordion-item title="Utorch Bombilla LED 7W RGB | Aliexpress » 11,78€"]
+[ui-accordion-item title=" Tira de LED 15 metros WiFi + controlador | Aliexpress » 19,63€"]
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/bkqswhgU)</p> Bombilla Utorch RGB WiFi que nos permiten la iluminación de una habitación.</p><p> Es RGBW y funciona con Google Assistant, Alexa e IFTTT.</p><p> Se integra en _**SmartLife**_, por lo que deberíamos poder integrarlo en _**Home Assistant**_.</p> | <div> ![img-500crop][ali-utorch] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
+| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/rvpMQA8)</p> Tira de LED de 15 metros (3 rollos de 5 metros cada uno) con la controladora WiFi Magic Home.</p><p> Es compatible con Alexa, Google Assistant y además nos permite integrarlo en Home Assistant sin cambio de firmware.</p><p> La tira es cortable por lo que podéis aprovecharlo en diferentes proyectos.</p> | <div> ![img-500crop][ali-led15m] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
 
 [/ui-accordion-item]
 
@@ -54,7 +54,7 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-led5m]: user://pages/09.iluminacion/02.tiras-de-led/tira_led_5m.png?lightbox=1024&cropResize=500,500
-[ali-utorch]: user://pages/09.iluminacion/01.bombillas-wifi/utorch.png?lightbox=1024&cropResize=500,500
+[ali-led15m]: user://pages/09.iluminacion/02.tiras-de-led/tira_led_15m.png?lightbox=1024&cropResize=500,500
 [amzn-b.teckin]: user://pages/09.iluminacion/01.bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=500,500
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
