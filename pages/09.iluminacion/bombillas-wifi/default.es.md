@@ -49,7 +49,7 @@ Te presentamos varias opciones que pueden ser de tu utilidad
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Smart Wifi Plug Power Strip ...**](https://amzn.to/2I844dL)</p><p>Bombilla RGBW de 7.5W WiFi de la marca Teckin que se integra en _**Smart Life**_. Compatible con Alexa y con Google Home además de que deberíamos poder integrarlas en Home Assistant.</p> | <div> ![img-500crop][amzn-b.teckin] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Smart Wifi Plug Power Strip ...**](https://amzn.to/2I844dL)</p><p>Bombilla RGBW de 7.5W WiFi de la marca Teckin que se integra en _**Smart Life**_.</p><p>Compatible con Alexa y con Google Home además de que deberíamos poder integrarlas en Home Assistant.</p> | <div> ![img-500crop][amzn-b.teckin] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
