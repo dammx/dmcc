@@ -60,7 +60,7 @@ Te presentamos varias opciones que pueden ser de tu utilidad
 [amzn-iraza]: user://pages/09.iluminacion/bombillas-wifi/hue.png?lightbox=1024&cropResize=500,500
 [ali-utorch]: user://pages/09.iluminacion/bombillas-wifi/utorch.png?lightbox=1024&cropResize=500,500
 [amzn-b.teckin]: user://pages/09.iluminacion/bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=500,500
-
+[int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
 
 [![](up1_azul1.png)](# "Volver al Inicio")
