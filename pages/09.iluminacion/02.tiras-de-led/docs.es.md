@@ -29,7 +29,7 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Tira LED Tira Iluminación Inteligente RGB ...**](https://amzn.to/2Wvcghj)</p><p>WIFI Tira LED Tira Iluminación Inteligente RGB 5M</p><p> Bawoo 150 LED Smart Strip LED Impermeable ALEXA Google Home IFTTT. Teléfono Control Remoto 24 Teclas.</p><p> Puede controlar la tira de LED utilizando la aplicación "Magic Home" para encenderla, apagarla, cambiar de color, agregar un programa, crear un escenario, (Can 10m).</p> | <div> ![img-500crop][amzn-led5m] </div> <div> <a href="https://amzn.to/2Wvcghj" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Tira LED Tira Iluminación Inteligente RGB ...**](https://amzn.to/2Wvcghj)</p><p>WIFI Tira LED Tira Iluminación Inteligente RGB 5M</p><p> Bawoo 150 LED Smart Strip LED Impermeable ALEXA Google Home IFTTT. Teléfono Control Remoto 24 Teclas.</p><p> Puede controlar la tira de LED utilizando la aplicación **Magic Home** para encenderla, apagarla, cambiar de color, agregar un programa, crear un escenario, (Can 10m).</p> | <div> ![img-500crop][amzn-led5m] </div> <div> <a href="https://amzn.to/2Wvcghj" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
@@ -37,7 +37,7 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/rvpMQA8)</p> Tira de LED de 15 metros (3 rollos de 5 metros cada uno) con la controladora WiFi Magic Home.</p><p> Es compatible con Alexa, Google Assistant y además nos permite integrarlo en Home Assistant sin cambio de firmware.</p><p> La tira es cortable por lo que podéis aprovecharlo en diferentes proyectos.</p> | <div> ![img-500crop][ali-led15m] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
+| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/rvpMQA8)</p> Tira de LED de 15 metros (3 rollos de 5 metros cada uno) con la controladora WiFi **Magic Home**.</p><p> Es compatible con _Alexa_, Google Assistant y además nos permite integrarlo en _Home Assistant_ sin cambio de firmware.</p><p> La tira es cortable por lo que podéis aprovecharlo en diferentes proyectos.</p> | <div> ![img-500crop][ali-led15m] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
 
 [/ui-accordion-item]
 
