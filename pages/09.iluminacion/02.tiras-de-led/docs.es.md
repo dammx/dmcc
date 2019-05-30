@@ -29,7 +29,7 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Tira LED Tira Iluminación Inteligente RGB ...**](https://amzn.to/2Wvcghj)</p><p>WIFI Tira LED Tira Iluminación Inteligente RGB 5M</p><p> Bawoo 150 LED Smart Strip LED Impermeable ALEXA Google Home IFTTT. Teléfono Control Remoto 24 Teclas.</p><p> Puede controlar la tira de LED utilizando la aplicación **Magic Home** para encenderla, apagarla, cambiar de color, agregar un programa, crear un escenario, (Can 10m).</p> | <div> ![img-500crop][amzn-led5m] </div> <div> <a href="https://amzn.to/2Wvcghj" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Tira LED Tira Iluminación Inteligente RGB ...**](https://amzn.to/2Wvcghj)</p><p>WIFI Tira LED Tira Iluminación Inteligente RGB 5M</p><p> Bawoo 150 LED Smart Strip LED Impermeable ALEXA Google Home IFTTT. Teléfono Control Remoto 24 Teclas.</p><p> Puede controlar la tira de LED utilizando la aplicación **Magic Home** para encenderla, apagarla, cambiar de color, agregar un programa, crear un escenario...</p> | <div> ![img-500crop][amzn-led5m] </div> <div> <a href="https://amzn.to/2Wvcghj" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
