@@ -1,6 +1,6 @@
 ---
 title: 'Bombillas Wifi'
-media_order: 'bombilla_teckin.png,up1_azul1.png'
+media_order: 'bombilla_teckin.png,up1_azul1.png,utorch.png'
 ---
 
 ![win10](image://os-compat.png)
@@ -37,19 +37,19 @@ Te presentamos varias opciones que pueden ser de tu utilidad
 
 [/ui-accordion-item]
 
-[ui-accordion-item title="Konesky Smart Power Strips | Amazon » 29.99€"]
+[ui-accordion-item title="Utorch Bombilla LED 7W RGB | Aliexpress » 11,78€"]
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Konesky Smart Power Strips Wifi ...**](https://amzn.to/2Valrih)</p> Protector contra sobretensiones con 4 salidas 4 puertos USB.</p><p>La regleta de alimentación inalámbrica Timmer es compatible con los puertos USB, ahorra espacio y dinero, no necesita comprar muchos enchufes ni banco de energía, la regleta multifuncional le permite cargar muchos dispositivos al mismo tiempo.</p><p>El control de voz de la toma de corriente inteligente WIFI, puede controlar sus aplicaciones a través de los dispositivos  _Alexa_, _Google Home_ e _IFTTT_. Conveniente y fácil de usar.</p> | <div> ![img-500crop][amzn-Konesky] </div> <div> <a href="https://amzn.to/2Valrih" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/bkqswhgU)</p> Bombilla Utorch RGB WiFi que nos permiten la iluminación de una habitación. Es RGBW y funciona con Google Assistant, Alexa e IFTTT.</p><p> Se integra en Smart Life, por lo que deberíamos poder integrarlo en _Home Assistant_.</p> | <div> ![img-500crop][amzn-Konesky] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
 
 [/ui-accordion-item]
 
-[ui-accordion-item title="TECKIN Bombilla LED inteligente WiFi  | Amazon » 15,99€ "]
+[ui-accordion-item title="Teckin Bombilla LED inteligente WiFi  | Amazon » 15,99€ "]
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**TECKIN Bombilla LED inteligente WiFi...**](https://amzn.to/2I844dL)</p><p>Bombilla RGBW de 7.5W WiFi de la marca Teckin que se integra en _**Smart Life**_.</p><p>Compatible con Alexa y con Google Home además de que deberíamos poder integrarlas en Home Assistant.</p> | <div> ![img-500crop][amzn-b.teckin] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Teckin Bombilla LED inteligente WiFi...**](https://amzn.to/2I844dL)</p><p>Bombilla RGBW de 7.5W WiFi de la marca Teckin que se integra en _**Smart Life**_.</p><p>Compatible con Alexa y con Google Home además de que deberíamos poder integrarlas en Home Assistant.</p> | <div> ![img-500crop][amzn-b.teckin] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
@@ -58,7 +58,7 @@ Te presentamos varias opciones que pueden ser de tu utilidad
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-iraza]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=500,500
-[amzn-Konesky]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/Konesky.png?lightbox=1024&cropResize=500,500
+[amzn-utorch]: user://pages/09.iluminacion/bombillas-wifi/utorch.png?lightbox=1024&cropResize=500,500
 [amzn-b.teckin]: user://pages/09.iluminacion/bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=500,500
 
 ---
