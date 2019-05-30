@@ -1,5 +1,6 @@
 ---
 title: 'Bombillas Wifi'
+media_order: 'bombilla_teckin.png,up1_azul1.png'
 ---
 
 ![win10](image://os-compat.png)
@@ -22,6 +23,8 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 + Debemos evaluar se tienen la posibilidad de conectarse con otros electrodomésticos de la casa.
 + El precio. Hay diferencias considerables entre unas marcas y otras.
 
+Te presentamos varias opciones que pueden ser de tu utilidad
+
 ---
 
 [ui-accordion independent=true open=none]
@@ -42,11 +45,11 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 
 [/ui-accordion-item]
 
-[ui-accordion-item title="Lightweight Smart Power 4 Strips | Aliexpress » 27,54€ "]
+[ui-accordion-item title="TECKIN Bombilla LED inteligente WiFi  | Amazon » 15,99€ "]
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Smart Wifi Plug Power Strip ...**](http://s.click.aliexpress.com/e/cj0gMOCs)</p><p>Protector contra sobretensiones. Múltiples tomas de corriente, 4 puertos USB y control de voz para _Alexa_ y _Google Home_.</p><p>- Investigación y desarrollo independientes, fácil de operar. La conexión wifi es muy estable. Control de voz y/o altavoz inteligente vía _Amazon Alexa_, _Google Assistant_ y _IFTTT_.</p><p>- Control remoto del teléfono móvil cuando el teléfono móvil y la toma de corriente están conectados a Internet, la toma móvil puede controlarse remotamente mediante la aplicación móvil. Cambio manual del estado de conexión / desconexión y función de tiempo.</p> <p>Actualización en línea cuando salga una nueva versión del firmware, podrá actualizarse en línea directamente en la aplicación y disfrutar de más funciones. Intercambio inteligente: Comparte tu dispositivo con amigos y/o familia.</p> | <div> ![img-500crop][amzn-Lightweight] </div> <div> <a href="http://s.click.aliexpress.com/e/cj0gMOCs" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
+| <p>[**Smart Wifi Plug Power Strip ...**](https://amzn.to/2I844dL)</p><p>Bombilla RGBW de 7.5W WiFi de la marca Teckin que se integra en _**Smart Life**_. Compatible con Alexa y con Google Home además de que deberíamos poder integrarlas en Home Assistant.</p> | <div> ![img-500crop][amzn-b.teckin] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
@@ -56,7 +59,7 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 
 [amzn-iraza]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=500,500
 [amzn-Konesky]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/Konesky.png?lightbox=1024&cropResize=500,500
-[amzn-Lightweight]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/ligthweight.png?lightbox=1024&cropResize=500,500
+[amzn-b.teckin]: user://pages/09.iluminacion/bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=500,500
 
 ---
 
