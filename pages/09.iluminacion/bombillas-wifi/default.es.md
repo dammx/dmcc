@@ -41,7 +41,7 @@ Te presentamos varias opciones que pueden ser de tu utilidad
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/bkqswhgU)</p> Bombilla Utorch RGB WiFi que nos permiten la iluminación de una habitación.</p><p> Es RGBW y funciona con Google Assistant, Alexa e IFTTT.</p><p> Se integra en Smart Life, por lo que deberíamos poder integrarlo en _Home Assistant_.</p> | <div> ![img-500crop][amzn-utorch] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
+| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/bkqswhgU)</p> Bombilla Utorch RGB WiFi que nos permiten la iluminación de una habitación.</p><p> Es RGBW y funciona con Google Assistant, Alexa e IFTTT.</p><p> Se integra en _**SmartLife**_, por lo que deberíamos poder integrarlo en _**Home Assistant**_.</p> | <div> ![img-500crop][amzn-utorch] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
 
 [/ui-accordion-item]
 
@@ -49,7 +49,7 @@ Te presentamos varias opciones que pueden ser de tu utilidad
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Teckin Bombilla LED inteligente WiFi...**](https://amzn.to/2I844dL)</p><p>Bombilla RGBW de 7.5W WiFi de la marca Teckin que se integra en _**Smart Life**_.</p><p>Compatible con Alexa y con Google Home además de que deberíamos poder integrarlas en Home Assistant.</p> | <div> ![img-500crop][amzn-b.teckin] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Teckin Bombilla LED inteligente WiFi...**](https://amzn.to/2I844dL)</p><p>Bombilla RGBW de 7.5W WiFi de la marca Teckin que se integra en _**Smart Life**_.</p><p>Compatible con Alexa y con Google Home además de que deberíamos poder integrarlas en **_Home Assistant_**.</p> | <div> ![img-500crop][amzn-b.teckin] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
