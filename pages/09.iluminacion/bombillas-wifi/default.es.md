@@ -1,6 +1,7 @@
 ---
 title: 'Bombillas Wifi'
 media_order: 'bombilla_teckin.png,up1_azul1.png,utorch.png,hue.png'
+published: true
 ---
 
 ![win10](image://os-compat.png)
