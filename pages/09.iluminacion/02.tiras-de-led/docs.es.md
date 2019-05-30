@@ -1,6 +1,6 @@
 ---
 title: 'Tiras de Led'
-media_order: 'tira_led_5m.png,tira_led_15m.png'
+media_order: 'tira_led_5m.png,tira_led_15m.png,up1_azul1.png,fotoled2.png'
 taxonomy:
     category:
         - docs
@@ -13,7 +13,7 @@ visible: true
 [ui-tab title="Descripción ..."]
 
 > Las tiras LED son un tipo de iluminación increíblemente versátil, con una amplia variedad de usos que pueden ir desde decorativos hasta usos más funcionales y profesionales. Esta versatilidad se refleja principalmente en su facilidad de instalación y las múltiples características que presentan los diferentes tipos de tiras de luces ...
-
+![](fotoled2.png)
 Son un tipo de iluminación cada vez más utilizadas por las personas que buscan conseguir el máximo ahorro posible. **Pueden consumir hasta un 80% menos de energía que las bombillas tradicionales**, además de tener una duración claramente superior.
 
 !!! Otra de las grandes ventajas de una tira led es que **es autoadhesiva** por lo que es muy sencilla adaptarla a cualquier tipo de superficie. Además, su iluminación es muy nítida, no causará ningún tipo de reflejo y será capaz de adaptarse a nuestra vista sin cansarla de ninguna manera.
