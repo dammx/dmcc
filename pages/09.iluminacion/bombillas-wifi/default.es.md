@@ -33,7 +33,7 @@ Te presentamos varias opciones que pueden ser de tu utilidad
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Bombilla LED RGB 9.5W Philips Hue ...**](https://amzn.to/2I6OCyu)</p><p>Bombilla RGB de Philps Hue con casquillo E27. Poseen una potencia de 9.5W y nos permite su uso por medio de Alexa, Google Assistant o HomeKit. 16 millones de colores.</p><p>Para usar en el sistema de Philips es necesario el bridge.</p><p> Para la integraciond e home Assistant tienes que integrarlo directametne desde integraciones.</p> | <div> ![img-500crop][amzn-iraza] </div> <div> <a href="https://amzn.to/2I6OCyu" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Bombilla LED RGB 9.5W Philips Hue ...**](https://amzn.to/2I6OCyu)</p><p>Bombilla RGB de Philps Hue con casquillo E27. Poseen una potencia de 9.5W y nos permite su uso por medio de Alexa, Google Assistant o HomeKit. 16 millones de colores.</p><p>Para usar en el sistema de Philips es necesario el bridge.</p><p> Para la integración de _**Home Assistant**_ tienes que integrarlo directamente desde integraciones.</p> | <div> ![img-500crop][amzn-iraza] </div> <div> <a href="https://amzn.to/2I6OCyu" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
