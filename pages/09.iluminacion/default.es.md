@@ -23,7 +23,7 @@ Los equipos de iluminación domótica son variados dependiendo de las estancias 
 - Casquillos Hub Wifi
 
 
-Todos ellos son integrables en _Home Assitant_ y en _Google Home_
+Todos ellos son integrables en _Home Assistant_ y en _Google Home_
 
 ---
 [![](up1_azul1.png)](# "Volver al Inicio")
