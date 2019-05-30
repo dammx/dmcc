@@ -41,11 +41,11 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 [/ui-accordion-item]
 
-[ui-accordion-item title="Teckin Bombilla LED inteligente WiFi  | Amazon » 15,99€ "]
+[ui-accordion-item title="Controlador Remoto Wifi Tira Led   | Amazon » 12,98€ "]
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Teckin Bombilla LED inteligente WiFi...**](https://amzn.to/2I844dL)</p><p>Bombilla RGBW de 7.5W WiFi de la marca Teckin que se integra en _**Smart Life**_.</p><p>Compatible con Alexa y con Google Home además de que deberíamos poder integrarlas en **_Home Assistant_**.</p> | <div> ![img-500crop][amzn-led5m] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Controlador Remoto Wifi Controlador de Tira Led...**](https://amzn.to/2XafcwV)</p><p>Tome el control total de su iluminación con un teléfono, encienda o apague los dispositivos conectados donde sea que esté en cualquier momento a través de cualquier conexión a Internet.</p><p>Al utilizar la función Mic y Music Function, la tira de luz baila al ritmo de la música, es una fiesta Essentials; Transforme su espacio con más de 16 millones de colores y mil tonos de blanco.</p><p> Da un paso más y da vida a tus salas con temas y animaciones.Puede controlar la tira de LED utilizando la aplicación **Magic Home**</p> | <div> ![img-500crop][amzn-led5m] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
