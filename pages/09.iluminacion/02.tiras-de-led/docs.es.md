@@ -18,8 +18,7 @@ Son un tipo de iluminación cada vez más utilizadas por las personas que buscan
 
 !!! Otra de las grandes ventajas de una tira led es que **es autoadhesiva** por lo que es muy sencilla adaptarla a cualquier tipo de superficie. Además, su iluminación es muy nítida, no causará ningún tipo de reflejo y será capaz de adaptarse a nuestra vista sin cansarla de ninguna manera.
 Tienen  múltiples funciones son como perfecto acompañamiento de luz para espacios fijos que necesitas alumbrar, como un hueco en un cabecero, una guardilla en el pasillo, en el baño... 
-
-!!! Convierte la iluminación de tu casa en una experiencia extraordinaria propia de una casa inteligente!
+Convierte la iluminación de tu casa en una experiencia extraordinaria propia de una casa inteligente!
 
 ---
 
