@@ -65,11 +65,11 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 [ui-tab title="Integración ..."]
 
-La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera **_Smart Life_**  o  **_Tuya_**,  en la configuración de añadir dispositivos de _Google Home_, aquí tenéis el enlace para descargarlo:
- * [**Smart Life android**](http://bit.ly/2JnEUtN)
- * [**Smart Life Iphone**](https://apple.co/2DVyRsK)
- * [**Tuya Android**](http://bit.ly/2ZYql5T)
- * [**Tuya iphone**](https://apple.co/2vIrNeD)
+La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo, en este caso sera **_	
+Magic Home Pro_**, en la configuración de añadir dispositivos de _Google Home_, aquí tenéis el enlace para descargarlo:
+ * [**Magic Home Pro android**](http://bit.ly/2XlOxxq)
+ * [**Magic Home Wifi Iphone**](https://apple.co/2wrEvyN)
+
 
 ###### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.###### 
 ![int-ghome]
@@ -77,26 +77,16 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 **Para Integrarlo en Home Assitant**
 Solo necesitaras anadir a tu `configuration.yaml` los siguientes datos:
 
-+ Ejemplo  App Tuya `configuration.yaml`:
++ Ejemplo `configuration.yaml`:
 
 ```text
 
-tuya:
-  username: nuestro@correo.es
-  password: contraseñaquepusimos
-  country_code: 34 
+light:
+  - platform: flux_led
+    devices:
+      192.168.1.10
+        name: Salon
 
-```
-+ Ejemplo  App Smart Life `configuration.yaml`:
-
-```text
-​
-tuya:
-  username: nuestro@correo.es
-  password: contraseñaquepusimos
-  country_code: 34
-  platform: smart_life
-​
 ```
 ---
 [![](up1_azul1.png)](# "Volver al Inicio")
