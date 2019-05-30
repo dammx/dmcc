@@ -58,9 +58,9 @@ Te presentamos varias opciones que pueden ser de tu utilidad
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-iraza]: user://pages/09.iluminacion/bombillas-wifi/hue.png?lightbox=1024&cropResize=500,500
-[ali-utorch]: user://pages/09.iluminacion/bombillas-wifi/utorch.png?lightbox=1024&cropResize=500,500
-[amzn-b.teckin]: user://pages/09.iluminacion/bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=500,500
+[amzn-iraza]: user://pages/09.iluminacion/01.bombillas-wifi/hue.png?lightbox=1024&cropResize=500,500
+[ali-utorch]: user://pages/09.iluminacion/01.bombillas-wifi/utorch.png?lightbox=1024&cropResize=500,500
+[amzn-b.teckin]: user://pages/09.iluminacion/01.bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=500,500
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
 
