@@ -1,6 +1,23 @@
 ---
 title: Iluminación
 media_order: 'up1_azul1.png,fotoled.png'
+metadata:
+    Key(iluminacion_wifi): 'Valor(iluminacion,domotica,wifi,ambientes, escenas,home, assistant,bombillas,tiras,led,controladores,hud)'
+taxonomy:
+    tag:
+        - domotizar
+        - wifi
+        - android
+        - home
+        - assistant
+        - escenas
+        - lamparas
+        - bombilas
+        - tiras
+        - led
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 ---
 
 ![win10](image://os-compat.png)
