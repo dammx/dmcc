@@ -1,9 +1,26 @@
 ---
 title: 'Tiras de Led'
 media_order: 'tira_led_5m.png,tira_led_15m.png,up1_azul1.png,fotoled2.png'
+metadata:
+    Key(tiras_led_wifi): 'Valor(tiras,led,wifi,rgb,rgbw,luces,iluminacion,home,assistant,magic)'
 taxonomy:
     category:
         - docs
+    tag:
+        - tiras
+        - led
+        - wifi
+        - rgb
+        - rgbw
+        - luces
+        - iluminacion
+        - home
+        - assistant
+        - google
+        - magic
+sitemap:
+    changefreq: hourly
+    priority: 0.5
 visible: true
 ---
 
