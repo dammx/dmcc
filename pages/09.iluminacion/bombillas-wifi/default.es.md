@@ -41,7 +41,7 @@ Te presentamos varias opciones que pueden ser de tu utilidad
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/bkqswhgU)</p> Bombilla Utorch RGB WiFi que nos permiten la iluminación de una habitación. Es RGBW y funciona con Google Assistant, Alexa e IFTTT.</p><p> Se integra en Smart Life, por lo que deberíamos poder integrarlo en _Home Assistant_.</p> | <div> ![img-500crop][amzn-Konesky] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
+| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/bkqswhgU)</p> Bombilla Utorch RGB WiFi que nos permiten la iluminación de una habitación. Es RGBW y funciona con Google Assistant, Alexa e IFTTT.</p><p> Se integra en Smart Life, por lo que deberíamos poder integrarlo en _Home Assistant_.</p> | <div> ![img-500crop][amzn-utorch] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
 
 [/ui-accordion-item]
 
