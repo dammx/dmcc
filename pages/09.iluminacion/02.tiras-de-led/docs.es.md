@@ -1,5 +1,6 @@
 ---
 title: 'Tiras de Led'
+media_order: tira_led_5m.png
 taxonomy:
     category:
         - docs
@@ -13,9 +14,9 @@ visible: true
 
 > Las tiras LED son un tipo de iluminación increíblemente versátil, con una amplia variedad de usos que pueden ir desde decorativos hasta usos más funcionales y profesionales. Esta versatilidad se refleja principalmente en su facilidad de instalación y las múltiples características que presentan los diferentes tipos de tiras de luces ...
 
-Son un tipo de iluminación cada vez más utilizadas por las personas que buscan conseguir el máximo ahorro posible. Pueden consumir hasta un 80% menos de energía que las bombillas tradicionales, además de tener una duración claramente superior.
+Son un tipo de iluminación cada vez más utilizadas por las personas que buscan conseguir el máximo ahorro posible. **Pueden consumir hasta un 80% menos de energía que las bombillas tradicionales**, además de tener una duración claramente superior.
 
-!!! Otra de las grandes ventajas de una tira led es que es autoadhesiva por lo que es muy sencilla adaptarla a cualquier tipo de superficie. Además, su iluminación es muy nítida, no causará ningún tipo de reflejo y será capaz de adaptarse a nuestra vista sin cansarla de ninguna manera.
+!!! Otra de las grandes ventajas de una tira led es que **es autoadhesiva** por lo que es muy sencilla adaptarla a cualquier tipo de superficie. Además, su iluminación es muy nítida, no causará ningún tipo de reflejo y será capaz de adaptarse a nuestra vista sin cansarla de ninguna manera.
 Tienen  múltiples funciones son como perfecto acompañamiento de luz para espacios fijos que necesitas alumbrar, como un hueco en un cabecero, una guardilla en el pasillo, en el baño... 
 
 !!! Convierte la iluminación de tu casa en una experiencia extraordinaria propia de una casa inteligente!
@@ -24,11 +25,12 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title="Bombilla LED RGB 9.5W Philips Hue  | Amazon » 47,99€ "]
+[ui-accordion-item title="Tira LED Tira Iluminación Inteligente RGB   | Amazon » 29,99€ "]
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Bombilla LED RGB 9.5W Philips Hue ...**](https://amzn.to/2I6OCyu)</p><p>Bombilla RGB de Philps Hue con casquillo E27. Poseen una potencia de 9.5W y nos permite su uso por medio de Alexa, Google Assistant o HomeKit. 16 millones de colores.</p><p>Para usar en el sistema de Philips es necesario el bridge.</p><p> Para la integración de _**Home Assistant**_ tienes que integrarlo directamente desde integraciones.</p> | <div> ![img-500crop][amzn-iraza] </div> <div> <a href="https://amzn.to/2I6OCyu" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Bombilla LED RGB 9.5W Philips Hue ...**](https://amzn.to/2Wvcghj)</p><p>1
+WIFI Tira LED Tira Iluminación Inteligente RGB 5M Bawoo 150 LED Cinta luminosa Wifi Tira luz Smart Strip LED Tiras Wifi Impermeable ALEXA Google Home IFTTT Teléfono Control Remoto 24 Teclas. Puede controlar la tira de LED utilizando la aplicación "Magic Home" para encenderla, apagarla, cambiar de color, agregar un programa, crear un escenario, (Can 10m).</p> | <div> ![img-500crop][amzn-iraza] </div> <div> <a href="https://amzn.to/2Wvcghj" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
@@ -44,7 +46,7 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Teckin Bombilla LED inteligente WiFi...**](https://amzn.to/2I844dL)</p><p>Bombilla RGBW de 7.5W WiFi de la marca Teckin que se integra en _**Smart Life**_.</p><p>Compatible con Alexa y con Google Home además de que deberíamos poder integrarlas en **_Home Assistant_**.</p> | <div> ![img-500crop][amzn-b.teckin] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Teckin Bombilla LED inteligente WiFi...**](https://amzn.to/2I844dL)</p><p>Bombilla RGBW de 7.5W WiFi de la marca Teckin que se integra en _**Smart Life**_.</p><p>Compatible con Alexa y con Google Home además de que deberíamos poder integrarlas en **_Home Assistant_**.</p> | <div> ![img-500crop][amzn-led5m] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
@@ -52,7 +54,7 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-iraza]: user://pages/09.iluminacion/01.bombillas-wifi/hue.png?lightbox=1024&cropResize=500,500
+[amzn-led5m]: user://pages/09.iluminacion/02.tiras-de-led/tira_led_5m.png?lightbox=1024&cropResize=500,500
 [ali-utorch]: user://pages/09.iluminacion/01.bombillas-wifi/utorch.png?lightbox=1024&cropResize=500,500
 [amzn-b.teckin]: user://pages/09.iluminacion/01.bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=500,500
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
