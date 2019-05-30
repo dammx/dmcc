@@ -1,6 +1,6 @@
 ---
 title: 'Bombillas Wifi'
-media_order: 'bombilla_teckin.png,up1_azul1.png'
+media_order: 'bombilla_teckin.png,up1_azul1.png,utorch.png,hue..png'
 ---
 
 ![win10](image://os-compat.png)
@@ -29,11 +29,11 @@ Te presentamos varias opciones que pueden ser de tu utilidad
 
 [ui-accordion independent=true open=none]
 
-[ui-accordion-item title="Iraza Enchufe Múltiple Inteligente | Amazon » 28,66€ "]
+[ui-accordion-item title="Bombilla LED RGB 9.5W Philips Hue  | Amazon » 47,99€ "]
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Iraza Enchufe Múltiple Inteligente ...**](https://amzn.to/2J7yf7y)</p><p>Configuración simple y fácil de usar : Simplemente, siga los<br />pasos de instalación.</p><p>- Investigación y desarrollo independientes, fácil de operar. La conexión wifi es muy estable. Control de voz vía _Amazon Alexa_ y _Google Assistant.</p><p>Puede activar o desactivar las 3 tomas por separado o juntas y los 2 puertos USB a través de _Echo_, _Google Home_, NEST y _Samsung Smart Things_ serán compatibles en breve.</p> | <div> ![img-500crop][amzn-iraza] </div> <div> <a href="https://amzn.to/2J7yf7y" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Bombilla LED RGB 9.5W Philips Hue ...**](https://amzn.to/2I6OCyu)</p><p>Bombilla RGB de Philps Hue con casquillo E27. Poseen una potencia de 9.5W y nos permite su uso por medio de Alexa, Google Assistant o HomeKit.</p><p>16 millones de colores.Para usar en el sistema de Philips es necesario el bridge.</p><p> Para la integraciond e home Assistant tienes que integrarlo directametne desde integraciones.</p> | <div> ![img-500crop][amzn-iraza] </div> <div> <a href="https://amzn.to/2I6OCyu" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
