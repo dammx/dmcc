@@ -1,6 +1,6 @@
 ---
 title: 'Bombillas Wifi'
-media_order: 'bombilla_teckin.png,up1_azul1.png,utorch.png,hue..png'
+media_order: 'bombilla_teckin.png,up1_azul1.png,utorch.png,hue.png'
 ---
 
 ![win10](image://os-compat.png)
@@ -57,7 +57,7 @@ Te presentamos varias opciones que pueden ser de tu utilidad
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-iraza]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/iraza.png?lightbox=1024&cropResize=500,500
+[amzn-iraza]: user://pages/09.iluminacion/bombillas-wifi/hue.png?lightbox=1024&cropResize=500,500
 [ali-utorch]: user://pages/09.iluminacion/bombillas-wifi/utorch.png?lightbox=1024&cropResize=500,500
 [amzn-b.teckin]: user://pages/09.iluminacion/bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=500,500
 
