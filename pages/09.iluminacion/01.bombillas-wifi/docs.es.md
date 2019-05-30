@@ -2,6 +2,26 @@
 title: 'Bombillas Wifi'
 media_order: 'bombilla_teckin.png,up1_azul1.png,utorch.png,hue.png'
 published: true
+metadata:
+    Key(bombillas_wifi): 'Valor((bombillas,wifi,hub,phillips,utorch,teckin,home,assistant)'
+taxonomy:
+    category:
+        - docs
+    tag:
+        - domotica
+        - bombillas
+        - wifi
+        - hub
+        - phillips
+        - utorch
+        - teckin
+        - home
+        - assistant
+        - google
+sitemap:
+    changefreq: hourly
+    priority: 0.5
+visible: true
 ---
 
 ![win10](image://os-compat.png)
