@@ -4,6 +4,8 @@ media_order: 'up1_azul1.png,fotoled.png'
 metadata:
     Key(iluminacion_wifi): 'Valor(iluminacion,domotica,wifi,ambientes, escenas,home, assistant,bombillas,tiras,led,controladores,hud)'
 taxonomy:
+    category:
+        - docs
     tag:
         - domotizar
         - wifi
@@ -18,6 +20,7 @@ taxonomy:
 sitemap:
     changefreq: hourly
     priority: 0.5
+visible: true
 ---
 
 ![win10](image://os-compat.png)
