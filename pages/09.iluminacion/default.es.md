@@ -1,5 +1,6 @@
 ---
 title: Iluminación
+media_order: up1_azul1.png
 ---
 
 ![win10](image://os-compat.png)
@@ -25,3 +26,4 @@ Los equipos de iluminación domótica son variados dependiendo de las estancias 
 Todos ellos son integrables en Home Assitant y en Google Home
 
 ---
+[![](up1_azul1.png)](# "Volver al Inicio")
