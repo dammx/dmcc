@@ -81,7 +81,7 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 [amzn-led5m]: user://pages/09.iluminacion/02.tiras-de-led/tira_led_5m.png?lightbox=1024&cropResize=500,500
 [ali-led15m]: user://pages/09.iluminacion/02.tiras-de-led/tira_led_15m.png?lightbox=1024&cropResize=400,400
 [amzn-b.teckin]: user://pages/09.iluminacion/01.bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=500,500
-[ali-control1]: user://pages/09.iluminacion/02.tiras-de-led/comtrol1.png?lightbox=1024&cropResize=600,600
+[ali-control1]: user://pages/09.iluminacion/02.tiras-de-led/comtrol1.png?lightbox=1024&cropResize=500,500
 [amzn-control2]: user://pages/09.iluminacion/02.tiras-de-led/comtrol2.png?lightbox=1024&cropResize=500,500
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 [up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
