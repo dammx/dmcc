@@ -1,6 +1,6 @@
 ---
 title: 'Enchufes Wifi Genéricos'
-media_order: 'merisny.png,womdee.png,Yokunat.png,up1_azul1.png,slitinto.png,integracion_google_home.gif'
+media_order: 'merisny.png,womdee.png,Yokunat.png,slitinto.png'
 taxonomy:
     category:
         - docs
@@ -85,10 +85,11 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 [amzn-womdee]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/womdee.png?lightbox=1024&cropResize=500,500
 [amzn-yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=500,500
 [amzn-slitinto]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/slitinto.png?lightbox=1024&cropResize=500,500
-
+[up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
+[int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
 
-[![](up1_azul1.png)](# "Volver al Inicio")
+[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
@@ -102,7 +103,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
 
 !!! + Aúnque en el ejemplo usamos la app. _Kasa_, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente según proceda.
 
-![](integracion_google_home.gif)
+![int-ghome]
 
 **Para Integrarlo en Home Assitant**
 Solo necesitarás añadir a tu `configuration.yaml` los siguientes datos:
