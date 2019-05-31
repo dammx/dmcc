@@ -1,6 +1,6 @@
 ---
 title: 'Enchufes Empotrables'
-media_order: 'Kaifire.png,Jindia.png,shukowifi.png,integracion_google_home.gif,up1_azul1.png'
+media_order: 'Kaifire.png,Jindia.png,shukowifi.png'
 metadata:
     key(enchufes_empotrables): 'Valor(domotizar,casa,enchufes,empotrables,toma,corriente,kaifire,jindia,schuko,aliexpress,amazon)'
 taxonomy:
