@@ -1,6 +1,6 @@
 ---
 title: 'Termostatos Wifi'
-media_order: 'netnamo.png,nest.png,Beok.png,mac.jpg,Floureon.png,decdeal.png,integracion_google_home.gif,up1_azul1.png'
+media_order: 'netnamo.png,nest.png,Beok.png,mac.jpg,Floureon.png,decdeal.png'
 metadata:
     key(termostatos_wifi): 'Valor(domotizar,wifi,wi-fi,termostato,distancia,inteligentes,netnamo,beok,floureon,decdeal,nest,control,android,iphone,aliexpress,amazon)'
 taxonomy:
@@ -95,10 +95,12 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 [amzn-Beok]: user://pages/05.termostatos-wifi-calefaccion/Beok.png?lightbox=1024&cropResize=500,500
 [amzn-Floureon]: user://pages/05.termostatos-wifi-calefaccion/Floureon.png?lightbox=1024&cropResize=500,500
 [amzn-Decdeal]: user://pages/05.termostatos-wifi-calefaccion/decdeal.png?lightbox=1024&cropResize=500,500
+[up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
+[int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 
 ---
 
-[![](up1_azul1.png)](# "Volver al Inicio")
+[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
@@ -109,7 +111,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
  * [**BeokHome Iphone**](https://apple.co/2PTiGRF)
 
 ###### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.###### 
-![](integracion_google_home.gif)
+![int-ghome]
 
 **Para Integrarlo en Home Assitant**
 
