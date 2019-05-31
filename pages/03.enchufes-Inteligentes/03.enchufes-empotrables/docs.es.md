@@ -72,10 +72,12 @@ La toma suele estar protegida electrónicamente contra **cortocircuitos**, **sob
 [amzn-Kaifire]: user:/pages/03.enchufes-Inteligentes/03.enchufes-empotrables/Kaifire.png?lightbox=1024&cropResize=500,500
 [amzn-Jindia]: user://pages/03.enchufes-Inteligentes/03.enchufes-empotrables/Jindia.png?lightbox=1024&cropResize=500,500
 [amzn-shukowifi]: user://pages/03.enchufes-Inteligentes/03.enchufes-empotrables/shukowifi.png?lightbox=1024&cropResize=500,500
-
+[up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
+[int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
 
-[![](up1_azul1.png)](# "Volver al Inicio")
+
+[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
@@ -88,7 +90,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
  * [**Tuya iphone**](https://apple.co/2vIrNeD)
 
 ###### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.###### 
-![](integracion_google_home.gif)
+![int-ghome]
 
 **Para Integrarlo en Home Assitant:**<br/>
 -Solo necesitarás anadir a tu `configuration.yaml` los siguientes datos:
