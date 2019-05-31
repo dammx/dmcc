@@ -1,6 +1,6 @@
 ---
 title: 'Regletas Wifi'
-media_order: 'iraza.png,Konesky.png,Acuario.png,ligthweight.png'
+media_order: 'Acuario.png,ligthweight.png,iraza.png'
 published: true
 metadata:
     key(regletas_wifi): 'Valor(domotizar,wifi,wi-fi,casa,enchufes,multiple,regletas,programar,Iraza,Konesky,inteligentes,android,iphone,aliexpress,amazon)'
