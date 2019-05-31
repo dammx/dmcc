@@ -54,7 +54,7 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/rvpMQA8)</p> Tira de LED de 15 metros (3 rollos de 5 metros cada uno) con la controladora WiFi **Magic Home**.</p><p> Es compatible con _Alexa_, Google Assistant y además nos permite integrarlo en _Home Assistant_ sin cambio de firmware.</p><p> La tira es cortable por lo que podéis aprovecharlo en diferentes proyectos.</p> | <div> ![img-500crop][ali-led15m] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
+| <p>[**Tira de LED 15 metros WiFi + controlador...**](http://s.click.aliexpress.com/e/rvpMQA8)</p> Tira de LED de 15 metros (3 rollos de 5 metros cada uno) con la controladora WiFi **Magic Home**.</p><p> Es compatible con _Alexa_, Google Assistant y además nos permite integrarlo en _Home Assistant_ sin cambio de firmware.</p><p> La tira es cortable por lo que podéis aprovecharlo en diferentes proyectos.</p> | <div> ![img-500crop][ali-led15m] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
 
 [/ui-accordion-item]
 
