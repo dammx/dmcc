@@ -62,7 +62,7 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Controlador Remoto Wifi Controlador de Tira Led...**](https://amzn.to/2VYXivD)</p><p>Tome el control total de su iluminación con un teléfono, encienda o apague los dispositivos conectados donde sea que esté en cualquier momento a través de cualquier conexión a Internet.</p><p>Al utilizar la función Mic y Music Function, la tira de luz baila al ritmo de la música, es una fiesta Essentials; Transforme su espacio con más de 16 millones de colores y mil tonos de blanco.</p><p> Da un paso más y da vida a tus salas con temas y animaciones. Puede controlar la tira de LED utilizando la aplicación **Magic Home**</p> | <div> ![img-500crop][amzn-led5m] </div> <div> <a href="https://amzn.to/2VYXivD" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Controlador Remoto Wifi Controlador de Tira Led...**](https://amzn.to/2VYXivD)</p><p>Tome el control total de su iluminación con un teléfono, encienda o apague los dispositivos conectados donde sea que esté en cualquier momento a través de cualquier conexión a Internet.</p><p>Al utilizar la función Mic y Music Function, la tira de luz baila al ritmo de la música, es una fiesta Essentials; Transforme su espacio con más de 16 millones de colores y mil tonos de blanco.</p><p> Da un paso más y da vida a tus salas con temas y animaciones. Puede controlar la tira de LED utilizando la aplicación **Magic Home**</p> | <div> ![img-500crop][amzn-control2] </div> <div> <a href="https://amzn.to/2VYXivD" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
@@ -82,6 +82,7 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 [ali-led15m]: user://pages/09.iluminacion/02.tiras-de-led/tira_led_15m.png?lightbox=1024&cropResize=500,500
 [amzn-b.teckin]: user://pages/09.iluminacion/01.bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=500,500
 [ali-control1]: user://pages/09.iluminacion/02.tiras-de-led/comtrol1.png?lightbox=1024&cropResize=500,500
+[amzn-control2]: user://pages/09.iluminacion/02.tiras-de-led/comtrol2.png?lightbox=1024&cropResize=500,500
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
 
