@@ -80,7 +80,7 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 
 [amzn-hue]: user://pages/09.iluminacion/01.bombillas-wifi/hue.png?lightbox=1024&cropResize=400,400
 [ali-utorch]: user://pages/09.iluminacion/01.bombillas-wifi/utorch.png?lightbox=1024&cropResize=200,200
-[amzn-b.teckin]: user://pages/09.iluminacion/01.bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=350,350
+[amzn-b.teckin]: user://pages/09.iluminacion/01.bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=300,300
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 [up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
 ---
