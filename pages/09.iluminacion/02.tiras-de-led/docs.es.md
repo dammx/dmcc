@@ -1,6 +1,6 @@
 ---
 title: 'Tiras de Led'
-media_order: 'tira_led_5m.png,tira_led_15m.png,up1_azul1.png,fotoled2.png,comtrol1.png,comtrol2.png'
+media_order: 'tira_led_5m.png,tira_led_15m.png,fotoled2.png,comtrol1.png,comtrol2.png'
 metadata:
     Key(tiras_led_wifi): 'Valor(tiras,led,wifi,rgb,rgbw,luces,iluminacion,home,assistant,magic)'
 taxonomy:
@@ -84,9 +84,11 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 [ali-control1]: user://pages/09.iluminacion/02.tiras-de-led/comtrol1.png?lightbox=1024&cropResize=500,500
 [amzn-control2]: user://pages/09.iluminacion/02.tiras-de-led/comtrol2.png?lightbox=1024&cropResize=500,500
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
+[up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
+
 ---
 
-[![](up1_azul1.png)](# "Volver al Inicio")
+[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
