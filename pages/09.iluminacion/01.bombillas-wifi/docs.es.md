@@ -1,6 +1,6 @@
 ---
 title: 'Bombillas Wifi'
-media_order: 'bombilla_teckin.png,up1_azul1.png,hue.png,utorch.png'
+media_order: 'up1_azul1.png,hue.png,utorch.png,bombilla_teckin.png'
 published: true
 metadata:
     Key(bombillas_wifi): 'Valor((bombillas,wifi,hub,phillips,utorch,teckin,home,assistant)'
