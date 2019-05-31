@@ -85,7 +85,7 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 [up1_azul1.png]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
 ---
 
-![up1_azul1.png](# "Volver al Inicio")
+[up1_azul1.png](# "Volver al Inicio")
 
 [/ui-tab]
 
