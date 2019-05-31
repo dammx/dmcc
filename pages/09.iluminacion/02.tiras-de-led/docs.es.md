@@ -1,6 +1,6 @@
 ---
 title: 'Tiras de Led'
-media_order: 'fotoled2.png,comtrol2.png,tira_led_15m.png,comtrol1.png'
+media_order: 'fotoled2.png,comtrol2.png,tira_led_15m.png,tira_led_5m.png'
 metadata:
     Key(tiras_led_wifi): 'Valor(tiras,led,wifi,rgb,rgbw,luces,iluminacion,home,assistant,magic)'
 taxonomy:
