@@ -1,6 +1,6 @@
 ---
 title: 'Tiras de Led'
-media_order: 'tira_led_5m.png,tira_led_15m.png,up1_azul1.png,fotoled2.png,comtrol1.png'
+media_order: 'tira_led_5m.png,tira_led_15m.png,up1_azul1.png,fotoled2.png,comtrol1.png,comtrol2.png'
 metadata:
     Key(tiras_led_wifi): 'Valor(tiras,led,wifi,rgb,rgbw,luces,iluminacion,home,assistant,magic)'
 taxonomy:
@@ -62,7 +62,7 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Controlador Remoto Wifi Controlador de Tira Led...**](https://amzn.to/2XafcwV)</p><p>Tome el control total de su iluminación con un teléfono, encienda o apague los dispositivos conectados donde sea que esté en cualquier momento a través de cualquier conexión a Internet.</p><p>Al utilizar la función Mic y Music Function, la tira de luz baila al ritmo de la música, es una fiesta Essentials; Transforme su espacio con más de 16 millones de colores y mil tonos de blanco.</p><p> Da un paso más y da vida a tus salas con temas y animaciones. Puede controlar la tira de LED utilizando la aplicación **Magic Home**</p> | <div> ![img-500crop][amzn-led5m] </div> <div> <a href="https://amzn.to/2I844dL" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Controlador Remoto Wifi Controlador de Tira Led...**](https://amzn.to/2VYXivD)</p><p>Tome el control total de su iluminación con un teléfono, encienda o apague los dispositivos conectados donde sea que esté en cualquier momento a través de cualquier conexión a Internet.</p><p>Al utilizar la función Mic y Music Function, la tira de luz baila al ritmo de la música, es una fiesta Essentials; Transforme su espacio con más de 16 millones de colores y mil tonos de blanco.</p><p> Da un paso más y da vida a tus salas con temas y animaciones. Puede controlar la tira de LED utilizando la aplicación **Magic Home**</p> | <div> ![img-500crop][amzn-led5m] </div> <div> <a href="https://amzn.to/2VYXivD" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
