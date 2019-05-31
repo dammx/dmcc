@@ -54,7 +54,7 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Bombilla LED RGB 9.5W Philips Hue ...**](https://amzn.to/2I6OCyu)</p><p>Bombilla RGB de Philps Hue con casquillo E27. Poseen una potencia de 9.5W y nos permite su uso por medio de Alexa, Google Assistant o HomeKit. 16 millones de colores.</p><p>Para usar en el sistema de Philips es necesario el bridge.</p><p> Para la integración de _**Home Assistant**_ tienes que integrarlo directamente desde integraciones.</p> | <div> ![img-500crop][amzn-iraza] </div> <div> <a href="https://amzn.to/2I6OCyu" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Bombilla LED RGB 9.5W Philips Hue ...**](https://amzn.to/2I6OCyu)</p><p>Bombilla RGB de Philps Hue con casquillo E27. Poseen una potencia de 9.5W y nos permite su uso por medio de Alexa, Google Assistant o HomeKit. 16 millones de colores.</p><p>Para usar en el sistema de Philips es necesario el bridge.</p><p> Para la integración de _**Home Assistant**_ tienes que integrarlo directamente desde integraciones.</p> | <div> ![img-500crop][amzn-hue] </div> <div> <a href="https://amzn.to/2I6OCyu" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
@@ -62,7 +62,7 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/bkqswhgU)</p> Bombilla Utorch RGB WiFi que nos permiten la iluminación de una habitación.</p><p> Es RGBW y funciona con Google Assistant, Alexa e IFTTT.</p><p> Se integra en _**SmartLife**_, por lo que deberíamos poder integrarlo en _**Home Assistant**_.</p> | <div> ![img-500crop][ali-utorch] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
+| <p>[**Utorch Bombilla LED 7W RGB...**](http://s.click.aliexpress.com/e/bkqswhgU)</p> Bombilla Utorch RGB WiFi que nos permiten la iluminación de una habitación.</p><p> Es RGBW y funciona con Google Assistant, Alexa e IFTTT.</p><p> Se integra en _**SmartLife**_, por lo que deberíamos poder integrarlo en _**Home Assistant**_.</p> | <div> ![img-400crop][ali-utorch] </div> <div> <a href="http://s.click.aliexpress.com/e/bkqswhgU" alt="AlieExpress-link" target="_blank"> <button type="button" style="color:#fff;background-color:#e8a100;width:100%;height:35px;"><i class="fa fa-shopping-cart  fa-lg"> AliExpress</i></button></a> </div> |
 
 [/ui-accordion-item]
 
@@ -78,7 +78,7 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
-[amzn-iraza]: user://pages/09.iluminacion/01.bombillas-wifi/hue.png?lightbox=1024&cropResize=500,500
+[amzn-hue]: user://pages/09.iluminacion/01.bombillas-wifi/hue.png?lightbox=1024&cropResize=500,500
 [ali-utorch]: user://pages/09.iluminacion/01.bombillas-wifi/utorch.png?lightbox=1024&cropResize=500,500
 [amzn-b.teckin]: user://pages/09.iluminacion/01.bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=500,500
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
