@@ -88,6 +88,7 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 [amzn-Konesky]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/Konesky.png?lightbox=1024&cropResize=500,500
 [amzn-Lightweight]: user://pages/03.enchufes-Inteligentes/02.regletas-wifi/ligthweight.png?lightbox=1024&cropResize=500,500
 [up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
+[int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
 
 [![up1_azul1]](# "Volver al Inicio")
@@ -103,7 +104,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
  * [**Tuya iphone**](https://apple.co/2vIrNeD)
 
 ###### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.###### 
-![](integracion_google_home.gif)
+![int-ghome]
 
 **Para Integrarlo en Home Assitant**
 Solo necesitaras anadir a tu `configuration.yaml` los siguientes datos:
