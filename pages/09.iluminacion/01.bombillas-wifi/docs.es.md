@@ -125,7 +125,7 @@ tuya:
 ​
 ```
 ---
-[![](up1_azul1.png)](# "Volver al Inicio")
+[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
