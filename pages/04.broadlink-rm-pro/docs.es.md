@@ -1,6 +1,6 @@
 ---
 title: 'BroadlinkRM Pro WIFI + IR + Control RemotoRF'
-media_order: 'Broadlink.png,rm_pro.png,rm_mini_3.png,integracion_google_home.gif,smartir.zip,smartir3.png,up1_azul1.png'
+media_order: 'Broadlink.png,rm_pro.png,rm_mini_3.png,smartir.zip,smartir3.png'
 published: true
 metadata:
     key(broadlink): 'Valor(domotizar,wifi,wi-fi,mando,distancia,multiple,universal,inteligentes,control,remoto,ir,frecuencia,android,iphone,aliexpress,amazon)'
@@ -68,10 +68,11 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 
 [amzn-BL-RMPRO]: user:/pages/04.broadlink-rm-pro/rm_pro.png?lightbox=1024&cropResize=500,500
 [amzn-BL-RMMINI3]: user://pages/04.broadlink-rm-pro/rm_mini_3.png?lightbox=1024&cropResize=500,500
-
+[up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
+[int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
 
-[![](up1_azul1.png)](# "Volver al Inicio")
+[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
@@ -82,7 +83,7 @@ La **Integración en Google Home** es muy secilla, solo tienes que añadir la cu
  * [**IHC Iphone**](https://apple.co/2H80XBN)
 
 ###### **_(Aúnque en el Ejemplo usamos la aplicación Kasa, el procedimiento para la integración és el mismo, utilizando la aplicación correcta del componente, arriba indicada, según proceda)._**.###### 
-![](integracion_google_home.gif)
+![int-ghome]
 
 **Para Integrarlo en Home Assitant**
 
