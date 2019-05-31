@@ -1,6 +1,6 @@
 ---
 title: 'TP-Link HS100 y HS110'
-media_order: 'Screenshot_1.png,tp-link-hs-100.png,tp-link-hs-110.png,integracion_google_home.gif,up1_azul1.png'
+media_order: 'Screenshot_1.png,tp-link-hs-100.png,tp-link-hs-110.png'
 metadata:
     key(enchufes_wifi): 'Valor(domotizar,casa,enchufes,programar,tp-link,inteligentes,programar,home,assistant,hs100,hs110,regletas,android,iphone,aliexpress,amazon)'
 taxonomy:
@@ -66,17 +66,18 @@ Para controlar ambos hay que descargar la aplicación Kasa para [iOS](https://ap
 
 [amzn-TPL-HS100]: user:/pages/03.enchufes-Inteligentes/01.tp-link-hs100-hs110/tp-link-hs-100.png?lightbox=1024&cropResize=500,500
 [amzn-TPL-HS110]: user://pages/03.enchufes-Inteligentes/01.tp-link-hs100-hs110/tp-link-hs-110.png?lightbox=1024&cropResize=500,500
-
+[int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
+[up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
 ---
 
-[![](up1_azul1.png)](# "Volver al Inicio")
+[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
 [ui-tab title="Integración ..."]
 
 La **Integración en Google Home** es muy secilla, solo tienes que añadir la cuenta que creas de la aplicacion del disposivo en la configuracion de añadir dispositivos de Google Home:
-![](integracion_google_home.gif)
+![int-ghome]
 **Para Integrarlo en Home Assitant**
 
 
