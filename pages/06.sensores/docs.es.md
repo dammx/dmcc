@@ -1,7 +1,7 @@
 ---
 title: Sensores
 media_order: Up.png
-published: true
+published: false
 taxonomy:
     category:
         - docs
