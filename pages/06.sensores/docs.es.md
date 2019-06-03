@@ -49,15 +49,6 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 
 [/ui-accordion-item]
 
-
-[ui-accordion-item title="Iraza Enchufe Múltiple Inteligente | Amazon » 28,66€ "]
-
-[![](//ae01.alicdn.com/kf/HTB1d9aumTZmx1VjSZFGq6yx2XXaj/-font-b-Lightweight-b-font-font-b-Mobile-b-font-font-b-Phone-b-font.jpg_220x220.jpg)<span style="display:block;">AliExpress.com Product - Lightweight Mobile Phone Control Smart WIFI Plug APP Remote Control Durable Power Strip Socket Home Electrical Surge Protector</span>](http://s.click.aliexpress.com/e/c27lP7r2)
-
-[/ui-accordion-item]
-
-
-
 [ui-accordion-item title="Konesky Smart Power Strips | Amazon » 29.99€"]
 
 |  |  |
