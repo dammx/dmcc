@@ -37,6 +37,8 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 
 [ui-tab title="Componentes ..."]
 
+[![](https://ae01.alicdn.com/kf/HTB1N2e6LsbpK1RjSZFyq6x_qFXaI/EN_300_250.jpg)](http://s.click.aliexpress.com/e/V43zXeg?bz=300*250)
+
 [ui-accordion independent=true open=all]
 
 [ui-accordion-item title="Iraza Enchufe Múltiple Inteligente | Amazon » 28,66€ "]
@@ -47,7 +49,6 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 
 [/ui-accordion-item]
 
-[![](https://ae01.alicdn.com/kf/HTB1N2e6LsbpK1RjSZFyq6x_qFXaI/EN_300_250.jpg)](http://s.click.aliexpress.com/e/V43zXeg?bz=300*250)
 
 [ui-accordion-item title="Konesky Smart Power Strips | Amazon » 29.99€"]
 
