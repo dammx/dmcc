@@ -85,8 +85,6 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
 
-[![up1_azul1]](# "Volver al Inicio")
-
 [/ui-tab]
 
 [ui-tab title="Integración ..."]
@@ -126,8 +124,6 @@ tuya:
 ```
 ---
 
-
-[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
