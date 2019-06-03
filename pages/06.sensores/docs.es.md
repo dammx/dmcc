@@ -37,7 +37,7 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 
 [ui-tab title="Componentes ..."]
 
-[![](https://ae01.alicdn.com/kf/HTB1N2e6LsbpK1RjSZFyq6x_qFXaI/EN_300_250.jpg)](http://s.click.aliexpress.com/e/V43zXeg?bz=300*250)
+[![](https://ae01.alicdn.com/kf/HTB1wDNeov5TBuNjSspc762nGFXaf/EN_725_90.png)](http://s.click.aliexpress.com/e/cU01Ryug?bz=725*90)
 
 [ui-accordion independent=true open=all]
 
