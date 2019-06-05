@@ -43,6 +43,10 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 
 ---
 
+[/ui-tab]
+
+[ui-tab title="Componentes ..."]
+
 [ui-accordion independent=true open=none]
 
 [ui-accordion-item title="Merisny Enchufe Inteligente Wifi 16A | Amazon » 10,99€ "]
@@ -89,8 +93,6 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
 
-[![up1_azul1]](# "Volver al Inicio")
-
 [/ui-tab]
 
 [ui-tab title="Integración ..."]
@@ -134,3 +136,5 @@ tuya:
 [/ui-tab]
 
 [/ui-tabs]
+
+[![up1_azul1]](# "Volver al Inicio")
