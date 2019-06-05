@@ -58,7 +58,7 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 
 [ui-tab title="Componentes ..."]
 
-[ui-accordion independent=true open=none]
+[ui-accordion independent=true open=all]
 
 [ui-accordion-item title="Iraza Enchufe Múltiple Inteligente | Amazon » 28,66€ "]
 
