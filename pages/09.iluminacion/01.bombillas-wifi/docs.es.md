@@ -48,7 +48,11 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 
 ---
 
-[ui-accordion independent=true open=none]
+[/ui-tab]
+
+[ui-tab title="Componentes ..."]
+
+[ui-accordion independent=true open=all]
 
 [ui-accordion-item title="Bombilla LED RGB 9.5W Philips Hue  | Amazon » 47,99€ "]
 
@@ -84,8 +88,6 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 [up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
 ---
-
-[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
@@ -125,8 +127,9 @@ tuya:
 ​
 ```
 ---
-[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
 [/ui-tabs]
+
+[![up1_azul1]](# "Volver al Inicio")
