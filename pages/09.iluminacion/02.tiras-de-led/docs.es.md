@@ -92,8 +92,6 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 ---
 
-[![up1_azul1]](# "Volver al Inicio")
-
 [/ui-tab]
 
 [ui-tab title="Integración ..."]
@@ -127,4 +125,4 @@ light:
 
 [/ui-tabs]
 
-[![](up1_azul1.png)](# "Volver al Inicio")
+[![up1_azul1]](# "Volver al Inicio")
