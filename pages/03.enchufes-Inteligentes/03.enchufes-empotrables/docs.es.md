@@ -39,7 +39,11 @@ La toma suele estar protegida electrónicamente contra **cortocircuitos**, **sob
 
 ---
 
-[ui-accordion independent=true open=none]
+[/ui-tab]
+
+[ui-tab title="Componentes ..."]
+
+[ui-accordion independent=true open=all]
 
 [ui-accordion-item title="Kaifire USB Enchufe Pared 2.4A Schuko | Amazon » 13,99€"]
 
@@ -75,9 +79,6 @@ La toma suele estar protegida electrónicamente contra **cortocircuitos**, **sob
 [up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
-
-
-[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
@@ -121,3 +122,5 @@ tuya:
 [/ui-tab]
 
 [/ui-tabs]
+
+[![up1_azul1]](# "Volver al Inicio")
