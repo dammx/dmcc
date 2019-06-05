@@ -1,6 +1,6 @@
 ---
 title: 'Bombillas Wifi'
-media_order: 'utorch.png,bombilla_teckin.png,hue.png'
+media_order: 'utorch.png,bombilla_teckin.png,hue.png,quiet.png'
 published: true
 metadata:
     Key(bombillas_wifi): 'Valor((bombillas,wifi,hub,phillips,utorch,teckin,home,assistant)'
@@ -78,6 +78,14 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 
 [/ui-accordion-item]
 
+[ui-accordion-item title="Quiet Hub De Bombilla Smart WiFi | Amazon » 11,99€ "]
+
+|  |  |
+|:------|:-----------------------:|
+| <p>[**Quiet Hub De Bombilla Smart WiFi...**](https://amzn.to/2Wfiaiy)</p><p>Quiet Hub De Bombilla Smart WiFi que se integra en _**Tuya**_.</p><p>Compatible con Alexa y con Google Home además de que deberíamos poder integrarlas en **_Home Assistant_**.</p> | <div> ![img-500crop][amzn-quiet] </div> <div> <a href="https://amzn.to/2Wfiaiy" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+
+[/ui-accordion-item]
+
 [/ui-accordion]
 
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
@@ -85,6 +93,7 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 [amzn-hue]: user://pages/09.iluminacion/01.bombillas-wifi/hue.png?lightbox=1024&cropResize=500,500
 [ali-utorch]: user://pages/09.iluminacion/01.bombillas-wifi/utorch.png?lightbox=1024&cropResize=230,230
 [amzn-b.teckin]: user://pages/09.iluminacion/01.bombillas-wifi/bombilla_teckin.png?lightbox=1024&cropResize=300,300
+[amzn-quiet]: user://pages/09.iluminacion/01.bombillas-wifi/quiet.png?lightbox=1024&cropResize=300,300
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 [up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
 ---
