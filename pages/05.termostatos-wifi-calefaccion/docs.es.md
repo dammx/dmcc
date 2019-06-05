@@ -44,7 +44,11 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 
 ---
 
-[ui-accordion independent=true open=none]
+[/ui-tab]
+
+[ui-tab title="Componentes ..."]
+
+[ui-accordion independent=true open=all]
 
 [ui-accordion-item title="Netatmo | Amazon » 164,95€ "]
     
@@ -100,7 +104,6 @@ Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta g
 
 ---
 
-[![up1_azul1]](# "Volver al Inicio")
 
 [/ui-tab]
 
@@ -154,3 +157,5 @@ Con estos dos simples pasos ya puedes verificar el código y reiniciar el sistem
 [/ui-tab]
 
 [/ui-tabs]
+
+[![up1_azul1]](# "Volver al Inicio")
