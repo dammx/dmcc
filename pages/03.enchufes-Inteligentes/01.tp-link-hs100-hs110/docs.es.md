@@ -38,8 +38,9 @@ visible: true
 
 TP-Link cuenta con dos modelos con WiFi, el _HS100_ y el _HS110_. Ambos cuentan con las mismas funciones de control mediante la aplicación, programación, modo de simulación de que hay gente en casa... etc. Sin embargo, el _HS110_ también mide el consumo energético de los aparatos que le conectamos, y saca resúmenes semanales y mensuales. Podemos controlarlos con la voz con **Google Home**.
 ![](Screenshot_1.png)
-Para controlar ambos hay que descargar la aplicación Kasa para [iOS](https://apple.co/2WveAlg) o [Android](http://bit.ly/2YgEx8L). El HS100 vale 19,99 euros, y el HS110 vale 27,99 euros. Ambos funcionan por WiFi de 2,4 GHz, se pueden controlar desde fuera de casa, y tienen garantía de 3 años. 
-ve a la pestaña [**Componentes**](https://domotizarmicasa.com/enchufes-inteligentes/tp-link-hs100-hs110#int1)
+Para controlar ambos hay que descargar la aplicación Kasa para [iOS](https://apple.co/2WveAlg) o [Android](http://bit.ly/2YgEx8L). El HS100 vale 19,99 euros, y el HS110 vale 27,99 euros. Ambos funcionan por WiFi de 2,4 GHz, se pueden controlar desde fuera de casa, y tienen garantía de 3 años.
+
+Ve a la pestaña [**Componentes**](https://domotizarmicasa.com/enchufes-inteligentes/tp-link-hs100-hs110#int1)
 
 ---
 
