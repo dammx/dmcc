@@ -44,13 +44,13 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 
 + **Nuestro consejo es hacer un análisis coste-beneficio**. Conectar tu casa con interruptores de luz inteligentes puede ser una tarea costosa, especialmente con casas grandes. Pero la alternativa, es decir, el coste de instalar bombillas inteligentes y enchufes inteligentes en toda la casa puede resultar superior, a largo plazo.
 
-!! _**Te presentamos varias opciones que pueden ser de tu interés...,ve a la pestaña [Componentes](https://domotizarmicasa.com/iluminacion/bombillas-wifi#int1)**_
+!! _**Te presentamos varias opciones que pueden ser de tu interés...,ve a la pestaña [Componentes](https://domotizarmicasa.com/interruptores#int1)**_
 
 ---
 
 [/ui-tab]
 
-[ui-tab title="Componentes..."]
+[ui-tab title="Componentes..." id="int1"]
 
 [ui-accordion independent=true open=all]
 
