@@ -74,7 +74,7 @@ Para controlar ambos hay que descargar la aplicación Kasa para [iOS](https://ap
 [up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
 ---
 
-[![up1_azul1]](# "Volver al Inicio")
+
 
 [/ui-tab]
 
@@ -102,3 +102,5 @@ tplink:
 [/ui-tab]
 
 [/ui-tabs]
+
+[![up1_azul1]](# "Volver al Inicio")
