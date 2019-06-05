@@ -52,6 +52,7 @@ py -m homeassistant —-open-ui (Enter)
 + Al final de la instalación, ya podremos entrar en **Home Assistant** a través del navegador con la dirección URL:  [http://localhost:8123](http://localhost:8123)
 
 Finalmente, nos pedirá que creemos un _usuario_ con _contraseña_ y ya estaremos dentro de la configuración de **Home Assistant**!.
+![](Inicio%20Home%20Assistant.png)
 
 ---
 
