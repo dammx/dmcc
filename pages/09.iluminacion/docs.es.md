@@ -42,7 +42,7 @@ Los equipos de iluminación domótica son variados dependiendo de las estancias 
 - Lámparas de Escritorio Wifi
 - Lámparas de Noche
 - [Controladores Wifi RGB/W (para tiras de led Standards)](https://domotizarmicasa.com/iluminacion/tiras-de-led)
-- Casquillos Hub Wifi
+- [Casquillos Hub Wifi](https://domotizarmicasa.com/iluminacion/bombillas-wifi)
 
 
 Todos ellos son integrables en _**Home Assistant**_ y en _**Google Home**_
