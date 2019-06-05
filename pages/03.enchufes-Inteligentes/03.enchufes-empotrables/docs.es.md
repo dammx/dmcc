@@ -37,11 +37,13 @@ visible: true
 La toma suele estar protegida electrónicamente contra **cortocircuitos**, **sobrecargas** y una función de **filtro de línea**.
 ![](Kaifire.png)
 
+!! _**Te presentamos varias opciones que pueden ser de tu interés...,ve a la pestaña [Componentes](https://domotizarmicasa.com/enchufes-inteligentes/enchufes-empotrables#int1)**_
+
 ---
 
 [/ui-tab]
 
-[ui-tab title="Componentes ..."]
+[ui-tab title="Componentes ..." id="int1"]
 
 [ui-accordion independent=true open=all]
 
