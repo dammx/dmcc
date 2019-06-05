@@ -40,12 +40,13 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 - Ahorro de energia y protección del medio ambiente.
 - Opciones de 10A (2300W) O 16A (3600W).
 
+!! _**Te presentamos varias opciones que pueden ser de tu interés...,ve a la pestaña [Componentes](https://domotizarmicasa.com/enchufes-inteligentes/enchufes-wifi-genericos#int1)**_
 
 ---
 
 [/ui-tab]
 
-[ui-tab title="Componentes ..."]
+[ui-tab title="Componentes ..." id="int1"]
 
 [ui-accordion independent=true open=all]
 
