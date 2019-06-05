@@ -42,11 +42,13 @@ Pero instalar un termostato WiFi en casa no solo es buena idea por el ahorro ene
 
 Tenemos modelos como los _Nest_, _Netnamo_, _Tado_ ... Son termostatos de alta gama que funcionan perfectamente, pero son bastante caros! Afortunadamente, disponemos de modelos mas asequibles que también realizan su función perfectamente como: _Fluoreon_, _Beok_ y _Decdeal_ y también están disponibles en _Amazon_.
 
+!! _**Te presentamos varias opciones que pueden ser de tu interés...,ve a la pestaña [Componentes](https://domotizarmicasa.com/termostatos-wifi-calefaccion#int1)**_
+
 ---
 
 [/ui-tab]
 
-[ui-tab title="Componentes ..."]
+[ui-tab title="Componentes ..." id="int1"]
 
 [ui-accordion independent=true open=all]
 
