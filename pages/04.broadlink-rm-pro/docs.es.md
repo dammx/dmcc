@@ -43,7 +43,11 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 
 ---
 
-[ui-accordion independent=true open=none]
+[/ui-tab]
+
+[ui-tab title="Componentes ..."]
+
+[ui-accordion independent=true open=all]
 
 [ui-accordion-item title="Broadlink RM pro | Amazon » 39,89€ - Aliexpress » 34,35€ "]
 
@@ -72,7 +76,7 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 [int-ghome]: user://pages/02.interruptores/integracion_google_home.gif
 ---
 
-[![up1_azul1]](# "Volver al Inicio")
+
 
 [/ui-tab]
 
@@ -115,3 +119,5 @@ media_player:
 [/ui-tab]
 
 [/ui-tabs]
+
+[![up1_azul1]](# "Volver al Inicio")
