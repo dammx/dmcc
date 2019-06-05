@@ -44,13 +44,13 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 + Debemos evaluar se tienen la posibilidad de conectarse con otros electrodomésticos de la casa.
 + El precio. Hay diferencias considerables entre unas marcas y otras.
 
-!!! _**Te presentamos varias opciones que pueden ser de tu interés...**_
+!!! _**Te presentamos varias opciones que pueden ser de tu interés...,mira la pestañana [Componentes](https://domotizarmicasa.com/iluminacion/bombillas-wifi#int1)**_
 
 ---
 
 [/ui-tab]
 
-[ui-tab title="Componentes ..."]
+[ui-tab title="Componentes ..." id="int1"]
 
 [ui-accordion independent=true open=all]
 
