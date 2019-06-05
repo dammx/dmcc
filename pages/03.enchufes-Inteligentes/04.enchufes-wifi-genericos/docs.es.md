@@ -87,7 +87,7 @@ Programe el Enchufe Inteligente para encender y apagar automáticamente la alime
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-merisny]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/merisny.png?lightbox=1024&cropResize=600,600
-[amzn-womdee]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/womdee.png?lightbox=1024&cropResize=500,500
+[amzn-womdee]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/womdee.png?lightbox=1024&cropResize=450,450
 [amzn-yokunat]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/Yokunat.png?lightbox=1024&cropResize=500,500
 [amzn-slitinto]: user://pages/03.enchufes-Inteligentes/04.enchufes-wifi-genericos/slitinto.png?lightbox=1024&cropResize=430,430
 [up1_azul1]: user://pages/01.introduccion-al-blog/01.home-assistant/integracion-telegram/up1_azul1.png
