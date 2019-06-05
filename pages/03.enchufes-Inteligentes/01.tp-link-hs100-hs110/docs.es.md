@@ -42,7 +42,7 @@ Para controlar ambos hay que descargar la aplicación Kasa para [iOS](https://ap
 
 ---
 
-[ui-accordion independent=true open=none]
+[ui-accordion independent=true open=all]
 
 [ui-accordion-item title="TP-Link HS100 | Amazon » 19,90€"]
 
