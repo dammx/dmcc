@@ -28,6 +28,12 @@ Hemos diseñado este blog con la intención de dar unas instrucciones sencillas
 para **integrar distintos dispositivos** domóticos en una plataforma de domótica
 de código abierto que se ejecuta en _Python3_.
 
+En cada componente encontrarás las diferentes pestañas:
+
++ Descripción y Opciones de los Componentes
++ Componentes recomendados
++ Integración y configuración para poder integrarlos en _**Google Home**_ y en _**Home Assistant**_
+
 ## Home Assistant ##
 
 ![Home Assistant](home-assistant.png)
