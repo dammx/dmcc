@@ -41,7 +41,7 @@ Los equipos de iluminación domótica son variados dependiendo de las estancias 
 - [Tiras de led Wifi](https://domotizarmicasa.com/iluminacion/tiras-de-led)
 - Lámparas de Escritorio Wifi
 - Lámparas de Noche
-- Controladores Wifi RGB/W (para tiras de led Standards)
+- [Controladores Wifi RGB/W (para tiras de led Standards)](https://domotizarmicasa.com/iluminacion/tiras-de-led)
 - Casquillos Hub Wifi
 
 
