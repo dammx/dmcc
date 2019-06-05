@@ -37,7 +37,7 @@ Con los diferentes sistemas de encendido (pulsador, App, programado, pulsando es
 Los equipos de iluminación domótica son variados dependiendo de las estancias que queramos iluminar, existen en el mercado diferentes tipos:
 
 
-- Bombillas Wifi
+- [Bombillas Wifi](https://domotizarmicasa.com/iluminacion/bombillas-wifi)
 - Tiras de led Wifi
 - Lámparas de Escritorio Wifi
 - Lámparas de Noche
