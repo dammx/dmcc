@@ -82,7 +82,7 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 
 |  |  |
 |:------|:-----------------------:|
-| <p>[**Quiet Hub De Bombilla Smart WiFi...**](https://amzn.to/2Wfiaiy)</p><p>Quiet Hub De Bombilla Smart WiFi que se integra en _**Tuya**_.</p><p>Compatible con _Alexa_ y con _Google Home_ además de que deberíamos poder integrarlas en **_Home Assistant_**.</p> | <div> ![img-500crop][amzn-quiet] </div> <div> <a href="https://amzn.to/2Wfiaiy" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
+| <p>[**Quiet Hub De Bombilla Smart WiFi...**](https://amzn.to/2Wfiaiy)</p><p>Quiet Hub De Bombilla Smart WiFi que se integra en _**Tuya**_.</p><p>Compatible con _Alexa_ y con _Google Home_ además de que deberíamos poder integrarlas en **_Home Assistant_**.</p><p> Si tienes tu propia bombilla RGB se podrá mostrar en luces de colores a través del control de la aplicación, mientras que si la bombilla que posees es ordinaria solo se podrá mostrar en luz blanca | <div> ![img-500crop][amzn-quiet] </div> <div> <a href="https://amzn.to/2Wfiaiy" alt="amazon-link" target="_blank"><button type="button" style="color:#fff;background-color:#1694CA;width:100%;height:35px;margin:5px;"><i class="fa fa-amazon fa-lg">mazon</i></button></a> </div> |
 
 [/ui-accordion-item]
 
