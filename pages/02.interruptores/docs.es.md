@@ -46,6 +46,10 @@ Pero los interruptores de luz inteligentes te otorgan un control inteligente sob
 
 ---
 
+[/ui-tab]
+
+[ui-tab title="Componentes..."]
+
 [ui-accordion independent=true open=none]
 
 [ui-accordion-item title="Sonoff Basic | Amazon » 5,81€ -  Aliexpress » 4,22€ "]
