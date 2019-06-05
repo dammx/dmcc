@@ -41,11 +41,13 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 
 + Televisores, aparatos de aire acondicionado, ventanas, reproductores de música y DVD funcionan mediante mandos a distancia. Para facilitar su uso a veces se usan versiones universales, aunque estas no son siempre compatibles con todos los electrodomésticos del hogar. **Pero esto cambia definitivamente con esta novedad de la electrónica ...**
 
+Ve a la pestaña [Componentes](https://domotizarmicasa.com/broadlink-rm-pro#int1)**_
+
 ---
 
 [/ui-tab]
 
-[ui-tab title="Componentes ..."]
+[ui-tab title="Componentes ..." id="int1"]
 
 [ui-accordion independent=true open=all]
 
