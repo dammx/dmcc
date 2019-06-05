@@ -52,11 +52,13 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 
 ![](Acuario.png)
 
+!! _**Te presentamos varias opciones que pueden ser de tu interés...,ve a la pestaña [Componentes](https://domotizarmicasa.com/enchufes-inteligentes/regletas-wifi#int1)**_
+
 ---
 
 [/ui-tab]
 
-[ui-tab title="Componentes ..."]
+[ui-tab title="Componentes ..." id="int1"]
 
 [ui-accordion independent=true open=all]
 
