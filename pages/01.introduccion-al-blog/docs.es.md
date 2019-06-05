@@ -28,7 +28,7 @@ Hemos diseñado este blog con la intención de dar unas instrucciones sencillas
 para **integrar distintos dispositivos** domóticos en una plataforma de domótica
 de código abierto que se ejecuta en _Python3_.
 
-## Home Assistant
+## Home Assistant ##
 
 ![Home Assistant](home-assistant.png)
 
