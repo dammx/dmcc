@@ -38,11 +38,13 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 > _!Convierte la iluminación de tu casa en una experiencia extraordinaria propia de una casa inteligente!_
 
+
+!! _**Te presentamos varias opciones que pueden ser de tu interés...,ve a la pestaña [Componentes](https://domotizarmicasa.com/iluminacion/tiras-de-led#int1)**_
 ---
 
 [/ui-tab]
 
-[ui-tab title="Componentes ..."]
+[ui-tab title="Componentes ..." id="int1"]
 
 [ui-accordion independent=true open=all]
 
