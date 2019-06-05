@@ -40,7 +40,11 @@ Tienen  múltiples funciones son como perfecto acompañamiento de luz para espac
 
 ---
 
-[ui-accordion independent=true open=none]
+[/ui-tab]
+
+[ui-tab title="Componentes ..."]
+
+[ui-accordion independent=true open=all]
 
 [ui-accordion-item title="Tira LED Tira Iluminación Inteligente RGB   | Amazon » 29,99€ "]
 
@@ -118,8 +122,9 @@ light:
 
 ```
 ---
-[![](up1_azul1.png)](# "Volver al Inicio")
 
 [/ui-tab]
 
 [/ui-tabs]
+
+[![](up1_azul1.png)](# "Volver al Inicio")
