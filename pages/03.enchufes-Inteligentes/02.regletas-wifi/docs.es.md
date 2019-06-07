@@ -60,11 +60,7 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 
 [ui-tab title="Componentes ..." id="int1"]
 
----
-
 [![](https://ae01.alicdn.com/kf/HTB1wDNeov5TBuNjSspc762nGFXaf/EN_725_90.png)](http://s.click.aliexpress.com/e/cnnZtglK?bz=725*90)
-
----
 
 [ui-accordion independent=true open=all]
 
