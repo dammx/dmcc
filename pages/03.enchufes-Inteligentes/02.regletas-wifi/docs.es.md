@@ -60,7 +60,7 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 
 [ui-tab title="Componentes ..." id="int1"]
 
-[![](https://ae01.alicdn.com/kf/HTB1wDNeov5TBuNjSspc762nGFXaf/EN_725_90.png)](http://s.click.aliexpress.com/e/cnnZtglK?bz=725*90)
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&amp;p=48&amp;l=ur1&amp;category=gift_certificates&amp;banner=1SYGJ5YPBSBT9BEY35G2&amp;f=ifr&amp;linkID=e36521f58c79a13100627ea16f0674b0&amp;t=domotizarmica-21&amp;tracking_id=domotizarmica-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 
 [ui-accordion independent=true open=all]
 
