@@ -62,7 +62,7 @@ Recordar que la mayoría de éstas regletas de conexión inalámbrica soportan s
 
 ---
 
-[![](https://ae01.alicdn.com/kf/HTB1TxWvwAyWBuNjy0Fp761ssXXaa/ES_120_600.png)](http://s.click.aliexpress.com/e/bbz026SG?bz=120*600)
+[![](https://ae01.alicdn.com/kf/HTB1wDNeov5TBuNjSspc762nGFXaf/EN_725_90.png)](http://s.click.aliexpress.com/e/cnnZtglK?bz=725*90)
 
 ---
 
