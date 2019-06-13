@@ -49,6 +49,8 @@ Pues bien, ahora el `Broadlink RM pro WIFI + IR + Control Remoto RF` es un dispo
 
 [ui-tab title="Componentes ..." id="int1"]
 
+<a href="http://s.click.aliexpress.com/e/cf8fRGaU?bz=468*60" target="_parent"><img width="468" height="60" src="https://github.com/dammx/dmcc/blob/master/pages/02.interruptores/cupon_aliexxpres.png?raw=true"/></a>
+
 [ui-accordion independent=true open=all]
 
 [ui-accordion-item title="Broadlink RM pro | Amazon » 39,89€ - Aliexpress » 34,35€ "]
