@@ -52,6 +52,8 @@ Las bombillas inteligentes pueden ofrecer distintas temperaturas de color. Hay q
 
 [ui-tab title="Componentes ..." id="int1"]
 
+<a href="http://s.click.aliexpress.com/e/cf8fRGaU?bz=468*60" target="_parent"><img width="468" height="60" src="https://github.com/dammx/dmcc/blob/master/pages/02.interruptores/cupon_aliexxpres.png?raw=true"/></a>
+
 [ui-accordion independent=true open=all]
 
 [ui-accordion-item title="Bombilla LED RGB 9.5W Philips Hue  | Amazon » 47,99€ "]
