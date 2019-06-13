@@ -73,6 +73,8 @@ La toma suele estar protegida electrónicamente contra **cortocircuitos**, **sob
 
 [/ui-accordion]
 
+<a href="http://s.click.aliexpress.com/e/cf8fRGaU?bz=468*60" target="_parent"><img width="468" height="60" src="https://github.com/dammx/dmcc/blob/master/pages/02.interruptores/cupon_aliexxpres.png?raw=true"/></a>
+
 <!--- REFERENCIA A IMAGENES AL PIE DEl ARTÍCULO --->
 
 [amzn-Kaifire]: user:/pages/03.enchufes-Inteligentes/03.enchufes-empotrables/Kaifire.png?lightbox=1024&cropResize=470,470
