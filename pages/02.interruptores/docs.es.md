@@ -1,6 +1,6 @@
 ---
 title: 'Interruptores Wifi'
-media_order: 'integracion_google_home.gif,sonoff_touch1.png,up1_azul1.png,vhome.png,Persiana.png,shelly11.png,sonoff_touch3.png,basic.png,touch1.png,sonoff_touch2.png,shellys.png'
+media_order: 'integracion_google_home.gif,sonoff_touch1.png,up1_azul1.png,vhome.png,Persiana.png,shelly11.png,sonoff_touch3.png,basic.png,touch1.png,sonoff_touch2.png,shellys.png,cupon_aliexxpres.png'
 metadata:
     Key(interruptores_wifi): 'Valor(domotizar,casa,interruptor,wifi,wi-fi,inteligente,luz,shelly,sonoff,cortina,persiana,aliexpress,amazon)'
 taxonomy:
@@ -21,6 +21,8 @@ visible: true
 ---
 
 ![win10](image://os-compat.png)
+
+<a href="http://s.click.aliexpress.com/e/cf8fRGaU?bz=468*60" target="_parent"><img width="468" height="60" src="https://github.com/dammx/dmcc/blob/master/pages/02.interruptores/cupon_aliexxpres.png?raw=true"/></a>
 
 [ui-tabs position="top-left" active="0" theme="lite"]
 [ui-tab title="Descripción ..."]
